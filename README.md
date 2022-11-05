@@ -40,3 +40,9 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Survey-FFD700" alt="type"/>
 
 - `TMLR22` Emergent Abilities of Large Language Models [[paper]](https://arxiv.org/abs/2206.07682)
+
+## Copyright
+
+This repository was inspired by [this paper reading list](https://github.com/Sahandfer/EMPaper).
+
+The contents of this repository are bound by the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.

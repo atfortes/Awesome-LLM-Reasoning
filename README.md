@@ -1,7 +1,7 @@
 # LM-Reasoning-Papers
 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
-![](https://img.shields.io/badge/paper%20number-27-brightgreen)
+![](https://img.shields.io/badge/paper%20number-28-brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
@@ -120,7 +120,11 @@ Language models have recently revolutionized the landscape of Natural Language P
    
     *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.* [[Paper](https://arxiv.org/abs/2110.14168)] [[Code](https://github.com/openai/grade-school-math)], 2021.10
 
-11. **CONDAQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation.** EMNLP 2022.
+11. **Lila: A Unified Benchmark for Mathematical Reasoning.** EMNLP 2022.
+
+    *Swaroop Mishra, Matthew Finlayson, Pan Lu, Leonard Tang, Sean Welleck, Chitta Baral, Tanmay Rajpurohit, Oyvind Tafjord, Ashish Sabharwal, Peter Clark, Ashwin Kalyan.* [[Paper](https://arxiv.org/abs/2210.17517)] [[Code](https://github.com/allenai/lila)], 2022.10
+
+12. **CONDAQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation.** EMNLP 2022.
   
     *Abhilasha Ravichander, Matt Gardner, Ana Marasović.* [[Paper](https://arxiv.org/abs/2211.00295)] [[Code](https://github.com/abhilasharavichander/condaqa)], 2022.11
 

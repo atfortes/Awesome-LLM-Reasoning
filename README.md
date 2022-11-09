@@ -1,7 +1,7 @@
 # LM-Reasoning-Papers
 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
-![](https://img.shields.io/badge/paper%20number-26-brightgreen)
+![](https://img.shields.io/badge/paper%20number-27-brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
@@ -120,13 +120,17 @@ Language models have recently revolutionized the landscape of Natural Language P
    
     *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman.* [[Paper](https://arxiv.org/abs/2110.14168)] [[Code](https://github.com/openai/grade-school-math)], 2021.10
 
+11. **CONDAQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation.** EMNLP 2022.
+  
+    *Abhilasha Ravichander, Matt Gardner, Ana Marasović.* [[Paper](https://arxiv.org/abs/2211.00295)] [[Code](https://github.com/abhilasharavichander/condaqa)], 2022.11
+
 ### Frameworks
 
-2. **Large Language Models Still Can't Plan.** Preprint.
+1. **Large Language Models Still Can't Plan.** Preprint.
    
     *Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, Subbarao Kambhampati.* [[Paper](https://arxiv.org/abs/2206.10498)], 2022.6
 
-1. **Retrieval Augmentation for Commonsense Reasoning: A Unified Approach.** EMNLP 2022.
+2. **Retrieval Augmentation for Commonsense Reasoning: A Unified Approach.** EMNLP 2022.
    
     *Wenhao Yu, Chenguang Zhu, Zhihan Zhang, Shuohang Wang, Zhuosheng Zhang, Yuwei Fang, Meng Jiang.* [[Paper](https://arxiv.org/abs/2210.12887)] [[Code](https://github.com/wyu97/RACo)], 2022.10
 
@@ -142,4 +146,4 @@ Language models have recently revolutionized the landscape of Natural Language P
 - Use the same format as the others to discribe the work. Note that there should be an empty line between the title and the authors list, and take care of the indentation.
 - Add the pdf link of the paper (if it is an arXiv publication, we prefer `/abs/` format to `/pdf/` format).
 
-**Don't worry if you do all of these wrong, we will fix them for you.** Just contribute and promote your awesome work here!
+**Don't worry if you do all of these wrong, they will be fixed for you.**

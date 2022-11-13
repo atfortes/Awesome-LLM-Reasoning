@@ -1,7 +1,7 @@
 # LM-Reasoning-Papers
 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
-![](https://img.shields.io/badge/paper%20number-29-brightgreen)
+![](https://img.shields.io/badge/paper%20number-31-brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
@@ -50,35 +50,43 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra.* [[Paper](https://arxiv.org/abs/2206.14858)] [[Blog](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)], 2022.6
 
-7. **Language models are multilingual chain-of-thought reasoners.** Preprint.
+7. **Rationale-Augmented Ensembles in Language Models.** Preprint.
+
+    *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Denny Zhou.* [[Paper](https://arxiv.org/abs/2207.00747)], 2022.7
+
+8. **Ask Me Anything: A simple strategy for prompting language models.** Preprint.
+
+    *Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré.* [[Paper](https://arxiv.org/abs/2210.02441)] [[Code](https://github.com/hazyresearch/ama_prompting)], 2022.10
+
+9. **Language Models are Multilingual Chain-of-Thought Reasoners.** Preprint.
    
     *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei.* [[Paper](https://arxiv.org/abs/2210.03057)], 2022.10
 
-8. **Automatic Chain of Thought Prompting in Large Language Models.** Preprint.
+10. **Automatic Chain of Thought Prompting in Large Language Models.** Preprint.
    
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola.* [[Paper](https://arxiv.org/abs/2210.03493)], 2022.10
 
-9. **ReAct: Synergizing Reasoning and Acting in Language Models.** Preprint.
+11. **ReAct: Synergizing Reasoning and Acting in Language Models.** Preprint.
    
     *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao.* [[Paper](https://arxiv.org/abs/2210.03629)] [[Blog](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)], 2022.10
 
-10. **Mind's Eye: Grounded language model reasoning through simulation.** Preprint.
+12. **Mind's Eye: Grounded language model reasoning through simulation.** Preprint.
    
     *Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M. Dai.* [[Paper](https://arxiv.org/abs/2210.05359)], 2022.10
 
-11. **Language Models of Code are Few-Shot Commonsense Learners.** Preprint.
+13. **Language Models of Code are Few-Shot Commonsense Learners.** Preprint.
    
     *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig.* [[Paper](https://arxiv.org/abs/2210.07128)] [[Code](https://github.com/madaan/cocogen)], 2022.10
 
-12. **Challenging BIG-Bench tasks and whether chain-of-thought can solve them.** Preprint.
+14. **Challenging BIG-Bench tasks and whether chain-of-thought can solve them.** Preprint.
    
     *Mirac Suzgun, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc V. Le, Ed H. Chi, Denny Zhou, Jason Wei.* [[Paper](https://arxiv.org/abs/2210.09261)], 2022.10
 
-13. **Scaling instruction-finetuned language models.** Preprint.
+15. **Scaling Instruction-Finetuned Language Models.** Preprint.
 
     *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei.* [[Paper](https://arxiv.org/abs/2210.11416)], 2022.10
 
-14. **Large Language Models Can Self-Improve.** Preprint.
+16. **Large Language Models Can Self-Improve.** Preprint.
    
     *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han.* [[Paper](https://arxiv.org/abs/2210.11610)], 2022.10
 

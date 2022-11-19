@@ -80,7 +80,7 @@ Language models have recently revolutionized the landscape of Natural Language P
 
 14. **Challenging BIG-Bench tasks and whether chain-of-thought can solve them.** Preprint.
    
-    *Mirac Suzgun, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc V. Le, Ed H. Chi, Denny Zhou, Jason Wei.* [[Paper](https://arxiv.org/abs/2210.09261)], 2022.10
+    *Mirac Suzgun, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc V. Le, Ed H. Chi, Denny Zhou, Jason Wei.* [[Paper](https://arxiv.org/abs/2210.09261)] [[Code](https://github.com/suzgunmirac/big-bench-hard)], 2022.10
 
 15. **Scaling Instruction-Finetuned Language Models.** Preprint.
 

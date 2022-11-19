@@ -74,7 +74,7 @@ Language models have recently revolutionized the landscape of Natural Language P
    
     *Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M. Dai.* [[Paper](https://arxiv.org/abs/2210.05359)], 2022.10
 
-13. **Language Models of Code are Few-Shot Commonsense Learners.** Preprint.
+13. **Language Models of Code are Few-Shot Commonsense Learners.** EMNLP 2022.
    
     *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig.* [[Paper](https://arxiv.org/abs/2210.07128)] [[Code](https://github.com/madaan/cocogen)], 2022.10
 

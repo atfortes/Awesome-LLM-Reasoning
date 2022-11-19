@@ -36,7 +36,7 @@ Language models have recently revolutionized the landscape of Natural Language P
 
 3. **Least-to-most prompting enables complex reasoning in large language models.** Preprint.
 
-    *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi.* [[Paper](https://arxiv.org/abs/2203.11171)], 2022.3
+    *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi.* [[Paper](https://arxiv.org/abs/2205.10625)], 2022.5
 
 4. **Large Language Models are Zero-Shot Reasoners.** Preprint.
    

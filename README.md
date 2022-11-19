@@ -104,7 +104,7 @@ Language models have recently revolutionized the landscape of Natural Language P
    
     *Rik Koncel-Kedziorski, Subhro Roy, Aida Amini, Nate Kushman, Hannaneh Hajishirzi.* [[Paper](https://aclanthology.org/N16-1136/)] [[Code](https://github.com/sroy9/mawps)], 2016.6
 
-4. **Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems.** Preprint.
+4. **Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems.** ACL 2017.
    
     *Wang Ling, Dani Yogatama, Chris Dyer, Phil Blunsom.* [[Paper](https://arxiv.org/abs/1705.04146)] [[Code](https://github.com/deepmind/AQuA)], 2017.5
 
@@ -142,9 +142,9 @@ Language models have recently revolutionized the landscape of Natural Language P
 
 ### Frameworks
 
-1. **Large Language Models Still Can't Plan.** Preprint.
+1. **Large Language Models Still Can't Plan.** NeurIPS 2022.
    
-    *Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, Subbarao Kambhampati.* [[Paper](https://arxiv.org/abs/2206.10498)], 2022.6
+    *Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, Subbarao Kambhampati.* [[Paper](https://arxiv.org/abs/2206.10498)] [[Code](https://github.com/karthikv792/gpt-plan-benchmark)], 2022.6
 
 2. **Retrieval Augmentation for Commonsense Reasoning: A Unified Approach.** EMNLP 2022.
    

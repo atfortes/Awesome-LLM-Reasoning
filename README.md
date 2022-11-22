@@ -96,7 +96,7 @@ Language models have recently revolutionized the landscape of Natural Language P
 
 18. **PAL: Program-aided Language Models.** Preprint.
    
-    *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig.* [[Paper](https://arxiv.org/abs/2211.10435)], 2022.11
+    *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig.* [[Project](https://reasonwithpal.com/)] [[Paper](https://arxiv.org/abs/2211.10435)] [[Code](https://github.com/reasoning-machines/pal)], 2022.11
 
 ### Datasets
 

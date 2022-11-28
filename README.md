@@ -1,7 +1,7 @@
 # LM-Reasoning-Papers
 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
-![](https://img.shields.io/badge/paper%20number-33-brightgreen)
+![](https://img.shields.io/badge/paper%20number-34-brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
@@ -97,6 +97,10 @@ Language models have recently revolutionized the landscape of Natural Language P
 18. **PAL: Program-aided Language Models.** Preprint.
    
     *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig.* [[Project](https://reasonwithpal.com/)] [[Paper](https://arxiv.org/abs/2211.10435)] [[Code](https://github.com/reasoning-machines/pal)], 2022.11
+
+19. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.** Preprint.
+
+    *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen.* [[Paper](https://arxiv.org/abs/2211.12588)] [[Code](https://github.com/wenhuchen/program-of-thoughts)], 2022.11
 
 ### Datasets
 

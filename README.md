@@ -1,7 +1,7 @@
 # LM-Reasoning-Papers
 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
-![](https://img.shields.io/badge/paper%20number-34-brightgreen)
+![](https://img.shields.io/badge/paper%20number-35-brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
@@ -13,8 +13,8 @@ List of papers related to arithmetic, commonsense and symbolic reasoning using l
   - [Introduction](#introduction)
   - [Papers](#papers)
     - [Methods](#methods)
-    - [Datasets](#datasets)
     - [Frameworks](#frameworks)
+    - [Datasets](#datasets)
     - [Surveys](#surveys)
   - [Contributing](#contributing)
 
@@ -102,6 +102,20 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen.* [[Paper](https://arxiv.org/abs/2211.12588)] [[Code](https://github.com/wenhuchen/program-of-thoughts)], 2022.11
 
+### Frameworks
+
+1. **Large Language Models Still Can't Plan.** NeurIPS 2022.
+   
+    *Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, Subbarao Kambhampati.* [[Paper](https://arxiv.org/abs/2206.10498)] [[Code](https://github.com/karthikv792/gpt-plan-benchmark)], 2022.6
+
+2. **Retrieval Augmentation for Commonsense Reasoning: A Unified Approach.** EMNLP 2022.
+   
+    *Wenhao Yu, Chenguang Zhu, Zhihan Zhang, Shuohang Wang, Zhuosheng Zhang, Yuwei Fang, Meng Jiang.* [[Paper](https://arxiv.org/abs/2210.12887)] [[Code](https://github.com/wyu97/RACo)], 2022.10
+
+3. **Unsupervised Explanation Generation via Correct Instantiations.** AAAI 2023.
+
+    *Sijie Cheng, Zhiyong Wu, Jiangjie Chen, Zhixing Li, Yang Liu, Lingpeng Kong.* [[Paper](https://arxiv.org/abs/2211.11160)], 2022.11
+
 ### Datasets
 
 1. **Learning to Solve Arithmetic Word Problems with Verb Categorization.** EMNLP 2014.
@@ -151,16 +165,6 @@ Language models have recently revolutionized the landscape of Natural Language P
 12. **CONDAQA: A Contrastive Reading Comprehension Dataset for Reasoning about Negation.** EMNLP 2022.
   
     *Abhilasha Ravichander, Matt Gardner, Ana Marasović.* [[Paper](https://arxiv.org/abs/2211.00295)] [[Code](https://github.com/abhilasharavichander/condaqa)], 2022.11
-
-### Frameworks
-
-1. **Large Language Models Still Can't Plan.** NeurIPS 2022.
-   
-    *Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, Subbarao Kambhampati.* [[Paper](https://arxiv.org/abs/2206.10498)] [[Code](https://github.com/karthikv792/gpt-plan-benchmark)], 2022.6
-
-2. **Retrieval Augmentation for Commonsense Reasoning: A Unified Approach.** EMNLP 2022.
-   
-    *Wenhao Yu, Chenguang Zhu, Zhihan Zhang, Shuohang Wang, Zhuosheng Zhang, Yuwei Fang, Meng Jiang.* [[Paper](https://arxiv.org/abs/2210.12887)] [[Code](https://github.com/wyu97/RACo)], 2022.10
 
 ### Surveys
 

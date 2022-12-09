@@ -1,7 +1,7 @@
 # LM-Reasoning-Papers
 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
-![](https://img.shields.io/badge/paper%20number-35-brightgreen)
+![](https://img.shields.io/badge/paper%20number-37-brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
@@ -101,6 +101,14 @@ Language models have recently revolutionized the landscape of Natural Language P
 19. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.** Preprint.
 
     *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen.* [[Paper](https://arxiv.org/abs/2211.12588)] [[Code](https://github.com/wenhuchen/program-of-thoughts)], 2022.11
+
+20. **Complementary Explanations for Effective In-Context Learning.** Preprint.
+
+    *Xi Ye, Srinivasan Iyer, Asli Celikyilmaz, Ves Stoyanov, Greg Durrett, Ramakanth Pasunuru.* [[Paper](https://arxiv.org/abs/2211.13892)], 2022.11
+
+21. **Distilling Multi-Step Reasoning Capabilities of Large Language Models into Smaller Models via Semantic Decompositions.** Preprint.
+
+    *Kumar Shridhar, Alessandro Stolfo, Mrinmaya Sachan.* [[Paper](https://arxiv.org/abs/2212.00193)], 2022.12
 
 ### Frameworks
 

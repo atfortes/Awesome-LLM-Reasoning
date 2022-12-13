@@ -76,7 +76,7 @@ Language models have recently revolutionized the landscape of Natural Language P
 
 13. **ReAct: Synergizing Reasoning and Acting in Language Models.** Preprint.
    
-    *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao.* [[Project]([https://arxiv.org/abs/2210.03629](https://react-lm.github.io/))] [[Paper](https://arxiv.org/abs/2210.03629)] [[Code](https://github.com/ysymyth/ReAct)] [[Blog](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)], 2022.10
+    *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao.* [[Project](https://react-lm.github.io/)] [[Paper](https://arxiv.org/abs/2210.03629)] [[Code](https://github.com/ysymyth/ReAct)] [[Blog](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)], 2022.10
 
 14. **Mind's Eye: Grounded language model reasoning through simulation.** Preprint.
    

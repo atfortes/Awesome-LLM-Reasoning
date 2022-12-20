@@ -1,4 +1,4 @@
-# LM-Reasoning-Papers
+# Chain-of-Thought-Reasoning-Papers
 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
 ![](https://img.shields.io/badge/paper%20number-38-brightgreen)
@@ -9,7 +9,7 @@
 
 List of papers related to arithmetic, commonsense and symbolic reasoning using language models.
 
-- [LM-Reasoning-Papers](#lm-reasoning-papers)
+- [Chain-of-Thought-Reasoning-Papers](#chain-of-thought-reasoning-papers)
   - [Introduction](#introduction)
   - [Papers](#papers)
     - [Methods](#methods)

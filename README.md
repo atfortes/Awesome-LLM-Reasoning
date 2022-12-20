@@ -1,7 +1,7 @@
 # Chain-of-Thought-Reasoning-Papers
 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
-![](https://img.shields.io/badge/paper%20number-38-brightgreen)
+![](https://img.shields.io/badge/paper%20number-43-brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
@@ -14,7 +14,7 @@ List of papers related to arithmetic, commonsense and symbolic reasoning using l
   - [Papers](#papers)
     - [Methods](#methods)
     - [Frameworks](#frameworks)
-    - [Datasets](#datasets)
+    - [Benchmarks](#benchmarks)
     - [Surveys](#surveys)
   - [Contributing](#contributing)
 
@@ -114,6 +114,18 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Kumar Shridhar, Alessandro Stolfo, Mrinmaya Sachan.* [[Paper](https://arxiv.org/abs/2212.00193)], 2022.12
 
+23. **Teaching Small Language Models to Reason.** Preprint.
+
+    *Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn.* [[Paper](https://arxiv.org/abs/2212.08410)], 2022.12
+
+24. **MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text Generation.** Preprint.
+
+    *Swarnadeep Saha, Xinyan Velocity Yu, Mohit Bansal, Ramakanth Pasunuru, Asli Celikyilmaz.* [[Paper](https://arxiv.org/abs/2212.08607)], 2022.12
+
+25. **Large Language Models are reasoners with Self-Verification.** Preprint.
+
+    *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[Paper](https://arxiv.org/abs/2212.09561)] [[Code](https://github.com/WENGSYX/Self-Verification)], 2022.12
+
 ### Frameworks
 
 1. **Large Language Models Still Can't Plan.** NeurIPS 2022.
@@ -128,7 +140,7 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Sijie Cheng, Zhiyong Wu, Jiangjie Chen, Zhixing Li, Yang Liu, Lingpeng Kong.* [[Paper](https://arxiv.org/abs/2211.11160)], 2022.11
 
-### Datasets
+### Benchmarks
 
 1. **Learning to Solve Arithmetic Word Problems with Verb Categorization.** EMNLP 2014.
    
@@ -178,11 +190,19 @@ Language models have recently revolutionized the landscape of Natural Language P
   
     *Abhilasha Ravichander, Matt Gardner, Ana Marasović.* [[Paper](https://arxiv.org/abs/2211.00295)] [[Code](https://github.com/abhilasharavichander/condaqa)], 2022.11
 
+13. **ALERT: Adapting Language Models to Reasoning Tasks.** Preprint.
+
+    *Ping Yu, Tianlu Wang, Olga Golovneva, Badr Alkhamissy, Gargi Ghosh, Mona Diab, Asli Celikyilmaz.* [[Paper](https://arxiv.org/abs/2212.08286)], 2022.12
+
 ### Surveys
 
 1. **Emergent Abilities of Large Language Models.** TMLR 2022.
    
     *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus.* [[Paper](https://arxiv.org/abs/2206.07682)] [[Blog](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)], 2022.6
+
+2. **Reasoning with Language Model Prompting: A Survey.** Preprint.
+
+    *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen.* [[Paper](https://arxiv.org/pdf/2212.09597.pdf)], 2022.12
 
 ## Contributing
 

@@ -12,10 +12,10 @@ List of papers related to arithmetic, commonsense and symbolic reasoning using l
 - [Chain-of-Thought-Reasoning-Papers](#chain-of-thought-reasoning-papers)
   - [Introduction](#introduction)
   - [Papers](#papers)
-    - [Methods](#methods)
+    - [Surveys](#surveys)
+    - [Techniques](#techniques)
     - [Frameworks](#frameworks)
     - [Benchmarks](#benchmarks)
-    - [Surveys](#surveys)
   - [Contributing](#contributing)
 
 ## Introduction
@@ -24,7 +24,17 @@ Language models have recently revolutionized the landscape of Natural Language P
 
 ## Papers
 
-### Methods
+### Surveys
+
+1. **Emergent Abilities of Large Language Models.** TMLR 2022.
+   
+    *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus.* [[Paper](https://arxiv.org/abs/2206.07682)] [[Blog](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)], 2022.6
+
+2. **Reasoning with Language Model Prompting: A Survey.** Preprint.
+
+    *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen.* [[Paper](https://arxiv.org/pdf/2212.09597.pdf)], 2022.12
+
+### Techniques
 
 1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** NeurIPS 2022.
 
@@ -193,16 +203,6 @@ Language models have recently revolutionized the landscape of Natural Language P
 13. **ALERT: Adapting Language Models to Reasoning Tasks.** Preprint.
 
     *Ping Yu, Tianlu Wang, Olga Golovneva, Badr Alkhamissy, Gargi Ghosh, Mona Diab, Asli Celikyilmaz.* [[Paper](https://arxiv.org/abs/2212.08286)], 2022.12
-
-### Surveys
-
-1. **Emergent Abilities of Large Language Models.** TMLR 2022.
-   
-    *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus.* [[Paper](https://arxiv.org/abs/2206.07682)] [[Blog](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html)], 2022.6
-
-2. **Reasoning with Language Model Prompting: A Survey.** Preprint.
-
-    *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen.* [[Paper](https://arxiv.org/pdf/2212.09597.pdf)], 2022.12
 
 ## Contributing
 

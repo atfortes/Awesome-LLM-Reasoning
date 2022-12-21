@@ -1,15 +1,20 @@
-# Chain-of-Thought-Reasoning-Papers
+# LM-Reasoning-Papers
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/jeffhj/LM-reasoning) 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
 ![](https://img.shields.io/badge/paper%20number-43-brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers)
-![](https://img.shields.io/badge/PRs-Welcome-red)
+<!-- ![](https://img.shields.io/badge/PRs-Welcome-red) -->
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers) -->
+
+This repository contains a collection of papers and resources on ***Reasoning using Language Models***.
+
+>Feel free to contribute with missing papers (refer to [Contributing](#contributing)).
+
+Author: [Armando Fortes](https://atfortes.github.io/) @THU
 
 ## Contents
 
-List of papers related to arithmetic, commonsense and symbolic reasoning using language models.
-
-- [Chain-of-Thought-Reasoning-Papers](#chain-of-thought-reasoning-papers)
+- [LM-Reasoning-Papers](#lm-reasoning-papers)
   - [Introduction](#introduction)
   - [Papers](#papers)
     - [Surveys](#surveys)

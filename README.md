@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/jeffhj/LM-reasoning) 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
-![](https://img.shields.io/badge/paper%20number-43-brightgreen)
+![](https://img.shields.io/badge/paper%20number-44-brightgreen)
 <!-- ![](https://img.shields.io/badge/PRs-Welcome-red) -->
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers) -->
 
@@ -140,6 +140,10 @@ Language models have recently revolutionized the landscape of Natural Language P
 25. **Large Language Models are reasoners with Self-Verification.** Preprint.
 
     *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[Paper](https://arxiv.org/abs/2212.09561)] [[Code](https://github.com/WENGSYX/Self-Verification)], 2022.12
+
+26. **Language Models as Inductive Reasoners.** Preprint.
+
+    *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* [[Paper](https://arxiv.org/abs/2212.10923)], 2022.12
 
 ### Frameworks
 

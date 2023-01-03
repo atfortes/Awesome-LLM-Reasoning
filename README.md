@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/jeffhj/LM-reasoning) 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
-![](https://img.shields.io/badge/paper%20number-44-brightgreen)
+![](https://img.shields.io/badge/paper%20number-45-brightgreen)
 <!-- ![](https://img.shields.io/badge/PRs-Welcome-red) -->
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers) -->
 
@@ -85,69 +85,69 @@ Language models have recently revolutionized the landscape of Natural Language P
    
     *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei.* [[Paper](https://arxiv.org/abs/2210.03057)], 2022.10
 
-12. **Automatic Chain of Thought Prompting in Large Language Models.** Preprint.
+12. **Measuring and Narrowing the Compositionality Gap in Language Models.** Preprint.
+
+    *Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis.* [[Paper](https://arxiv.org/abs/2210.03350)], 2022.10
+
+13. **Automatic Chain of Thought Prompting in Large Language Models.** Preprint.
    
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola.* [[Paper](https://arxiv.org/abs/2210.03493)], 2022.10
 
-13. **ReAct: Synergizing Reasoning and Acting in Language Models.** Preprint.
+14. **ReAct: Synergizing Reasoning and Acting in Language Models.** Preprint.
    
     *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao.* [[Project](https://react-lm.github.io/)] [[Paper](https://arxiv.org/abs/2210.03629)] [[Code](https://github.com/ysymyth/ReAct)] [[Blog](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)], 2022.10
 
-14. **Mind's Eye: Grounded language model reasoning through simulation.** Preprint.
+15. **Mind's Eye: Grounded language model reasoning through simulation.** Preprint.
    
     *Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu, Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M. Dai.* [[Paper](https://arxiv.org/abs/2210.05359)], 2022.10
 
-15. **Language Models of Code are Few-Shot Commonsense Learners.** EMNLP 2022.
+16. **Language Models of Code are Few-Shot Commonsense Learners.** EMNLP 2022.
    
     *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig.* [[Paper](https://arxiv.org/abs/2210.07128)] [[Code](https://github.com/madaan/cocogen)], 2022.10
 
-16. **Challenging BIG-Bench tasks and whether chain-of-thought can solve them.** Preprint.
+17. **Challenging BIG-Bench tasks and whether chain-of-thought can solve them.** Preprint.
    
     *Mirac Suzgun, Nathan Scales, Nathanael Schärli, Sebastian Gehrmann, Yi Tay, Hyung Won Chung, Aakanksha Chowdhery, Quoc V. Le, Ed H. Chi, Denny Zhou, Jason Wei.* [[Paper](https://arxiv.org/abs/2210.09261)] [[Code](https://github.com/suzgunmirac/big-bench-hard)], 2022.10
 
-17. **Scaling Instruction-Finetuned Language Models.** Preprint.
+18. **Scaling Instruction-Finetuned Language Models.** Preprint.
 
     *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei.* [[Paper](https://arxiv.org/abs/2210.11416)], 2022.10
 
-18. **Large Language Models Can Self-Improve.** Preprint.
+19. **Large Language Models Can Self-Improve.** Preprint.
    
     *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han.* [[Paper](https://arxiv.org/abs/2210.11610)], 2022.10
 
-19. **PAL: Program-aided Language Models.** Preprint.
+20. **PAL: Program-aided Language Models.** Preprint.
    
     *Luyu Gao, Aman Madaan, Shuyan Zhou, Uri Alon, Pengfei Liu, Yiming Yang, Jamie Callan, Graham Neubig.* [[Project](https://reasonwithpal.com/)] [[Paper](https://arxiv.org/abs/2211.10435)] [[Code](https://github.com/reasoning-machines/pal)], 2022.11
 
-20. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.** Preprint.
+21. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.** Preprint.
 
     *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen.* [[Paper](https://arxiv.org/abs/2211.12588)] [[Code](https://github.com/wenhuchen/program-of-thoughts)], 2022.11
 
-21. **Complementary Explanations for Effective In-Context Learning.** Preprint.
+22. **Complementary Explanations for Effective In-Context Learning.** Preprint.
 
     *Xi Ye, Srinivasan Iyer, Asli Celikyilmaz, Ves Stoyanov, Greg Durrett, Ramakanth Pasunuru.* [[Paper](https://arxiv.org/abs/2211.13892)], 2022.11
 
-22. **Distilling Multi-Step Reasoning Capabilities of Large Language Models into Smaller Models via Semantic Decompositions.** Preprint.
+23. **Distilling Multi-Step Reasoning Capabilities of Large Language Models into Smaller Models via Semantic Decompositions.** Preprint.
 
     *Kumar Shridhar, Alessandro Stolfo, Mrinmaya Sachan.* [[Paper](https://arxiv.org/abs/2212.00193)], 2022.12
 
-23. **Teaching Small Language Models to Reason.** Preprint.
+24. **Teaching Small Language Models to Reason.** Preprint.
 
     *Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn.* [[Paper](https://arxiv.org/abs/2212.08410)], 2022.12
 
-24. **MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text Generation.** Preprint.
+25. **MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text Generation.** Preprint.
 
     *Swarnadeep Saha, Xinyan Velocity Yu, Mohit Bansal, Ramakanth Pasunuru, Asli Celikyilmaz.* [[Paper](https://arxiv.org/abs/2212.08607)], 2022.12
 
-25. **Large Language Models are reasoners with Self-Verification.** Preprint.
+26. **Large Language Models are reasoners with Self-Verification.** Preprint.
 
     *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[Paper](https://arxiv.org/abs/2212.09561)] [[Code](https://github.com/WENGSYX/Self-Verification)], 2022.12
 
-26. **Language Models as Inductive Reasoners.** Preprint.
+27. **Language Models as Inductive Reasoners.** Preprint.
 
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* [[Paper](https://arxiv.org/abs/2212.10923)], 2022.12
-    
-27. **Measuring and Narrowing the Compositionality Gap in Language Models.** Preprint.
-
-    *Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis.* [[Paper](https://arxiv.org/abs/2210.03350)], 2022.10
 
 ### Frameworks
 
@@ -219,8 +219,15 @@ Language models have recently revolutionized the landscape of Natural Language P
 
 ## Contributing
 
-- Think about which category the work should belong to.
-- Use the same format as the others to discribe the work. Note that there should be an empty line between the title and the authors list, and take care of the indentation.
-- Add the pdf link of the paper (if it is an arXiv publication, we prefer `/abs/` format to `/pdf/` format).
+- Add a new paper or update an existing paper, thinking about which category the work should belong to.
+- Use the same format as existing entries to describe the work.
+- Add the abstract link of the paper (`/abs/` format if it is an arXiv publication).
+- Modify the `paper number` on the top of the page  accordingly and submit your pull request.
 
-**Don't worry if you do all of these wrong, they will be fixed for you.**
+**Don't worry if you do something wrong, it will be fixed for you!**
+
+### Contributors
+
+<a href="https://github.com/atfortes/LM-Reasoning-Papers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=atfortes/LM-Reasoning-Papers" />
+</a>

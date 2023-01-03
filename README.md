@@ -144,6 +144,10 @@ Language models have recently revolutionized the landscape of Natural Language P
 26. **Language Models as Inductive Reasoners.** Preprint.
 
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* [[Paper](https://arxiv.org/abs/2212.10923)], 2022.12
+    
+27. **Measuring and Narrowing the Compositionality Gap in Language Models.** Preprint.
+
+    *Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, Mike Lewis.* [[Paper](https://arxiv.org/abs/2210.03350)], 2022.10
 
 ### Frameworks
 

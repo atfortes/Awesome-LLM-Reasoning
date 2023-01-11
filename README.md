@@ -18,7 +18,7 @@ Collection of papers and resources on ***Reasoning using Language Models***.
   - [Techniques](#techniques)
 - [Benchmarks](#-benchmarks)
 - [Other Resources](#-other-resources)
-- [Contributing](#contributing)
+- [Contributing](#-contributing)
 
 ## 👋 Introduction
 
@@ -154,20 +154,28 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Swarnadeep Saha, Xinyan Velocity Yu, Mohit Bansal, Ramakanth Pasunuru, Asli Celikyilmaz.* [[Paper](https://arxiv.org/abs/2212.08607)], 2022.12
 
-29. **Large Language Models are reasoners with Self-Verification.** Preprint.
+29. **Can Retriever-Augmented Language Models Reason? The Blame Game Between the Retriever and the Language Model.** Preprint.
+
+    *Parishad BehnamGhader, Santiago Miret, Siva Reddy.* [[Paper](https://arxiv.org/abs/2212.09146)] [[Code](https://github.com/McGill-NLP/retriever-lm-reasoning)], 2022.12
+
+30. **Large Language Models are reasoners with Self-Verification.** Preprint.
 
     *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[Paper](https://arxiv.org/abs/2212.09561)] [[Code](https://github.com/WENGSYX/Self-Verification)], 2022.12
 
-30. **Language Models as Inductive Reasoners.** Preprint.
+31. **Language Models as Inductive Reasoners.** Preprint.
 
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* [[Paper](https://arxiv.org/abs/2212.10923)], 2022.12
 
-## 🏋️ Benchmarks
+32. **Rethinking with Retrieval: Faithful Large Language Model Inference.** Preprint.
+
+    *Hangfeng He, Hongming Zhang, Dan Roth.* [[Paper](https://arxiv.org/abs/2301.00303)], 2023.01
+
+## 🎯 Benchmarks
 
 |     Reasoning Skills      | Benchmarks                                                   |
 | :-----------------------: | ------------------------------------------------------------ |
 | **Arithmetic Reasoning**  | [GSM8K](https://arxiv.org/abs/2110.14168), [SVAMP](https://aclanthology.org/2021.naacl-main.168), [ASDiv](https://aclanthology.org/2020.acl-main.92/), [AQuA](https://aclanthology.org/P17-1015/), [MAWPS](https://aclanthology.org/N16-1136/), [AddSub](https://aclanthology.org/D14-1058/), [MultiArith](https://aclanthology.org/D15-1202/), [SingleEq](https://aclanthology.org/Q15-1042/), [SingleOp]( https://doi.org/10.1162/tacl_a_00118), [Lila](https://arxiv.org/abs/2210.17517) |
-| **Commonsense Reasoning** | [CommonsenseQA](https://aclanthology.org/N19-1421/), [StrategyQA](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00370/100680/Did-Aristotle-Use-a-Laptop-A-Question-Answering), [ARC](https://arxiv.org/abs/1803.05457), [SayCan](https://arxiv.org/abs/2204.01691), [BoolQA](https://aclanthology.org/N19-1300/), [HotpotQA](https://aclanthology.org/D18-1259/), [OpenBookQA](https://aclanthology.org/D18-1260/), [PIQA](https://yonatanbisk.com/piqa/) |
+| **Commonsense Reasoning** | [CommonsenseQA](https://arxiv.org/abs/1811.00937), [StrategyQA](https://arxiv.org/abs/2101.02235), [ARC](https://arxiv.org/abs/1803.05457), [BoolQ](https://arxiv.org/abs/1905.10044), [HotpotQA](https://arxiv.org/abs/1809.09600), [OpenBookQA](https://arxiv.org/abs/1809.02789), [PIQA](https://arxiv.org/abs/1911.11641) |
 |  **Symbolic Reasoning**   | [Coin Flip](https://arxiv.org/abs/2201.11903), [Last Letter Concatenation](https://arxiv.org/abs/2201.11903) |
 |  **Logical Reasoning**   | [ReClor](https://arxiv.org/abs/2002.04326), [LogiQA](https://arxiv.org/abs/2007.08124), [ProofWriter](https://arxiv.org/abs/2012.13048) |
 | **Multimodal Reasoning**  | [SCIENCEQA](https://arxiv.org/abs/2209.09513) |
@@ -183,7 +191,6 @@ Language models have recently revolutionized the landscape of Natural Language P
 - Add a new paper or update an existing paper, thinking about which category the work should belong to.
 - Use the same format as existing entries to describe the work.
 - Add the abstract link of the paper (`/abs/` format if it is an arXiv publication).
-- Modify the `paper number` on the top of the page  accordingly and submit your pull request.
 
 **Don't worry if you do something wrong, it will be fixed for you!**
 

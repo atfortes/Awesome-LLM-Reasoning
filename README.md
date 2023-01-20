@@ -1,4 +1,4 @@
-# LM-Reasoning-Papers
+# Language-Model-Reasoning
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/jeffhj/LM-reasoning) 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)

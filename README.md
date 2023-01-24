@@ -189,7 +189,11 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* [[Paper](https://arxiv.org/abs/2212.10923)], 2022.12
 
-32. **Rethinking with Retrieval: Faithful Large Language Model Inference.** `Preprint`
+32. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language.** `Preprint`
+
+    *Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran.* [[Paper](https://arxiv.org/abs/2212.13894)], 2022.12
+
+33. **Rethinking with Retrieval: Faithful Large Language Model Inference.** `Preprint`
 
     *Hangfeng He, Hongming Zhang, Dan Roth.* [[Paper](https://arxiv.org/abs/2301.00303)], 2023.1
 

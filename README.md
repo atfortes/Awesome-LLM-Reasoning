@@ -197,6 +197,10 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Hangfeng He, Hongming Zhang, Dan Roth.* [[Paper](https://arxiv.org/abs/2301.00303)], 2023.1
 
+34. **Specializing Smaller Language Models towards Multi-Step Reasoning.** `Preprint`
+
+    *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot.* [[Paper](https://arxiv.org/abs/2301.12726)], 2023.1
+
 ## 🎯 Benchmarks
 
 |     Reasoning Skills      | Benchmarks                                                   |

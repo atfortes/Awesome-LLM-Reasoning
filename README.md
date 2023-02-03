@@ -63,6 +63,10 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Kyle Mahowald, Anna A. Ivanova, Idan A. Blank, Nancy Kanwisher, Joshua B. Tenenbaum, Evelina Fedorenko.* [[Paper](https://arxiv.org/abs/2301.06627)], 2023.1
 
+7. **Large Language Models Can Be Easily Distracted by Irrelevant Context.** `Preprint`
+
+    *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou.* [[Paper](https://arxiv.org/abs/2302.00093)], 2023.1
+
 ### Technique
 
 1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** `NeurIPS 2022`
@@ -200,6 +204,14 @@ Language models have recently revolutionized the landscape of Natural Language P
 34. **Specializing Smaller Language Models towards Multi-Step Reasoning.** `Preprint`
 
     *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot.* [[Paper](https://arxiv.org/abs/2301.12726)], 2023.1
+
+35. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.** `Preprint`
+
+    *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.* [[Paper](https://arxiv.org/abs/2302.00618)], 2023.2
+
+36. **Multimodal Chain-of-Thought Reasoning in Language Models.** `Preprint`
+
+    *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.* [[Paper](https://arxiv.org/abs/2302.00923)] [[Code](https://github.com/amazon-science/mm-cot)], 2023.2
 
 ## 🎯 Benchmarks
 

@@ -1,6 +1,6 @@
 # Reasoning using Language Models
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/jeffhj/LM-reasoning) 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/atfortes/LM-Reasoning-Papers) 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 <!-- ![](https://img.shields.io/badge/paper%20number-45-brightgreen) -->

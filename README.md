@@ -189,31 +189,35 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu, Jun Zhao.* [[Paper](https://arxiv.org/abs/2212.09561)] [[Code](https://github.com/WENGSYX/Self-Verification)], 2022.12
 
-31. **Language Models as Inductive Reasoners.** `Preprint`
+31. **Large Language Models Are Reasoning Teachers.** `Preprint`
+
+    *Namgyu Ho, Laura Schmid, Se-Young Yun.* [[Paper](https://arxiv.org/abs/2212.10071)], 2022.10
+
+32. **Language Models as Inductive Reasoners.** `Preprint`
 
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* [[Paper](https://arxiv.org/abs/2212.10923)], 2022.12
 
-32. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language.** `Preprint`
+33. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language.** `Preprint`
 
     *Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran.* [[Paper](https://arxiv.org/abs/2212.13894)], 2022.12
 
-33. **Rethinking with Retrieval: Faithful Large Language Model Inference.** `Preprint`
+34. **Rethinking with Retrieval: Faithful Large Language Model Inference.** `Preprint`
 
     *Hangfeng He, Hongming Zhang, Dan Roth.* [[Paper](https://arxiv.org/abs/2301.00303)], 2023.1
 
-34. **Specializing Smaller Language Models towards Multi-Step Reasoning.** `Preprint`
+35. **Specializing Smaller Language Models towards Multi-Step Reasoning.** `Preprint`
 
     *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot.* [[Paper](https://arxiv.org/abs/2301.12726)], 2023.1
 
-35. **Faithful Chain-of-Thought Reasoning.** `Preprint`
+36. **Faithful Chain-of-Thought Reasoning.** `Preprint`
 
     *Qing Lyu, Shreya Havaldar, Adam Stein, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki, Chris Callison-Burch.* [[Paper](https://arxiv.org/abs/2301.13379)], 2023.1
 
-36. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.** `Preprint`
+37. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.** `Preprint`
 
     *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.* [[Paper](https://arxiv.org/abs/2302.00618)], 2023.2
 
-37. **Multimodal Chain-of-Thought Reasoning in Language Models.** `Preprint`
+38. **Multimodal Chain-of-Thought Reasoning in Language Models.** `Preprint`
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.* [[Paper](https://arxiv.org/abs/2302.00923)] [[Code](https://github.com/amazon-science/mm-cot)], 2023.2
 

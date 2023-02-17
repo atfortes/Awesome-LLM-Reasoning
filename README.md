@@ -3,8 +3,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/atfortes/LM-Reasoning-Papers) 
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
-<!-- ![](https://img.shields.io/badge/paper%20number-45-brightgreen) -->
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=atfortes/LM-Reasoning-Papers) -->
 
 Collection of papers and resources on ***Reasoning using Language Models***.
 
@@ -12,22 +10,19 @@ Collection of papers and resources on ***Reasoning using Language Models***.
 
 ## Contents
 
-- [Introduction](#-introduction)
-- [Papers](#-papers)
-  - [Survey](#survey)
-  - [Analysis](#analysis)
-  - [Technique](#technique)
-- [Benchmarks](#-benchmarks)
-- [Other Resources](#-other-resources)
-- [Contributing](#-contributing)
+ - [Introduction](#introduction)
+ - [Survey](#survey)
+ - [Analysis](#analysis)
+ - [Technique](#technique)
+ - [Benchmark](#benchmark)
+ - [Other Resources](#other-resources)
+ - [Contributing](#contributing)
 
-## 👋 Introduction
+## Introduction
 
 Language models have recently revolutionized the landscape of Natural Language Processing, and scaling them up in size has been shown to confer several benefits, such as improved performance and sample efficiency. However, increasing model size alone has not proved sufficient for achieving high performance on challenging reasoning tasks, such as solving arithmetic problems or answering commonsense questions. This repository contains a collection of papers and resources which explore how the reasoning ability of language models can be unlocked.
 
-## 📄 Papers
-
-### Survey
+## Survey
 
 1. **Reasoning with Language Model Prompting: A Survey.** `Preprint`
 
@@ -37,7 +32,7 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Jie Huang, Kevin Chen-Chuan Chang.* [[Paper](https://arxiv.org/abs/2212.10403)], 2022.12
 
-### Analysis
+## Analysis
 
 1. **Can language models learn from explanations in context?.** `EMNLP 2022`
 
@@ -71,7 +66,7 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung.* [[Paper](https://arxiv.org/abs/2302.04023)], 2023.2
 
-### Technique
+## Technique
 
 1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** `NeurIPS 2022`
 
@@ -225,24 +220,26 @@ Language models have recently revolutionized the landscape of Natural Language P
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.* [[Paper](https://arxiv.org/abs/2302.00923)] [[Code](https://github.com/amazon-science/mm-cot)], 2023.2
 
-## 🎯 Benchmarks
+## Benchmark
 
-|     Reasoning Skills      | Benchmarks                                                   |
-| :-----------------------: | ------------------------------------------------------------ |
-| **Arithmetic Reasoning**  | [GSM8K](https://arxiv.org/abs/2110.14168), [SVAMP](https://aclanthology.org/2021.naacl-main.168), [ASDiv](https://aclanthology.org/2020.acl-main.92/), [AQuA](https://aclanthology.org/P17-1015/), [MAWPS](https://aclanthology.org/N16-1136/), [AddSub](https://aclanthology.org/D14-1058/), [MultiArith](https://aclanthology.org/D15-1202/), [SingleEq](https://aclanthology.org/Q15-1042/), [SingleOp]( https://doi.org/10.1162/tacl_a_00118), [Lila](https://arxiv.org/abs/2210.17517) |
-| **Commonsense Reasoning** | [CommonsenseQA](https://arxiv.org/abs/1811.00937), [StrategyQA](https://arxiv.org/abs/2101.02235), [ARC](https://arxiv.org/abs/1803.05457), [BoolQ](https://arxiv.org/abs/1905.10044), [HotpotQA](https://arxiv.org/abs/1809.09600), [OpenBookQA](https://arxiv.org/abs/1809.02789), [PIQA](https://arxiv.org/abs/1911.11641) |
-|  **Symbolic Reasoning**   | [Coin Flip](https://arxiv.org/abs/2201.11903), [Last Letter Concatenation](https://arxiv.org/abs/2201.11903) |
-|  **Logical Reasoning**   | [ReClor](https://arxiv.org/abs/2002.04326), [LogiQA](https://arxiv.org/abs/2007.08124), [ProofWriter](https://arxiv.org/abs/2012.13048) |
+|     **Reasoning Skill**      | **Benchmarks**                                                   |
+| :-----------------------: | :------------------------------------------------------------: |
+| **Arithmetic Reasoning**  | [GSM8K](https://arxiv.org/abs/2110.14168)  [SVAMP](https://aclanthology.org/2021.naacl-main.168)  [ASDiv](https://aclanthology.org/2020.acl-main.92/)  [AQuA](https://aclanthology.org/P17-1015/)  [MAWPS](https://aclanthology.org/N16-1136/)  [AddSub](https://aclanthology.org/D14-1058/)  [MultiArith](https://aclanthology.org/D15-1202/)  [SingleEq](https://aclanthology.org/Q15-1042/)  [SingleOp]( https://doi.org/10.1162/tacl_a_00118)  [Lila](https://arxiv.org/abs/2210.17517) |
+| **Commonsense Reasoning** | [CommonsenseQA](https://arxiv.org/abs/1811.00937)  [StrategyQA](https://arxiv.org/abs/2101.02235)  [ARC](https://arxiv.org/abs/1803.05457)  [BoolQ](https://arxiv.org/abs/1905.10044)  [HotpotQA](https://arxiv.org/abs/1809.09600)  [OpenBookQA](https://arxiv.org/abs/1809.02789)  [PIQA](https://arxiv.org/abs/1911.11641) |
+|  **Symbolic Reasoning**   | [CoinFlip](https://arxiv.org/abs/2201.11903)  [LastLetterConcatenation](https://arxiv.org/abs/2201.11903) |
+|  **Logical Reasoning**   | [ReClor](https://arxiv.org/abs/2002.04326)  [LogiQA](https://arxiv.org/abs/2007.08124)  [ProofWriter](https://arxiv.org/abs/2012.13048) |
 | **Multimodal Reasoning**  | [SCIENCEQA](https://arxiv.org/abs/2209.09513) |
-|        **Others**         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615), [ALERT](https://arxiv.org/abs/2212.08286), [CONDAQA](https://arxiv.org/abs/2211.00295), [SCAN](https://arxiv.org/abs/1711.00350) |
+|        **Other**         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615)  [ALERT](https://arxiv.org/abs/2212.08286)  [CONDAQA](https://arxiv.org/abs/2211.00295)  [SCAN](https://arxiv.org/abs/1711.00350) |
 
-## 🔧 Other Resources
+## Other Resources
 
-- **[ThoughtSource](https://github.com/OpenBioLink/ThoughtSource)**: Central and open resource for data and tools related to chain-of-thought reasoning in large language models.
-- **[Cascades](https://github.com/google-research/cascades)**: Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
-- **[LogiTorch](https://github.com/LogiTorch/logitorch)**: PyTorch-based library for logical reasoning on natural language.
+| **Resource** | **Description** |
+| :------: | :---------- |
+| **[ThoughtSource](https://github.com/OpenBioLink/ThoughtSource)** | Central and open resource for data and tools related to chain-of-thought reasoning in large language models. |
+| **[Cascades](https://github.com/google-research/cascades)** | Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more. |
+| **[LogiTorch](https://github.com/LogiTorch/logitorch)** | PyTorch-based library for logical reasoning on natural language. |
 
-## 👥 Contributing
+## Contributing
 
 - Add a new paper or update an existing paper, thinking about which category the work should belong to.
 - Use the same format as existing entries to describe the work.

@@ -1,6 +1,7 @@
 # Reasoning using Language Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/atfortes/LM-Reasoning-Papers) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 

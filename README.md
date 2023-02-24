@@ -125,7 +125,7 @@ Language models have recently revolutionized the landscape of Natural Language P
    
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola.* [[Paper](https://arxiv.org/abs/2210.03493)], 2022.10
 
-15. **ReAct: Synergizing Reasoning and Acting in Language Models.** `Preprint`
+15. **ReAct: Synergizing Reasoning and Acting in Language Models.** `NeurIPS 2022 Workshop FMDM`
    
     *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao.* [[Project](https://react-lm.github.io/)] [[Paper](https://arxiv.org/abs/2210.03629)] [[Code](https://github.com/ysymyth/ReAct)] [[Blog](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)], 2022.10
 
@@ -191,35 +191,43 @@ Language models have recently revolutionized the landscape of Natural Language P
 
 31. **Large Language Models Are Reasoning Teachers.** `Preprint`
 
-    *Namgyu Ho, Laura Schmid, Se-Young Yun.* [[Paper](https://arxiv.org/abs/2212.10071)], 2022.10
+    *Namgyu Ho, Laura Schmid, Se-Young Yun.* [[Paper](https://arxiv.org/abs/2212.10071)], 2022.12
 
-32. **Language Models as Inductive Reasoners.** `Preprint`
+32. **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions.** `Preprint`
+
+    *Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal.* [[Paper](https://arxiv.org/abs/2212.10509)] [[Code](https://github.com/StonyBrookNLP/ircot)], 2022.12
+
+33. **Language Models as Inductive Reasoners.** `Preprint`
 
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* [[Paper](https://arxiv.org/abs/2212.10923)], 2022.12
 
-33. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language.** `Preprint`
+34. **LAMBADA: Backward Chaining for Automated Reasoning in Natural Language.** `Preprint`
 
     *Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran.* [[Paper](https://arxiv.org/abs/2212.13894)], 2022.12
 
-34. **Rethinking with Retrieval: Faithful Large Language Model Inference.** `Preprint`
+35. **Rethinking with Retrieval: Faithful Large Language Model Inference.** `Preprint`
 
     *Hangfeng He, Hongming Zhang, Dan Roth.* [[Paper](https://arxiv.org/abs/2301.00303)], 2023.1
 
-35. **Specializing Smaller Language Models towards Multi-Step Reasoning.** `Preprint`
+36. **Specializing Smaller Language Models towards Multi-Step Reasoning.** `Preprint`
 
     *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot.* [[Paper](https://arxiv.org/abs/2301.12726)], 2023.1
 
-36. **Faithful Chain-of-Thought Reasoning.** `Preprint`
+37. **Faithful Chain-of-Thought Reasoning.** `Preprint`
 
     *Qing Lyu, Shreya Havaldar, Adam Stein, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki, Chris Callison-Burch.* [[Paper](https://arxiv.org/abs/2301.13379)], 2023.1
 
-37. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.** `Preprint`
+38. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.** `Preprint`
 
     *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.* [[Paper](https://arxiv.org/abs/2302.00618)], 2023.2
 
-38. **Multimodal Chain-of-Thought Reasoning in Language Models.** `Preprint`
+39. **Multimodal Chain-of-Thought Reasoning in Language Models.** `Preprint`
 
     *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, Alex Smola.* [[Paper](https://arxiv.org/abs/2302.00923)] [[Code](https://github.com/amazon-science/mm-cot)], 2023.2
+
+40. **Active Prompting with Chain-of-Thought for Large Language Models.** `Preprint`
+
+    *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[Paper](https://arxiv.org/abs/2302.12246)] [[Code](https://github.com/shizhediao/active-cot)], 2023.2
 
 ## Benchmark
 

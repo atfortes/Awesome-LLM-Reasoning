@@ -27,11 +27,11 @@ Language models have recently revolutionized the landscape of Natural Language P
 
 1. **Reasoning with Language Model Prompting: A Survey.** `Preprint`
 
-    *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen.* [[Paper](https://arxiv.org/abs/2212.09597)], 2022.12
+    *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen.* [[Paper](https://arxiv.org/abs/2212.09597)] [[Code](https://github.com/zjunlp/Prompt4ReasoningPapers)], 2022.12
 
 2. **Towards Reasoning in Large Language Models: A Survey.** `Preprint`
 
-    *Jie Huang, Kevin Chen-Chuan Chang.* [[Paper](https://arxiv.org/abs/2212.10403)], 2022.12
+    *Jie Huang, Kevin Chen-Chuan Chang.* [[Paper](https://arxiv.org/abs/2212.10403)] [[Code](https://github.com/jeffhj/LM-reasoning)], 2022.12
 
 ## Analysis
 
@@ -228,6 +228,14 @@ Language models have recently revolutionized the landscape of Natural Language P
 40. **Active Prompting with Chain-of-Thought for Large Language Models.** `Preprint`
 
     *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[Paper](https://arxiv.org/abs/2302.12246)] [[Code](https://github.com/shizhediao/active-cot)], 2023.2
+
+41. **Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data.** `Preprint`
+
+    *KaShun Shum, Shizhe Diao, Tong Zhang.* [[Paper](https://arxiv.org/abs/2302.12822)] [[Code](https://github.com/shizhediao/automate-cot)], 2023.2
+
+42. **Language Is Not All You Need: Aligning Perception with Language Models.** `Preprint`
+
+    *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra, Qiang Liu, Kriti Aggarwal, Zewen Chi, Johan Bjorck, Vishrav Chaudhary, Subhojit Som, Xia Song, Furu Wei.* [[Paper](https://arxiv.org/abs/2302.14045)] [[Code](https://github.com/microsoft/unilm)], 2023.2
 
 ## Benchmark
 

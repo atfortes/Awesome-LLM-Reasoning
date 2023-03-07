@@ -1,17 +1,22 @@
-# Reasoning in Language Models
+<h1 align="center">Reasoning in Large Language Models</h1>
 
+<!--
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/atfortes/LM-Reasoning-Papers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
+-->
 
-Collection of papers and resources on ***Reasoning using Language Models***.
+<p align="center">
+    <img src="assets/cot.svg" width="80%" style="align:center;"/>
+</p>
 
-> Author: [Armando Fortes](https://atfortes.github.io/) @THU
+<p align="center">
+    Language models have recently revolutionized the landscape of Natural Language Processing, and scaling them up in size has been shown to confer several benefits, such as improved performance and sample efficiency. However, increasing model size alone has not proved sufficient for achieving high performance on challenging reasoning tasks, such as solving arithmetic problems or answering commonsense questions. This repository contains a collection of papers and resources which explore how the reasoning ability of language models can be unlocked. 
+</p>
 
 ## Contents
 
- - [Introduction](#introduction)
  - [Survey](#survey)
  - [Analysis](#analysis)
  - [Technique](#technique)
@@ -20,10 +25,6 @@ Collection of papers and resources on ***Reasoning using Language Models***.
  - [Benchmark](#benchmark)
  - [Other Resources](#other-resources)
  - [Contributing](#contributing)
-
-## Introduction
-
-Language models have recently revolutionized the landscape of Natural Language Processing, and scaling them up in size has been shown to confer several benefits, such as improved performance and sample efficiency. However, increasing model size alone has not proved sufficient for achieving high performance on challenging reasoning tasks, such as solving arithmetic problems or answering commonsense questions. This repository contains a collection of papers and resources which explore how the reasoning ability of language models can be unlocked.
 
 ## Survey
 

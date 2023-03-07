@@ -1,4 +1,4 @@
-# Eliciting Reasoning in Large Language Models
+# Reasoning in Language Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/atfortes/LM-Reasoning-Papers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)

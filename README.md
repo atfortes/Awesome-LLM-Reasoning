@@ -3,8 +3,8 @@
 <p align="center">
     <img src="https://awesome.re/badge.svg" href="https://github.com/atfortes/LLM-Reasoning-Papers"/>
     <img src="https://img.shields.io/badge/License-MIT-green.svg" href="https://opensource.org/licenses/MIT"/>
-    <img src="https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green"/>
     <img src="https://img.shields.io/badge/PRs-Welcome-red"/>
+    <img src="https://img.shields.io/github/last-commit/atfortes/LM-Reasoning-Papers?color=green"/>
 </p>
 
 <p align="center">

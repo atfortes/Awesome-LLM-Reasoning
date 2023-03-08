@@ -29,7 +29,6 @@
  - [Benchmark](#benchmark)
  - [Other Resources](#other-resources)
  - [Contributing](#contributing)
- - [Star History](#star-history)
 
 ## Survey
 
@@ -280,6 +279,8 @@
   <img src="https://contrib.rocks/image?repo=atfortes/LM-Reasoning-Papers" />
 </a>
 
+<!--
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=atfortes/LLM-Reasoning-Papers&type=Date)](https://star-history.com/#atfortes/LLM-Reasoning-Papers&Date)
+-->

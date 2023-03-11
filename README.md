@@ -19,7 +19,11 @@
     <b>This repository contains a collection of papers and resources which explore how the reasoning ability of language models can be unlocked.</b>
 </p>
 
+
+
 ## Contents
+
+
 
  - [Survey](#survey)
  - [Analysis](#analysis)
@@ -30,7 +34,11 @@
  - [Other Resources](#other-resources)
  - [Contributing](#contributing)
 
+
+
 ## Survey
+
+
 
 1. **Reasoning with Language Model Prompting: A Survey.** `Preprint`
 
@@ -40,7 +48,11 @@
 
     *Jie Huang, Kevin Chen-Chuan Chang.* [[Paper](https://arxiv.org/abs/2212.10403)] [[Code](https://github.com/jeffhj/LM-reasoning)], 2022.12
 
+
+
 ## Analysis
+
+
 
 1. **Can language models learn from explanations in context?.** `EMNLP 2022`
 
@@ -74,9 +86,15 @@
 
     *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung.* [[Paper](https://arxiv.org/abs/2302.04023)], 2023.2
 
+
+
 ## Technique
 
+
+
 <h3 id="llm">Eliciting Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
+
+
 
 1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** `NeurIPS 2022`
 
@@ -137,6 +155,10 @@
 1. **ReAct: Synergizing Reasoning and Acting in Language Models.** `NeurIPS 2022 Workshop FMDM`
    
     *Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yuan Cao.* [[Project](https://react-lm.github.io/)] [[Paper](https://arxiv.org/abs/2210.03629)] [[Code](https://github.com/ysymyth/ReAct)] [[Blog](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)], 2022.10
+
+1. **Reflection of Thought: Inversely Eliciting Numerical Reasoning in Language Models via Solving Linear Systems.** `Preprint`
+
+    *Fan Zhou, Haoyu Dong, Qian Liu, Zhoujun Cheng, Shi Han, Dongmei Zhang.* [[Paper](https://arxiv.org/abs/2210.05075)], 2022.10
 
 1. **Mind's Eye: Grounded language model reasoning through simulation.** `ICLR 2023`
    
@@ -226,7 +248,11 @@
 
     *Shaohan Huang, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, Lei Cui, Owais Khan Mohammed, Barun Patra, Qiang Liu, Kriti Aggarwal, Zewen Chi, Johan Bjorck, Vishrav Chaudhary, Subhojit Som, Xia Song, Furu Wei.* [[Paper](https://arxiv.org/abs/2302.14045)] [[Code](https://github.com/microsoft/unilm)], 2023.2
 
+
+
 ### <h3 id="lm">Scaling Small Language Models to Reason<h3/>
+
+
 
 1. **Scaling Instruction-Finetuned Language Models.** `Preprint`
 
@@ -244,7 +270,11 @@
 
     *Namgyu Ho, Laura Schmid, Se-Young Yun.* [[Paper](https://arxiv.org/abs/2212.10071)], 2022.12
 
+
+
 ## Benchmark
+
+
 
 | Reasoning Ability | Benchmarks |
 | :----------------------------------------------: | :---------------------------------------------- |
@@ -257,7 +287,11 @@
 
 **Note:** Although there is no official version for the **Symbolic Reasoning** benchmarks, you can generate your own **[here](https://github.com/atfortes/DataGenLM)**!
 
+
+
 ## Other Resources
+
+
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
 | :----------------------------------------------: | :---------------------------------------------- |
@@ -265,7 +299,11 @@
 | [Cascades](https://github.com/google-research/cascades) | Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more. |
 | [LogiTorch](https://github.com/LogiTorch/logitorch) | PyTorch-based library for logical reasoning on natural language. |
 
+
+
 ## Contributing
+
+
 
 - Add a new paper or update an existing paper, thinking about which category the work should belong to.
 - Use the same format as existing entries to describe the work.

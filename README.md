@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    Large Language models have revolutionized the NLP landscape, showing improved performance and sample efficiency over smaller models. However, increasing model size alone has not proved sufficient for achieving high performance on challenging reasoning tasks, such as arithmetic problems or commonsense questions. <b> This repository contains a collection of papers and resources on how the reasoning ability of language models can be unlocked.</b>
+    Large Language Models have revolutionized the NLP landscape, showing improved performance and sample efficiency over smaller models. However, increasing model size alone has not proved sufficient for high performance on challenging reasoning tasks, such as arithmetic or commonsense problems. <b> This repository contains a collection of papers and resources on how the reasoning ability of language models can be unlocked.</b>
 </p>
 
 

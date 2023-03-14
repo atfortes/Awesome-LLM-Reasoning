@@ -28,7 +28,7 @@
  - [Survey](#survey)
  - [Analysis](#analysis)
  - [Technique](#technique)
-   - [Eliciting Reasoning in Large Language Models - *An Emergent Ability*](#llm)
+   - [Reasoning in Large Language Models - *An Emergent Ability*](#llm)
    - [Scaling Small Language Models to Reason](#lm)
  - [Benchmark](#benchmark)
  - [Other Useful Resources](#other-useful-resources)
@@ -93,7 +93,7 @@
 
 
 
-<h3 id="llm">Eliciting Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
+<h3 id="llm">Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
 
 

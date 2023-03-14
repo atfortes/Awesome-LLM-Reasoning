@@ -8,11 +8,15 @@
 </p>
 
 <p align="center">
+    <b> Collection of papers and resources on how to unlock the reasoning ability of Large Language Models.</b>
+</p>
+
+<p align="center">
     <img src="assets/cot.svg" width="90%" style="align:center;"/>
 </p>
 
 <p align="center">
-    Large Language Models have revolutionized the NLP landscape, showing improved performance and sample efficiency over smaller models. However, increasing model size alone has not proved sufficient for high performance on challenging reasoning tasks, such as solving arithmetic or commonsense problems. <b> This repository contains a collection of papers and resources on how the reasoning ability of language models can be unlocked.</b>
+    Large Language Models have revolutionized the NLP landscape, showing improved performance and sample efficiency over smaller models. However, increasing model size alone has not proved sufficient for high performance on challenging reasoning tasks, such as solving arithmetic or commonsense problems. We present a collection of papers and resources on how to unlock these abilities.
 </p>
 
 
@@ -27,7 +31,8 @@
    - [Eliciting Reasoning in Large Language Models - *An Emergent Ability*](#llm)
    - [Scaling Small Language Models to Reason](#lm)
  - [Benchmark](#benchmark)
- - [Other Resources](#other-resources)
+ - [Other Useful Resources](#other-useful-resources)
+ - [Other Awesome Lists](#other-awesome-lists)
  - [Contributing](#contributing)
 
 
@@ -285,15 +290,25 @@
 
 
 
-## Other Resources
+## Other Useful Resources
 
 
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resource&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
-| :----------------------------------------------: | :---------------------------------------------- |
-| [ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) | Central and open resource for data and tools related to chain-of-thought reasoning in large language models. |
-| [Cascades](https://github.com/google-research/cascades) | Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more. |
-| [LogiTorch](https://github.com/LogiTorch/logitorch) | PyTorch-based library for logical reasoning on natural language. |
+- **[ThoughtSource](https://github.com/OpenBioLink/ThoughtSource)**  Central and open resource for data and tools related to chain-of-thought reasoning in large language models.
+- **[Cascades](https://github.com/google-research/cascades)**  Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
+- **[LogiTorch](https://github.com/LogiTorch/logitorch)**  PyTorch-based library for logical reasoning on natural language.
+
+
+
+## Other Awesome Lists
+
+
+
+- **[Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)**  A trend starts from "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models".
+- **[LM-reasoning](https://github.com/jeffhj/LM-reasoning)**  Collection of papers and resources on Reasoning in Large Language Models.
+- **[Prompt4ReasoningPapers](https://github.com/zjunlp/Prompt4ReasoningPapers)**  Repository for the paper "Reasoning with Language Model Prompting: A Survey".
+- **[ReasoningNLP](https://github.com/OakYU/ReasoningNLP)**  Paper list on reasoning in NLP
+- **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)**  Curated list of Large Language Model.
 
 
 

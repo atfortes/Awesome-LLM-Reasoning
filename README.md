@@ -29,7 +29,7 @@
  - [Analysis](#analysis)
  - [Technique](#technique)
    - [Reasoning in Large Language Models - *An Emergent Ability*](#llm)
-   - [Scaling Small Language Models to Reason](#lm)
+   - [Scaling Smaller Language Models to Reason](#lm)
  - [Benchmark](#benchmark)
  - [Other Useful Resources](#other-useful-resources)
  - [Other Awesome Lists](#other-awesome-lists)
@@ -251,7 +251,7 @@
 
 
 
-### <h3 id="lm">Scaling Small Language Models to Reason<h3/>
+### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>
 
 
 
@@ -270,6 +270,10 @@
 1. **Large Language Models Are Reasoning Teachers.** `Preprint`
 
     *Namgyu Ho, Laura Schmid, Se-Young Yun.* [[Paper](https://arxiv.org/abs/2212.10071)], 2022.12
+    
+1. **Specializing Smaller Language Models towards Multi-Step Reasoning.** `Preprint`
+
+    *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot.* [[Paper](https://arxiv.org/abs/2301.12726)], 2023.1
 
 
 

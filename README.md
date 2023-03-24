@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+    <i><b>(Ad)</b> Check out the new <a href="https://github.com/atfortes/Multimodal-Reasoning-Papers">Multimodal-Reasoning-Papers</a> collection!</i>
+</p>
+
+<p align="center">
     <img src="assets/cot.svg" width="90%" style="align:center;"/>
 </p>
 
@@ -45,7 +49,7 @@
 
     *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen.* [[Paper](https://arxiv.org/abs/2212.09597)] [[Code](https://github.com/zjunlp/Prompt4ReasoningPapers)], 2022.12
 
-2. **Towards Reasoning in Large Language Models: A Survey.** `Preprint`
+1. **Towards Reasoning in Large Language Models: A Survey.** `Preprint`
 
     *Jie Huang, Kevin Chen-Chuan Chang.* [[Paper](https://arxiv.org/abs/2212.10403)] [[Code](https://github.com/jeffhj/LM-reasoning)], 2022.12
 
@@ -290,7 +294,6 @@
 | Commonsense | [CommonsenseQA](https://arxiv.org/abs/1811.00937) / [StrategyQA](https://arxiv.org/abs/2101.02235) / [ARC](https://arxiv.org/abs/1803.05457) / [BoolQ](https://arxiv.org/abs/1905.10044) / [HotpotQA](https://arxiv.org/abs/1809.09600) / [OpenBookQA](https://arxiv.org/abs/1809.02789) / [PIQA](https://arxiv.org/abs/1911.11641) |
 |  Symbolic   | [CoinFlip](https://arxiv.org/abs/2201.11903) / [LastLetterConcatenation](https://arxiv.org/abs/2201.11903) / [ReverseList](https://arxiv.org/abs/2201.11903v1) |
 |  Logical   | [ReClor](https://arxiv.org/abs/2002.04326) / [LogiQA](https://arxiv.org/abs/2007.08124) / [ProofWriter](https://arxiv.org/abs/2012.13048) |
-| Multimodal  | [SCIENCEQA](https://arxiv.org/abs/2209.09513) |
 |        Other         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615) / [ALERT](https://arxiv.org/abs/2212.08286) / [CONDAQA](https://arxiv.org/abs/2211.00295) / [SCAN](https://arxiv.org/abs/1711.00350) |
 
 **Note:** Although there is no official version for the **Symbolic Reasoning** benchmarks, you can generate your own **[here](https://github.com/atfortes/DataGenLM)**!
@@ -314,6 +317,7 @@
 
 
 
+- **[Multimodal-Reasoning-Papers](https://github.com/atfortes/Multimodal-Reasoning-Papers)**  Collection of papers and resources on Multimodal Reasoning, including Multimodal Chain-of-Thought, Visual Inference, Vision-Language Models, and others.
 - **[Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)**  A trend starts from "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models".
 - **[LM-reasoning](https://github.com/jeffhj/LM-reasoning)**  Collection of papers and resources on Reasoning in Large Language Models.
 - **[Prompt4ReasoningPapers](https://github.com/zjunlp/Prompt4ReasoningPapers)**  Repository for the paper "Reasoning with Language Model Prompting: A Survey".

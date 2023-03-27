@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <i><b>(Ad)</b> Check out the new <a href="https://github.com/atfortes/Multimodal-Reasoning-Papers">Multimodal-Reasoning-Papers</a> collection!</i>
+    <i><b>(Ad)</b> Check out the new <a href="https://github.com/atfortes/Awesome-Multimodal-Reasoning">Awesome-Multimodal-Reasoning</a> collection!</i>
 </p>
 
 <p align="center">
@@ -320,7 +320,7 @@
 
 
 
-- **[Multimodal-Reasoning-Papers](https://github.com/atfortes/Multimodal-Reasoning-Papers)**  Collection of papers and resources on Multimodal Reasoning, including Multimodal Chain-of-Thought, Visual Inference, Vision-Language Models, and others.
+- **[Awesome-Multimodal-Reasoning](https://github.com/atfortes/Awesome-Multimodal-Reasoning)**  Collection of papers and resources on Multimodal Reasoning, including Vision-Language Models, Multimodal Chain-of-Thought, Visual Inference, and others.
 - **[Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)**  A trend starts from "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models".
 - **[LM-reasoning](https://github.com/jeffhj/LM-reasoning)**  Collection of papers and resources on Reasoning in Large Language Models.
 - **[Prompt4ReasoningPapers](https://github.com/zjunlp/Prompt4ReasoningPapers)**  Repository for the paper "Reasoning with Language Model Prompting: A Survey".

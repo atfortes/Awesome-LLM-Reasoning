@@ -313,7 +313,7 @@
 - **[Promptify](https://github.com/promptslab/Promptify)**  Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more.
 - **[MiniChain](https://github.com/srush/MiniChain)**  Tiny library for large language models.
 - **[LlamaIndex](https://github.com/jerryjliu/llama_index)**  Provides a central interface to connect your LLM's with external data.
-- **[EasyInstruct](https://github.com/zjunlp/EasyInstruct)**  Easy to use package for instructing Large Language Models (LLMs) like GPT-3 in your research experiments.
+- **[EasyInstruct](https://github.com/zjunlp/EasyInstruct)**  Easy to use package for instructing Large Language Models (LLMs) like GPT-3 in research experiments.
 
 
 ## Other Awesome Lists

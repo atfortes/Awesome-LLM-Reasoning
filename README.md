@@ -310,7 +310,10 @@
 - **[AgentChain](https://github.com/jina-ai/agentchain)**  Chain together LLMs for reasoning & orchestrate multiple large models for accomplishing complex tasks.
 - **[Cascades](https://github.com/google-research/cascades)**  Python library which enables complex compositions of language models such as scratchpads, chain of thought, tool use, selection-inference, and more.
 - **[LogiTorch](https://github.com/LogiTorch/logitorch)**  PyTorch-based library for logical reasoning on natural language.
-
+- **[Promptify](https://github.com/promptslab/Promptify)**  Solve NLP Problems with LLM's & Easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more.
+- **[MiniChain](https://github.com/srush/MiniChain)**  Tiny library for large language models.
+- **[LlamaIndex](https://github.com/jerryjliu/llama_index)**  Provides a central interface to connect your LLM's with external data.
+- **[EasyInstruct](https://github.com/zjunlp/EasyInstruct)**  Package for instructing Large Language Models(LLM) like GPT-3 in your research experiments. It is designed to be easy to use and easy to extend.
 
 
 ## Other Awesome Lists

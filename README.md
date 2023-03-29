@@ -290,11 +290,11 @@
 
 | Reasoning Ability | Benchmarks |
 | :----------------------------------------------: | :---------------------------------------------- |
-| Arithmetic  | [GSM8K](https://arxiv.org/abs/2110.14168) / [SVAMP](https://aclanthology.org/2021.naacl-main.168) / [ASDiv](https://aclanthology.org/2020.acl-main.92/) / [AQuA](https://aclanthology.org/P17-1015/) / [MAWPS](https://aclanthology.org/N16-1136/) / [AddSub](https://aclanthology.org/D14-1058/) / [MultiArith](https://aclanthology.org/D15-1202/) / [SingleEq](https://aclanthology.org/Q15-1042/) / [SingleOp]( https://doi.org/10.1162/tacl_a_00118) / [Lila](https://arxiv.org/abs/2210.17517) |
-| Commonsense | [CommonsenseQA](https://arxiv.org/abs/1811.00937) / [StrategyQA](https://arxiv.org/abs/2101.02235) / [ARC](https://arxiv.org/abs/1803.05457) / [BoolQ](https://arxiv.org/abs/1905.10044) / [HotpotQA](https://arxiv.org/abs/1809.09600) / [OpenBookQA](https://arxiv.org/abs/1809.02789) / [PIQA](https://arxiv.org/abs/1911.11641) |
-|  Symbolic   | [CoinFlip](https://arxiv.org/abs/2201.11903) / [LastLetterConcatenation](https://arxiv.org/abs/2201.11903) / [ReverseList](https://arxiv.org/abs/2201.11903v1) |
-|  Logical   | [ReClor](https://arxiv.org/abs/2002.04326) / [LogiQA](https://arxiv.org/abs/2007.08124) / [ProofWriter](https://arxiv.org/abs/2012.13048) |
-|        Other         | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615) / [ALERT](https://arxiv.org/abs/2212.08286) / [CONDAQA](https://arxiv.org/abs/2211.00295) / [SCAN](https://arxiv.org/abs/1711.00350) |
+|  Arithmetic  | [GSM8K](https://arxiv.org/abs/2110.14168) / [SVAMP](https://aclanthology.org/2021.naacl-main.168) / [ASDiv](https://aclanthology.org/2020.acl-main.92/) / [AQuA](https://aclanthology.org/P17-1015/) / [MAWPS](https://aclanthology.org/N16-1136/) / [AddSub](https://aclanthology.org/D14-1058/) / [MultiArith](https://aclanthology.org/D15-1202/) / [SingleEq](https://aclanthology.org/Q15-1042/) / [SingleOp]( https://doi.org/10.1162/tacl_a_00118) / [Lila](https://arxiv.org/abs/2210.17517) |
+|  Commonsense  | [CommonsenseQA](https://arxiv.org/abs/1811.00937) / [StrategyQA](https://arxiv.org/abs/2101.02235) / [ARC](https://arxiv.org/abs/1803.05457) / [BoolQ](https://arxiv.org/abs/1905.10044) / [HotpotQA](https://arxiv.org/abs/1809.09600) / [OpenBookQA](https://arxiv.org/abs/1809.02789) / [PIQA](https://arxiv.org/abs/1911.11641) |
+|  Symbolic  | [CoinFlip](https://arxiv.org/abs/2201.11903) / [LastLetterConcatenation](https://arxiv.org/abs/2201.11903) / [ReverseList](https://arxiv.org/abs/2201.11903v1) |
+|  Logical  | [ReClor](https://arxiv.org/abs/2002.04326) / [LogiQA](https://arxiv.org/abs/2007.08124) / [ProofWriter](https://arxiv.org/abs/2012.13048) |
+|  Other  | [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615) / [ALERT](https://arxiv.org/abs/2212.08286) / [CONDAQA](https://arxiv.org/abs/2211.00295) / [SCAN](https://arxiv.org/abs/1711.00350) / [WikiWhy](https://arxiv.org/abs/2210.12152) |
 
 **Note:** Although there is no official version for the **Symbolic Reasoning** benchmarks, you can generate your own **[here](https://github.com/atfortes/DataGenLM)**!
 

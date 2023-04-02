@@ -232,6 +232,9 @@
 1. **Faithful Chain-of-Thought Reasoning.** `Preprint`
 
     *Qing Lyu, Shreya Havaldar, Adam Stein, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki, Chris Callison-Burch.* [[Paper](https://arxiv.org/abs/2301.13379)], 2023.1
+    
+1. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning** `Preprint`
+    *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li.* [[Paper](https://arxiv.org/abs/2301.13808)], 2023.1
 
 1. **Synthetic Prompting: Generating Chain-of-Thought Demonstrations for Large Language Models.** `Preprint`
 

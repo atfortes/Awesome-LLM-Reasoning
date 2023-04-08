@@ -260,6 +260,10 @@
 1. **ART: Automatic multi-step reasoning and tool-use for large language models.** `Preprint`
 
     *Bhargavi Paranjape, Scott Lundberg, Sameer Singh, Hannaneh Hajishirzi, Luke Zettlemoyer, Marco Tulio Ribeiro.* [[Paper](https://arxiv.org/abs/2303.09014)], 2023.3
+    
+1. **REFINER: Reasoning Feedback on Intermediate Representations.** `Preprint`
+
+    *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings.* [[Paper](https://arxiv.org/abs/2304.01904)], 2023.4
 
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>

@@ -105,7 +105,7 @@
 
     *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou.* [[Paper](https://arxiv.org/abs/2201.11903)] [[Blog](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html)], 2022.1
 
-1. **Self-consistency improves chain of thought reasoning in language models.** `Preprint`
+1. **Self-consistency improves chain of thought reasoning in language models.** `ICLR 2023`
 
     *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou.* [[Paper](https://arxiv.org/abs/2203.11171)], 2022.3
 
@@ -113,7 +113,7 @@
 
     *Boshi Wang, Xiang Deng, Huan Sun.* [[Paper](https://arxiv.org/abs/2203.08383)] [[Code](https://github.com/sunlab-osu/iterprompt)]
 
-1. **Least-to-most prompting enables complex reasoning in large language models.** `Preprint`
+1. **Least-to-most prompting enables complex reasoning in large language models.** `ICLR 2023`
 
     *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi.* [[Paper](https://arxiv.org/abs/2205.10625)], 2022.5
 

@@ -155,7 +155,7 @@
 
 1. **Automatic Chain of Thought Prompting in Large Language Models.** `Preprint`
    
-    *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola.* [[Paper](https://arxiv.org/abs/2210.03493)], 2022.10
+    *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola.* [[Paper](https://arxiv.org/abs/2210.03493)] [[Code](https://github.com/amazon-research/auto-cot)], 2022.10
 
 1. **ReAct: Synergizing Reasoning and Acting in Language Models.** `NeurIPS 2022 Workshop FMDM`
    

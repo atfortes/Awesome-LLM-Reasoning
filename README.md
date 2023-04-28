@@ -263,7 +263,7 @@
     
 1. **REFINER: Reasoning Feedback on Intermediate Representations.** `Preprint`
 
-    *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings.* [[Paper](https://arxiv.org/abs/2304.01904)], 2023.4
+    *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings.* [[Project](https://debjitpaul.github.io/refiner/)] [[Paper](https://arxiv.org/abs/2304.01904)] [[Code](https://github.com/debjitpaul/refiner)], 2023.4
 
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>

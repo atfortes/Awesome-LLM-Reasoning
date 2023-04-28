@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <i><b>(Ad)</b> Check out the new <a href="https://github.com/atfortes/Awesome-Multimodal-Reasoning">Awesome-Multimodal-Reasoning</a> collection!</i>
+    <i>Also check out the <a href="https://github.com/atfortes/Awesome-Multimodal-Reasoning">Awesome-Multimodal-Reasoning</a> collection!</i>
 </p>
 
 <p align="center">

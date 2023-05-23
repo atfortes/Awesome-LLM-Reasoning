@@ -273,6 +273,10 @@
 
     *Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan.* [[Paper](https://arxiv.org/abs/2305.10601)] [[Code](https://github.com/ysymyth/tree-of-thought-llm)], 2023.5
 
+1. **Reasoning Implicit Sentiment with Chain-of-Thought Prompting** `ACL`
+
+    *Hao Fei, Bobo Li, Qian Liu, Lidong Bing, Fei Li, Tat-Seng Chua.* [[Paper](https://arxiv.org/abs/2305.11255)] [[Code](https://github.com/scofield7419/THOR-ISA)], 2023.05
+
 
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>

@@ -297,7 +297,7 @@
 
 1. **Large Language Models Are Reasoning Teachers.** `Preprint`
 
-    *Namgyu Ho, Laura Schmid, Se-Young Yun.* [[Paper](https://arxiv.org/abs/2212.10071)], 2022.12
+    *Namgyu Ho, Laura Schmid, Se-Young Yun.* [[Paper](https://arxiv.org/abs/2212.10071)] [[Code](https://github.com/itsnamgyu/reasoning-teacher)], 2022.12
     
 1. **Specializing Smaller Language Models towards Multi-Step Reasoning.** `Preprint`
 

@@ -277,6 +277,14 @@
 
     *Hao Fei, Bobo Li, Qian Liu, Lidong Bing, Fei Li, Tat-Seng Chua.* [[Paper](https://arxiv.org/abs/2305.11255)] [[Code](https://github.com/scofield7419/THOR-ISA)], 2023.05
 
+1. **LLMs as Factual Reasoners: Insights from Existing Benchmarks and Beyond.** `Preprint`
+    
+    *Philippe Laban, Wojciech Kryściński, Divyansh Agarwal, Alexander R. Fabbri, Caiming Xiong, Shafiq Joty, Chien-Sheng Wu.* [[Paper](https://arxiv.org/abs/2305.14540)], 2023.5
+    
+1. **Reasoning with Language Model is Planning with World Model.** `Preprint`
+    
+    *Shibo Hao, Yi Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu.* [[Paper](https://arxiv.org/abs/2305.14992)], 2023.5
+
 
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>

@@ -305,6 +305,11 @@
 
     *Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang.* [[Paper](https://arxiv.org/abs/2307.15337)], 2023.7
 
+1. **Skills-in-Context Prompting: Unlocking Compositionality in Large Language Models.** `Preprint`
+
+    *Jiaao Chen, Xiaoman Pan, Dian Yu, Kaiqiang Song, Xiaoyang Wang, Dong Yu, Jianshu Chen.* [[Paper](https://arxiv.org/abs/2308.00304)], 2023.8 
+
+
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>
 

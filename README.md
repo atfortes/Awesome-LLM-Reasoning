@@ -339,6 +339,14 @@
 
     *Shengnan An, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.* [[Paper](https://arxiv.org/abs/2310.20689)], 2023.10
 
+1. **Fast Chain-of-Thought: A Glance of Future from Parallel Decoding Leads to Answers Faster.** `Preprint`
+
+    *Hongxuan Zhang, Zhining Liu, Jiaqi Zheng, Chenyi Zhuang, Jinjie Gu, Guihai Chen.* [[Paper](https://arxiv.org/abs/2311.08263)], 2023.11
+
+1. **Contrastive Chain-of-Thought Prompting.** `Preprint`
+
+    *Yew Ken Chia, Guizhen Chen, Luu Anh Tuan, Soujanya Poria, Lidong Bing.* [[Paper](https://arxiv.org/abs/2311.09277)] [[Code](https://github.com/DAMO-NLP-SG/contrastive-cot)], 2023.11
+
 
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>

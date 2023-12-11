@@ -339,6 +339,12 @@
 
     *Shengnan An, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.* [[Paper](https://arxiv.org/abs/2310.20689)], 2023.10
 
+
+1. **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning.** `EMNLP 2023 (Findings)`
+
+    *Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang.* [[Paper](https://arxiv.org/abs/2305.12295)] [[Code](https://github.com/teacherpeterpan/Logic-LLM)], 2023.10
+
+
 1. **Fast Chain-of-Thought: A Glance of Future from Parallel Decoding Leads to Answers Faster.** `Preprint`
 
     *Hongxuan Zhang, Zhining Liu, Jiaqi Zheng, Chenyi Zhuang, Jinjie Gu, Guihai Chen.* [[Paper](https://arxiv.org/abs/2311.08263)], 2023.11

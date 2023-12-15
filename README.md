@@ -342,7 +342,7 @@
     *Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang.* [[Paper](https://arxiv.org/abs/2305.12295)] [[Code](https://github.com/teacherpeterpan/Logic-LLM)], 2023.10
 
 
-1. **SatLM: Satisfiability-Aided Language Models Using Declarative Prompting** `NeurIPS '23`
+1. **SatLM: Satisfiability-Aided Language Models Using Declarative Prompting** `NeurIPS 2023`
 
     *Xi Ye, Qiaochu Chen, Isil Dillig, Greg Durrett* [[Paper](https://arxiv.org/abs/2305.09656)] [[Code](https://github.com/xiye17/sat-lm)], 2023.10
 

@@ -315,9 +315,6 @@
 
     *Jiaao Chen, Xiaoman Pan, Dian Yu, Kaiqiang Song, Xiaoyang Wang, Dong Yu, Jianshu Chen.* [[Paper](https://arxiv.org/abs/2308.00304)], 2023.8 
 
-1. **Skills-in-Context Prompting: Unlocking Compositionality in Large Language Models.** `Preprint`
-
-    *Jiaao Chen, Xiaoman Pan, Dian Yu, Kaiqiang Song, Xiaoyang Wang, Dong Yu, Jianshu Chen.* [[Paper](https://arxiv.org/abs/2308.00304)], 2023.8
 
 1. **Chain-of-Verification Reduces Hallucination in Large Language Models.** `Preprint`
 

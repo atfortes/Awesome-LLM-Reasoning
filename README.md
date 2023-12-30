@@ -354,7 +354,9 @@
 
     *Yew Ken Chia, Guizhen Chen, Luu Anh Tuan, Soujanya Poria, Lidong Bing.* [[Paper](https://arxiv.org/abs/2311.09277)] [[Code](https://github.com/DAMO-NLP-SG/contrastive-cot)], 2023.11
 
+1. **Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning** `Preprint`
 
+    *Xijie Huang, Li Lyna Zhang, Kwang-Ting Cheng, Mao Yang.* [[Paper](https://arxiv.org/abs/2312.08901)], 2023.12
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>
 

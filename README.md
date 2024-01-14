@@ -107,7 +107,9 @@
 
     *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou.* [[Paper](https://arxiv.org/abs/2310.01798)], 2023.10
 
+1. **The Impact of Reasoning Step Length on Large Language Models.** `Preprint`
 
+    *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du.* [[Paper](https://arxiv.org/abs/2401.04925)], 2024.1
 
 
 
@@ -336,11 +338,9 @@
 
     *Shengnan An, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou, Weizhu Chen.* [[Paper](https://arxiv.org/abs/2310.20689)], 2023.10
 
-
 1. **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning.** `EMNLP 2023 (Findings)`
 
     *Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang.* [[Paper](https://arxiv.org/abs/2305.12295)] [[Code](https://github.com/teacherpeterpan/Logic-LLM)], 2023.10
-
 
 1. **SatLM: Satisfiability-Aided Language Models Using Declarative Prompting** `NeurIPS 2023`
 
@@ -357,6 +357,12 @@
 1. **Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning** `Preprint`
 
     *Xijie Huang, Li Lyna Zhang, Kwang-Ting Cheng, Mao Yang.* [[Paper](https://arxiv.org/abs/2312.08901)], 2023.12
+
+1. **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding** `Preprint`
+
+    *Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee, Tomas Pfister.* [[Paper](https://arxiv.org/abs/2401.04398)], 2024.1
+
+
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>
 

@@ -1,10 +1,10 @@
-<h1 align="center">Reasoning in Large Language Models</h1>
+<h1 align="center">Awesome LLM Reasoning</h1>
 
 <p align="center">
-    <img src="https://awesome.re/badge.svg" href="https://github.com/atfortes/LLM-Reasoning-Papers"/>
+    <img src="https://awesome.re/badge.svg" href="https://github.com/atfortes/Awesome-LLM-Reasoning"/>
     <img src="https://img.shields.io/badge/License-MIT-green.svg" href="https://opensource.org/licenses/MIT"/>
     <img src="https://img.shields.io/badge/PRs-Welcome-red"/>
-    <img src="https://img.shields.io/github/last-commit/atfortes/LLM-Reasoning-Papers?color=green"/>
+    <img src="https://img.shields.io/github/last-commit/atfortes/Awesome-LLM-Reasoning?color=green"/>
 </p>
 
 <p align="center">
@@ -677,8 +677,8 @@
 
 ### Contributors
 
-<a href="https://github.com/atfortes/LM-Reasoning-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=atfortes/LM-Reasoning-Papers" />
+<a href="https://github.com/atfortes/Awesome-LLM-Reasoning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=atfortes/Awesome-LLM-Reasoning" />
 </a>
 
 <!--

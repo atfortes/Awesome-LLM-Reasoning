@@ -10,8 +10,9 @@
 <p align="center">
     <b> Collection of papers and resources on how to unlock the reasoning ability of LLMs and MLLMs.</b>
 </p>
-
-
+<p align="center">
+    <i>Also check <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffusion>Awesome-Controllable-Diffusion</a></b></i>!
+</p>
 
 ## Contents
 
@@ -650,10 +651,12 @@
 - **[salesforce/LAVIS](https://github.com/salesforce/LAVIS)**  One-stop Library for Language-Vision Intelligence.
 
 
+
 # Other Awesome Lists
 
 
 
+- **[Awesome-Controllable-Diffusion](https://github.com/atfortes/Awesome-Controllable-Diffusion)**  Collection of papers and resources on Controllable Generation using Diffusion Models.
 - **[Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)**  A trend starts from "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models".
 - **[LM-reasoning](https://github.com/jeffhj/LM-reasoning)**  Collection of papers and resources on Reasoning in Large Language Models.
 - **[Prompt4ReasoningPapers](https://github.com/zjunlp/Prompt4ReasoningPapers)**  Repository for the paper "Reasoning with Language Model Prompting: A Survey".
@@ -661,7 +664,7 @@
 - **[Instruction-Tuning-Papers](https://github.com/SinclairCoder/Instruction-Tuning-Papers)**  Reading list of Instruction-tuning.
 - **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)**  Curated list of Large Language Model.
 - **[Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)**  Curated list of Self-consistency in Large Language Models.
-- **[Deep-Reasoning-Papers](https://github.com/floodsung/Deep-Reasoning-Papers)**  Recent Papers including Neural-Symbolic Reasoning, Logical Reasoning, Visual Reasoning, planning and any other topics connecting deep learning and reasoning.
+- **[Deep-Reasoning-Papers](https://github.com/floodsung/Deep-Reasoning-Papers)**  Recent Papers including Neural-Symbolic Reasoning, Logical Reasoning, and Visual Reasoning.
 
 
 

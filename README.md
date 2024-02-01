@@ -473,6 +473,9 @@
 
    *Yuqing Wang, Yun Zhao.* [[Paper](https://arxiv.org/abs/2312.17661)], 2023.12
 
+1. **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities.** `Preprint`
+
+    *Boyuan Chen, Zhuo Xu, Sean Kirmani, Brian Ichter, Danny Driess, Pete Florence, Dorsa Sadigh, Leonidas Guibas, Fei Xia.* [[Project](https://spatial-vlm.github.io/)] [[Paper](https://arxiv.org/abs/2401.12168)], 2024.1
 
 
 <h3 id="prompt">Prompting & In-context Learning</h3>

@@ -11,7 +11,7 @@
     <b> Curated collection of papers and resources on how to unlock the reasoning ability of LLMs and MLLMs.</b>
 </p>
 <p align="center">
-    <i>Also check <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffusion>Awesome-Controllable-Diffusion</a></b></i>!
+    <i>Also check <b><a href=https://github.com/atfortes/Awesome-Controllable-Generation>Awesome-Controllable-Generation</a></b></i>!
 </p>
 
 ## Contents
@@ -595,7 +595,7 @@
 
 
 
-- **[Awesome-Controllable-Diffusion](https://github.com/atfortes/Awesome-Controllable-Diffusion)**  Collection of papers and resources on Controllable Generation using Diffusion Models.
+- **[Awesome-Controllable-Generation](https://github.com/atfortes/Awesome-Controllable-Generation)**  Collection of papers and resources on Controllable Generation using Diffusion Models.
 - **[Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers)**  A trend starts from "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models".
 - **[LM-reasoning](https://github.com/jeffhj/LM-reasoning)**  Collection of papers and resources on Reasoning in Large Language Models.
 - **[Prompt4ReasoningPapers](https://github.com/zjunlp/Prompt4ReasoningPapers)**  Repository for the paper "Reasoning with Language Model Prompting: A Survey".

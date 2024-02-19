@@ -196,6 +196,7 @@
     *Wenhao Yu, Chenguang Zhu, Zhihan Zhang, Shuohang Wang, Zhuosheng Zhang, Yuwei Fang, Meng Jiang.* [[Paper](https://arxiv.org/abs/2210.12887)] [[Code](https://github.com/wyu97/RACo)], 2022.10
 
 1. **Solving Math Word Problems via Cooperative Reasoning induced Language Models.** `ACL 2023`
+
    *Xinyu Zhu, Junjie Wang, Lin Zhang, Yuxiang Zhang, Ruyi Gan, Jiaxing Zhang, Yujiu Yang.* [[Paper](https://arxiv.org/abs/2210.16257)] [[Code](https://github.com/TianHongZXY/CoRe)], 2022.10
 
 1. **PAL: Program-aided Language Models.** `ICML 2023`

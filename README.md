@@ -357,6 +357,9 @@
 
     *Terufumi Morishita, Gaku Morio, Atsuki Yamaguchi, Yasuhiro Sogawa.* [[Paper](https://arxiv.org/abs/2308.07336)] [[Code](https://github.com/hitachi-nlp/FLD)], 2023.8
 
+1. **Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning.** `Preprint`
+
+    *Debjit Paul, Robert West, Antoine Bosselut, Boi Faltings.* [[Paper](https://arxiv.org/abs/2402.13950)] [[Code](https://github.com/debjitpaul/causal_CoT)], 2024.2
 
 
 <h2 id="lbenchmark">Benchmark</h2>

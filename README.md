@@ -299,6 +299,10 @@
 
     *Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli Celikyilmaz, Jason Weston.* [[Paper](https://arxiv.org/abs/2309.11495)], 2023.9
 
+1. **Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic.** `COLING 2024`
+
+    *Xufeng Zhao, Mengdi Li, Wenhao Lu, Cornelius Weber, Jae Hee Lee, Kun Chu, Stefan Wermter.* [[Paper](https://arxiv.org/abs/2309.13339)] [[Code](https://github.com/xf-zhao/LoT)], 2023.9
+
 1. **Enable Language Models to Implicitly Learn Self-Improvement From Data.** `Preprint`
 
     *Ziqi Wang, Le Hou, Tianjian Lu, Yuexin Wu, Yunxuan Li, Hongkun Yu, Heng Ji.* [[Paper](https://arxiv.org/abs/2310.00898)], 2023.10
@@ -322,10 +326,6 @@
 1. **Efficient Tool Use with Chain-of-Abstraction Reasoning.** `Preprint`
 
     *Silin Gao, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang.* [[Paper](https://arxiv.org/abs/2401.17464)], 2024.1
-
-1. **Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic.** `COLING 2024`
-
-    *Xufeng Zhao, Mengdi Li, Wenhao Lu, Cornelius Weber, Jae Hee Lee, Kun Chu, Stefan Wermter.* [[Paper](https://arxiv.org/abs/2309.13339)] [[Code](https://github.com/xf-zhao/LoT)], 2024.2
 
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>

@@ -323,6 +323,9 @@
 
     *Silin Gao, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang.* [[Paper](https://arxiv.org/abs/2401.17464)], 2024.1
 
+1. **Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic.** `COLING 2024`
+
+    *Xufeng Zhao, Mengdi Li, Wenhao Lu, Cornelius Weber, Jae Hee Lee, Kun Chu, Stefan Wermter.* [[Paper](https://arxiv.org/abs/2309.13339)] [[Code](https://github.com/xf-zhao/LoT)], 2024.2
 
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>

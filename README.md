@@ -63,9 +63,9 @@
 
     *Jie Huang, Kevin Chen-Chuan Chang.* [[Paper](https://arxiv.org/abs/2212.10403)] [[Code](https://github.com/jeffhj/LM-reasoning)], 2022.12
 
-1. **Puzzle Solving using Reasoning of Large Language Models: A Survey. ** `ArXiV preprint 2024`
-    *Panagiotis Giadikiaroglou, Maria Lymperaiou, Giorgos Filandrianos, Giorgos Stamou* [[Paper]
-(https://arxiv.org/abs/2402.11291)] [[Code](https://puzzlellms.github.io/)], 2024.02
+1. **Puzzle Solving using Reasoning of Large Language Models: A Survey.** `Preprint`
+
+    *Panagiotis Giadikiaroglou, Maria Lymperaiou, Giorgos Filandrianos, Giorgos Stamou.* [[Paper](https://arxiv.org/abs/2402.11291)] [[Code](https://puzzlellms.github.io/)], 2024.02
 
 
 

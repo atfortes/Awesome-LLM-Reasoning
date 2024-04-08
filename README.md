@@ -16,28 +16,43 @@
 
 ## Contents
 
+<details>
+  <summary>🗂️ Table of Contents</summary>
+  <ol>
+    <li><a href="#lang">🔤 Language Reasoning</a>
+      <ul>
+        <li><a href="#survey">Survey</a></li>
+        <li><a href="#analysis">Analysis</a></li>
+        <li><a href="#ltechnique">Technique</a>
+          <ul>
+            <li><a href="#llm">Reasoning in Large Language Models - <em>An Emergent Ability</em></a></li>
+            <li><a href="#lm">Scaling Smaller Language Models to Reason</a></li>
+          </ul>
+        </li>
+        <li><a href="#lbenchmark">Benchmark</a></li>
+      </ul>
+    </li>
+    <li><a href="#multi">🧠 Multimodal Reasoning</a>
+      <ul>
+        <li><a href="#mtechnique">Technique</a>
+          <ul>
+            <li><a href="#e2e">End-to-end Models</a></li>
+            <li><a href="#prompt">Prompting &amp; In-context Learning</a></li>
+            <li><a href="#symbolic">Compositional &amp; Symbolic Approach</a></li>
+          </ul>
+        </li>
+        <li><a href="#mbenchmark">Benchmark</a></li>
+      </ul>
+    </li>
+    <li><a href="#other-useful-resources">Other Useful Resources</a></li>
+    <li><a href="#other-awesome-lists">Other Awesome Lists</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+  </ol>
+</details>
 
 
- - [Language Reasoning](#lang)
-   - [Survey](#survey)
-   - [Analysis](#analysis)
-   - [Technique](#ltechnique)
-     - [Reasoning in Large Language Models - *An Emergent Ability*](#llm)
-     - [Scaling Smaller Language Models to Reason](#lm)
-   - [Benchmark](#lbenchmark)
- - [Multimodal Reasoning](#multi)
-   - [Technique](#mtechnique)
-     - [End-to-end Models](#e2e)
-     - [Prompting & In-context Learning](#prompt)
-     - [Compositional & Symbolic Approach](#symbolic)
-   - [Benchmark](#mbenchmark)
- - [Other Useful Resources](#other-useful-resources)
- - [Other Awesome Lists](#other-awesome-lists)
- - [Contributing](#contributing)
 
-
-
-<h1 id="lang">Language Reasoning</h1>
+<h1 id="lang">🔤 Language Reasoning</h1>
 
 
 
@@ -385,7 +400,7 @@
 
 
 
-<h1 id="multi">Multimodal Reasoning</h1>
+<h1 id="multi">🧠 Multimodal Reasoning</h1>
 
 
 
@@ -622,22 +637,18 @@
 
 # Contributing
 
-
-
 - Add a new paper or update an existing paper, thinking about which category the work should belong to.
 - Use the same format as existing entries to describe the work.
 - Add the abstract link of the paper (`/abs/` format if it is an arXiv publication).
 
 **Don't worry if you do something wrong, it will be fixed for you!**
 
-### Contributors
+## Contributors
 
 <a href="https://github.com/atfortes/Awesome-LLM-Reasoning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=atfortes/Awesome-LLM-Reasoning" />
 </a>
 
-<!--
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=atfortes/LLM-Reasoning-Papers&type=Date)](https://star-history.com/#atfortes/LLM-Reasoning-Papers&Date)
--->
+[![Star History Chart](https://api.star-history.com/svg?repos=atfortes/Awesome-LLM-Reasoning&type=Timeline)](https://star-history.com/#atfortes/Awesome-LLM-Reasoning&Timeline)

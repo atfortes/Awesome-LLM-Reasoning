@@ -1,20 +1,21 @@
-<h1 align="center">Awesome LLM Reasoning</h1>
+<a name="readme-top"></a>
+
+<div align="center">
+  <a href="https://github.com/atfortes/Awesome-LLM-Reasoning/graphs/contributors"><img src="https://img.shields.io/github/contributors/atfortes/Awesome-LLM-Reasoning?style=for-the-badge" alt="Contributors"></a>
+  <a href="https://github.com/atfortes/Awesome-LLM-Reasoning/network/members"><img src="https://img.shields.io/github/forks/atfortes/Awesome-LLM-Reasoning?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/atfortes/Awesome-LLM-Reasoning/stargazers"><img src="https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/atfortes/Awesome-LLM-Reasoning/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atfortes/Awesome-LLM-Reasoning?style=for-the-badge" alt="MIT License"></a>
+</div>
 
 <p align="center">
-    <img src="https://awesome.re/badge.svg" href="https://github.com/atfortes/Awesome-LLM-Reasoning"/>
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" href="https://opensource.org/licenses/MIT"/>
-    <img src="https://img.shields.io/badge/PRs-Welcome-red"/>
-    <img src="https://img.shields.io/github/last-commit/atfortes/Awesome-LLM-Reasoning?color=green"/>
+    <img src="assets/cot.svg" width="80%" style="align:center;"/>
 </p>
+
+<h1 align="center">Awesome LLM Reasoning</h1>
 
 <p align="center">
     <b> Curated collection of papers and resources on how to unlock the reasoning ability of LLMs and MLLMs.</b>
 </p>
-<p align="center">
-    <i>Also check <b><a href=https://github.com/atfortes/Awesome-Controllable-Generation>Awesome-Controllable-Generation</a></b></i>!
-</p>
-
-## Contents
 
 <details>
   <summary>🗂️ Table of Contents</summary>
@@ -50,15 +51,11 @@
   </ol>
 </details>
 
+Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Generation>Awesome-Controllable-Generation</a></b>!
+
 
 
 <h1 id="lang">🔤 Language Reasoning</h1>
-
-
-
-<p align="center">
-    <img src="assets/cot.svg" width="90%" style="align:center;"/>
-</p>
 
 <p align="center">
     Large Language Models have revolutionized the NLP landscape, showing improved performance and sample efficiency over smaller models. However, increasing model size alone has not proved sufficient for high performance on challenging reasoning tasks, such as solving arithmetic or commonsense problems. We present a collection of papers and resources on how to unlock these abilities.
@@ -81,6 +78,12 @@
 1. **Puzzle Solving using Reasoning of Large Language Models: A Survey.** `Preprint`
 
     *Panagiotis Giadikiaroglou, Maria Lymperaiou, Giorgos Filandrianos, Giorgos Stamou.* [[Paper](https://arxiv.org/abs/2402.11291)] [[Code](https://puzzlellms.github.io/)], 2024.2
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
 
 
 
@@ -140,6 +143,12 @@
 
     *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du.* [[Paper](https://arxiv.org/abs/2401.04925)], 2024.1
 
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
 
 
 <h2 id="ltechnique">Technique</h2>
@@ -346,6 +355,13 @@
 
     *Silin Gao, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang.* [[Paper](https://arxiv.org/abs/2401.17464)], 2024.1
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
+
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>
 
@@ -383,6 +399,12 @@
 
     *Debjit Paul, Robert West, Antoine Bosselut, Boi Faltings.* [[Paper](https://arxiv.org/abs/2402.13950)] [[Code](https://github.com/debjitpaul/causal_CoT)], 2024.2
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
 
 <h2 id="lbenchmark">Benchmark</h2>
 
@@ -398,19 +420,14 @@
 
 **Note:** Although there is no official version for the **Symbolic Reasoning** benchmarks, you can generate your own **[here](https://github.com/atfortes/DataGenLM)**!
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
 
 
 <h1 id="multi">🧠 Multimodal Reasoning</h1>
-
-
-
-<p align="center">
-    <img src="https://github.com/cvlab-columbia/viper/blob/main/teaser.gif" width="100%" style="align:center;"/>
-</p>
-
-<p align="right">
-    <i>Animation from <a href="https://viper.cs.columbia.edu/">ViperGPT (Surís et al.)</a></i>
-</p>
 
 <p align="center">
     Consider how difficult it would be to study from a book that lacks any figures, diagrams, or tables. We enhance our learning ability when we combine different data modalities, such as vision, language, and audio <a href="https://arxiv.org/abs/2302.00923">[1]</a>. We present a collection of papers and resources on how to unlock these abilities under multimodal settings.
@@ -506,6 +523,13 @@
 
     *Boyuan Chen, Zhuo Xu, Sean Kirmani, Brian Ichter, Danny Driess, Pete Florence, Dorsa Sadigh, Leonidas Guibas, Fei Xia.* [[Project](https://spatial-vlm.github.io/)] [[Paper](https://arxiv.org/abs/2401.12168)], 2024.1
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
+
 
 <h3 id="prompt">Prompting & In-context Learning</h3>
 
@@ -542,6 +566,12 @@
 1. **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding** `Preprint`
 
     *Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee, Tomas Pfister.* [[Paper](https://arxiv.org/abs/2401.04398)], 2024.1
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
 
 
 
@@ -581,6 +611,12 @@
 
     *Kevin Lin, Faisal Ahmed, Linjie Li, Chung-Ching Lin, Ehsan Azarnasab, Zhengyuan Yang, Jianfeng Wang, Lin Liang, Zicheng Liu, Yumao Lu, Ce Liu, Lijuan Wang.* [[Project](https://multimodal-vid.github.io/)] [[Paper](https://arxiv.org/abs/2310.19773)] [[Demo](https://multimodal-vid.github.io/#video-demos)], 2023.10
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
 
 
 <h2 id="mbenchmark">Benchmark</h2>
@@ -599,6 +635,11 @@
 - **[Bongard-HOI](https://arxiv.org/abs/2205.13803)** Visual reasoning benchmark on compositional learning of human-object interactions (HOIs) from natural images.
 - **[ARC](https://arxiv.org/abs/1911.01547)**  General artificial intelligence benchmark, targetted at artificially intelligent systems that aim at emulating a human-like form of general fluid intelligence.
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
 
 
 # Other Useful Resources
@@ -618,6 +659,12 @@
 - **[EasyInstruct](https://github.com/zjunlp/EasyInstruct)**  Easy to use package for instructing Large Language Models (LLMs) like GPT-3 in research experiments.
 - **[salesforce/LAVIS](https://github.com/salesforce/LAVIS)**  One-stop Library for Language-Vision Intelligence.
 
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
 
 
 # Other Awesome Lists
@@ -632,6 +679,12 @@
 - **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)**  Curated list of Large Language Model.
 - **[Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)**  Curated list of Self-consistency in Large Language Models.
 - **[Deep-Reasoning-Papers](https://github.com/floodsung/Deep-Reasoning-Papers)**  Recent Papers including Neural-Symbolic Reasoning, Logical Reasoning, and Visual Reasoning.
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
 
 
 

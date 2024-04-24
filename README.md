@@ -355,6 +355,12 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 
     *Silin Gao, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang.* [[Paper](https://arxiv.org/abs/2401.17464)], 2024.1
 
+
+1. **Self-playing Adversarial Language Game Enhances LLM Reasoning.** `Preprint`
+
+    *Pengyu Cheng, Tianhao Hu, Han Xu, Zhisong Zhang, Yong Dai, Lei Han, Nan Du.* [[Paper](https://arxiv.org/abs/2404.10642)], 2024.4
+
+   
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑

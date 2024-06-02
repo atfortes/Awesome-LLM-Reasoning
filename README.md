@@ -120,6 +120,18 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 
     *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du.* [[Paper](https://arxiv.org/abs/2401.04925)], 2024.1
 
+1. **Premise Order Matters in Reasoning with Large Language Models.** `ICML 2024`
+
+    *Xinyun Chen, Ryan A. Chi, Xuezhi Wang, Denny Zhou.* [[Paper](https://arxiv.org/abs/2402.08939)], 2024.2
+
+1. **Do Large Language Models Latently Perform Multi-Hop Reasoning?** `Preprint`
+
+    *Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, Sebastian Riedel.* [[Paper](https://arxiv.org/abs/2402.16837)], 2024.2
+
+1. **How Far Are We from Intelligent Visual Deductive Reasoning?** `ICLR 2024 AGI workshop`
+
+    *Yizhe Zhang, He Bai, Ruixiang Zhang, Jiatao Gu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly.* [[Paper](https://arxiv.org/abs/2403.04732)], 2024.3
+
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑
@@ -330,10 +342,45 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 
     *Silin Gao, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang.* [[Paper](https://arxiv.org/abs/2401.17464)], 2024.1
 
+1. **K-Level Reasoning with Large Language Models.** `Preprint`
+
+    *Yadong Zhang, Shaoguang Mao, Tao Ge, Xun Wang, Yan Xia, Man Lan, Furu Wei.* [[Paper](https://arxiv.org/abs/2402.01521)], 2024.2
+
+1. **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models.** `Preprint`
+
+    *Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo.* [[Paper](https://arxiv.org/abs/2402.03300)], 2024.2
+
+1. **Self-Discover: Large Language Models Self-Compose Reasoning Structures.** `Preprint`
+
+    *Pei Zhou, Jay Pujara, Xiang Ren, Xinyun Chen, Heng-Tze Cheng, Quoc V. Le, Ed H. Chi, Denny Zhou, Swaroop Mishra, Huaixiu Steven Zheng.* [[Paper](https://arxiv.org/abs/2402.03620)], 2024.2
+
+1. **InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning.** `Preprint`
+
+    *Huaiyuan Ying, Shuo Zhang, Linyang Li, Zhejian Zhou, Yunfan Shao, Zhaoye Fei, Yichuan Ma, Jiawei Hong, Kuikun Liu, Ziyi Wang, Yudong Wang, Zijian Wu, Shuaibin Li, Fengzhe Zhou, Hongwei Liu, Songyang Zhang, Wenwei Zhang, Hang Yan, Xipeng Qiu, Jiayu Wang, Kai Chen, Dahua Lin.* [[Paper](https://arxiv.org/abs/2402.06332)], 2024.2
+
+1. **Chain-of-Thought Reasoning Without Prompting.** `Preprint`
+
+    *Xuezhi Wang, Denny Zhou.* [[Paper](https://arxiv.org/abs/2402.10200)], 2024.2
+
+1. **GLoRe: When, Where, and How to Improve LLM Reasoning via Global and Local Refinements.** `Preprint`
+
+    *Alex Havrilla, Sharath Raparthy, Christoforus Nalmpantis, Jane Dwivedi-Yu, Maksym Zhuravinskyi, Eric Hambro, Roberta Railneau.* [[Paper](https://arxiv.org/abs/2402.10963)], 2024.2
+
+1. **Teaching Large Language Models to Reason with Reinforcement Learning.** `Preprint`
+
+    *Alex Havrilla, Yuqing Du, Sharath Chandra Raparthy, Christoforos Nalmpantis, Jane Dwivedi-Yu, Maksym Zhuravinskyi, Eric Hambro, Sainbayar Sukhbaatar, Roberta Raileanu.* [[Paper](https://arxiv.org/abs/2403.04642)], 2024.3
+
+1. **Advancing LLM Reasoning Generalists with Preference Trees.** `Preprint`
+
+    *Lifan Yuan, Ganqu Cui, Hanbin Wang, Ning Ding, Xingyao Wang, Jia Deng, Boji Shan, Huimin Chen, Ruobing Xie, Yankai Lin, Zhenghao Liu, Bowen Zhou, Hao Peng, Zhiyuan Liu, Maosong Sun.* [[Paper](https://arxiv.org/abs/2404.02078)], 2024.4
 
 1. **Self-playing Adversarial Language Game Enhances LLM Reasoning.** `Preprint`
 
     *Pengyu Cheng, Tianhao Hu, Han Xu, Zhisong Zhang, Yong Dai, Lei Han, Nan Du.* [[Paper](https://arxiv.org/abs/2404.10642)], 2024.4
+
+1. **Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing.** `Preprint`
+
+    *Ye Tian, Baolin Peng, Linfeng Song, Lifeng Jin, Dian Yu, Haitao Mi, Dong Yu.* [[Paper](https://arxiv.org/abs/2404.12253)], 2024.4
 
    
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
@@ -379,6 +426,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 1. **Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning.** `Preprint`
 
     *Debjit Paul, Robert West, Antoine Bosselut, Boi Faltings.* [[Paper](https://arxiv.org/abs/2402.13950)] [[Code](https://github.com/debjitpaul/causal_CoT)], 2024.2
+
+1. **MathScale: Scaling Instruction Tuning for Mathematical Reasoning.** `Preprint`
+
+    *Zhengyang Tang, Xingxing Zhang, Benyou Wang, Furu Wei.* [[Paper](https://arxiv.org/abs/2403.02884)], 2024.3
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -443,6 +494,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 1. **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities.** `Preprint`
 
     *Boyuan Chen, Zhuo Xu, Sean Kirmani, Brian Ichter, Danny Driess, Pete Florence, Dorsa Sadigh, Leonidas Guibas, Fei Xia.* [[Project](https://spatial-vlm.github.io/)] [[Paper](https://arxiv.org/abs/2401.12168)], 2024.1
+
+1. **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs.** `NAACL 2024 Findings`
+
+    *Victor Carbune, Hassan Mansoor, Fangyu Liu, Rahul Aralikatte, Gilles Baechler, Jindong Chen, Abhanshu Sharma.* [[Paper](https://arxiv.org/abs/2403.12596)], 2024.3
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

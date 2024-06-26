@@ -382,6 +382,14 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 
     *Ye Tian, Baolin Peng, Linfeng Song, Lifeng Jin, Dian Yu, Haitao Mi, Dong Yu.* [[Paper](https://arxiv.org/abs/2404.12253)], 2024.4
 
+1. **Q\*: Improving Multi-step Reasoning for LLMs with Deliberative Planning.** `Preprint`
+
+   *Chaojie Wang, Yanchen Deng, Zhiyi Lv, Shuicheng Yan, An Bo* [[Paper](https://arxiv.org/abs/2406.14283)], 2024.6
+
+1. **LLM-ARC: Enhancing LLMs with an Automated Reasoning Critic** `Preprint`
+
+   *Aditya Kalyanpur, Kailash Saravanakumar, Victor Barres, Jennifer Chu-Carroll, David Melville, David Ferrucci* [[Paper](https://arxiv.org/abs/2406.17663)], 2024.6
+
    
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

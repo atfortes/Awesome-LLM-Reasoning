@@ -56,6 +56,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 
     *Panagiotis Giadikiaroglou, Maria Lymperaiou, Giorgos Filandrianos, Giorgos Stamou.* [[Paper](https://arxiv.org/abs/2402.11291)] [[Code](https://puzzlellms.github.io/)], 2024.2
 
+1. **Large Language Models for Mathematical Reasoning: Progresses and Challenges** `ACL 2024`
+
+   *Janice Ahn, Rishu Verma, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin* [[Paper](https://arxiv.org/abs/2402.00157)]
+
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑

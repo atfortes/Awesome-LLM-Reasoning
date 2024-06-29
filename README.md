@@ -378,6 +378,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 
     *Lifan Yuan, Ganqu Cui, Hanbin Wang, Ning Ding, Xingyao Wang, Jia Deng, Boji Shan, Huimin Chen, Ruobing Xie, Yankai Lin, Zhenghao Liu, Bowen Zhou, Hao Peng, Zhiyuan Liu, Maosong Sun.* [[Paper](https://arxiv.org/abs/2404.02078)], 2024.4
 
+1. **Evaluating Mathematical Reasoning Beyond Accuracy.** `Preprint`
+
+    *Shijie Xia, Xuefeng Li, Yixin Liu, Tongshuang Wu, Pengfei Liu.* [[Paper](https://arxiv.org/abs/2404.05692)], 2024.4
+
 1. **Self-playing Adversarial Language Game Enhances LLM Reasoning.** `Preprint`
 
     *Pengyu Cheng, Tianhao Hu, Han Xu, Zhisong Zhang, Yong Dai, Lei Han, Nan Du.* [[Paper](https://arxiv.org/abs/2404.10642)], 2024.4

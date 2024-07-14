@@ -369,6 +369,9 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 1. **GLoRe: When, Where, and How to Improve LLM Reasoning via Global and Local Refinements.** `Preprint`
 
     *Alex Havrilla, Sharath Raparthy, Christoforus Nalmpantis, Jane Dwivedi-Yu, Maksym Zhuravinskyi, Eric Hambro, Roberta Railneau.* [[Paper](https://arxiv.org/abs/2402.10963)], 2024.2
+   
+1. **LLM3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning.** `IROS 2024` 
+   *Shu Wang, Muzhi Han, Ziyuan Jiao, Zeyu Zhang, Ying Nian Wu, Song-Chun Zhu, Hangxin Liu.* [[Paper](https://arxiv.org/abs/2403.11552)][[Code](https://github.com/AssassinWS/LLM-TAMP)], 2024.3
 
 1. **Teaching Large Language Models to Reason with Reinforcement Learning.** `Preprint`
 

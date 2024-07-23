@@ -62,7 +62,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 
 1. **Internal Consistency and Self-Feedback in Large Language Models: A Survey.** `Preprint`
 
-    *Xun Liang, Shichao Song, Zifan Zheng, Hanyu Wang, Qingchen Yu, Xunkai Li, Rong-Hua Li, Feiyu Xiong, Zhiyu Li* [[Paper](https://arxiv.org/abs/2407.14507)] [[Code](https://github.com/IAAR-Shanghai/ICSFSurvey)], 2024.7
+    *Xun Liang, Shichao Song, Zifan Zheng, Hanyu Wang, Qingchen Yu, Xunkai Li, Rong-Hua Li, Feiyu Xiong, Zhiyu Li.* [[Paper](https://arxiv.org/abs/2407.14507)] [[Code](https://github.com/IAAR-Shanghai/ICSFSurvey)], 2024.7
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

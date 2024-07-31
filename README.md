@@ -140,9 +140,9 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 
     *Yizhe Zhang, He Bai, Ruixiang Zhang, Jiatao Gu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly.* [[Paper](https://arxiv.org/abs/2403.04732)], 2024.3
 
-1. **A Peek Into Toekn Bias: Large Language Models Are Not Yet Genuine Reasoners** `Preprint` `ICML 2024 Workshop`
+1. **A Peek Into Token Bias: Large Language Models Are Not Yet Genuine Reasoners.** `ICML Workshop 2024`
 
-    *Bowen Jiang, Yangxinyu Xie, Zhuoqun Hao, Xiaomeng Wang, Tanwi Mallick, Weijie J. Su, Camillo J. Taylor, Dan Roth.* [[Paper](https://arxiv.org/pdf/2406.11050)], 2024.6
+    *Bowen Jiang, Yangxinyu Xie, Zhuoqun Hao, Xiaomeng Wang, Tanwi Mallick, Weijie J. Su, Camillo J. Taylor, Dan Roth.* [[Paper](https://arxiv.org/pdf/2406.11050)] [[Code](https://github.com/bowen-upenn/llm_token_bias)], 2024.6
 
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">

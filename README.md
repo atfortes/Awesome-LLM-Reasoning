@@ -36,7 +36,7 @@
   </ol>
 </details>
 
-Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Generation>Awesome-Controllable-Generation</a></b>.
+Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffusion>Awesome-Controllable-Diffusion</a></b>.
 
 
 

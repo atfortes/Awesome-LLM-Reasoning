@@ -100,10 +100,6 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Omar Shaikh, Hongxin Zhang, William Held, Michael Bernstein, Diyi Yang.* [[Paper](https://arxiv.org/abs/2212.08061)], 2022.12
 
-1. **Dissociating language and thought in large language models: a cognitive perspective.** `ICBINB NeurIPS Workshop 2023`
-
-    *Kyle Mahowald, Anna A. Ivanova, Idan A. Blank, Nancy Kanwisher, Joshua B. Tenenbaum, Evelina Fedorenko.* [[Paper](https://arxiv.org/abs/2301.06627)], 2023.1
-
 1. **Large Language Models Can Be Easily Distracted by Irrelevant Context.** `ICML 2023`
 
     *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, Denny Zhou.* [[Paper](https://arxiv.org/abs/2302.00093)], 2023.1
@@ -124,11 +120,11 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Tamera Lanham, Anna Chen, Ansh Radhakrishnan, Benoit Steiner, Carson Denison, Danny Hernandez, Dustin Li, Esin Durmus, Evan Hubinger, Jackson Kernion, Kamilė Lukošiūtė, Karina Nguyen, Newton Cheng, Nicholas Joseph, Nicholas Schiefer, Oliver Rausch, Robin Larson, Sam McCandlish, Sandipan Kundu, Saurav Kadavath, Shannon Yang, Thomas Henighan, Timothy Maxwell, Timothy Telleen-Lawton, Tristan Hume, Zac Hatfield-Dodds, Jared Kaplan, Jan Brauner, Samuel R. Bowman, Ethan Perez.* [[Paper](https://arxiv.org/abs/2307.13702)], 2023.7
 
-1. **Large Language Models Cannot Self-Correct Reasoning Yet.** `Preprint`
+1. **Large Language Models Cannot Self-Correct Reasoning Yet.** `ICLR 2024`
 
     *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou.* [[Paper](https://arxiv.org/abs/2310.01798)], 2023.10
 
-1. **The Impact of Reasoning Step Length on Large Language Models.** `Preprint`
+1. **The Impact of Reasoning Step Length on Large Language Models.** `ACL 2024 Findings`
 
     *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du.* [[Paper](https://arxiv.org/abs/2401.04925)], 2024.1
 
@@ -136,21 +132,13 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Xinyun Chen, Ryan A. Chi, Xuezhi Wang, Denny Zhou.* [[Paper](https://arxiv.org/abs/2402.08939)], 2024.2
 
-1. **Do Large Language Models Latently Perform Multi-Hop Reasoning?** `Preprint`
+1. **Do Large Language Models Latently Perform Multi-Hop Reasoning?** `ACL 2024`
 
     *Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, Sebastian Riedel.* [[Paper](https://arxiv.org/abs/2402.16837)], 2024.2
 
-1. **How Far Are We from Intelligent Visual Deductive Reasoning?** `ICLR 2024 AGI workshop`
-
-    *Yizhe Zhang, He Bai, Ruixiang Zhang, Jiatao Gu, Shuangfei Zhai, Josh Susskind, Navdeep Jaitly.* [[Paper](https://arxiv.org/abs/2403.04732)], 2024.3
-
-1. **A Peek Into Token Bias: Large Language Models Are Not Yet Genuine Reasoners.** `ICML Workshop 2024`
-
-    *Bowen Jiang, Yangxinyu Xie, Zhuoqun Hao, Xiaomeng Wang, Tanwi Mallick, Weijie J. Su, Camillo J. Taylor, Dan Roth.* [[Paper](https://arxiv.org/pdf/2406.11050)] [[Code](https://github.com/bowen-upenn/llm_token_bias)], 2024.6
-
 1. **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers.** `Preprint`
 
-    *Chenglei Si, Diyi Yang, Tatsunori Hashimoto.* [[Paper]()https://arxiv.org/abs/2409.04109], 2024.9
+    *Chenglei Si, Diyi Yang, Tatsunori Hashimoto.* [[Paper](https://arxiv.org/abs/2409.04109)], 2024.9
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -222,7 +210,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
    
     *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang, Graham Neubig.* [[Paper](https://arxiv.org/abs/2210.07128)] [[Code](https://github.com/madaan/cocogen)], 2022.10
 
-1. **Large Language Models Can Self-Improve.** `Preprint`
+1. **Large Language Models Can Self-Improve.** `EMNLP 2023`
    
     *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han.* [[Paper](https://arxiv.org/abs/2210.11610)], 2022.10
 
@@ -262,7 +250,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, Ashish Sabharwal.* [[Paper](https://arxiv.org/abs/2212.10509)] [[Code](https://github.com/StonyBrookNLP/ircot)], 2022.12
 
-1. **Language Models as Inductive Reasoners.** `Preprint`
+1. **Language Models as Inductive Reasoners.** `EACL 2024`
 
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* [[Paper](https://arxiv.org/abs/2212.10923)], 2022.12
 
@@ -282,7 +270,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Zhihong Shao, Yeyun Gong, Yelong Shen, Minlie Huang, Nan Duan, Weizhu Chen.* [[Paper](https://arxiv.org/abs/2302.00618)], 2023.2
 
-1. **Active Prompting with Chain-of-Thought for Large Language Models.** `Preprint`
+1. **Active Prompting with Chain-of-Thought for Large Language Models.** `ACL 2024`
 
     *Shizhe Diao, Pengcheng Wang, Yong Lin, Tong Zhang.* [[Paper](https://arxiv.org/abs/2302.12246)] [[Code](https://github.com/shizhediao/active-cot)], 2023.2
 
@@ -294,7 +282,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Bhargavi Paranjape, Scott Lundberg, Sameer Singh, Hannaneh Hajishirzi, Luke Zettlemoyer, Marco Tulio Ribeiro.* [[Paper](https://arxiv.org/abs/2303.09014)], 2023.3
     
-1. **REFINER: Reasoning Feedback on Intermediate Representations.** `Preprint`
+1. **REFINER: Reasoning Feedback on Intermediate Representations.** `EACL 2024`
 
     *Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings.* [[Project](https://debjitpaul.github.io/refiner/)] [[Paper](https://arxiv.org/abs/2304.01904)] [[Code](https://github.com/debjitpaul/refiner)], 2023.4
 
@@ -322,15 +310,11 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Ansh Radhakrishnan, Karina Nguyen, Anna Chen, Carol Chen, Carson Denison, Danny Hernandez, Esin Durmus, Evan Hubinger, Jackson Kernion, Kamilė Lukošiūtė, Newton Cheng, Nicholas Joseph, Nicholas Schiefer, Oliver Rausch, Sam McCandlish, Sheer El Showk, Tamera Lanham, Tim Maxwell, Venkatesa Chandrasekaran, Zac Hatfield-Dodds, Jared Kaplan, Jan Brauner, Samuel R. Bowman, Ethan Perez.* [[Paper](https://arxiv.org/abs/2307.11768)] [[Code](https://github.com/anthropics/DecompositionFaithfulnessPaper)], 2023.7
 
-1. **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding.** `ENLSP NeurIPS Workshop 2023`
+1. **Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding.** `ICLR 2024`
 
     *Xuefei Ning, Zinan Lin, Zixuan Zhou, Huazhong Yang, Yu Wang.* [[Paper](https://arxiv.org/abs/2307.15337)], 2023.7
 
-1. **Skills-in-Context Prompting: Unlocking Compositionality in Large Language Models.** `Preprint`
-
-    *Jiaao Chen, Xiaoman Pan, Dian Yu, Kaiqiang Song, Xiaoyang Wang, Dong Yu, Jianshu Chen.* [[Paper](https://arxiv.org/abs/2308.00304)], 2023.8 
-
-1. **Chain-of-Verification Reduces Hallucination in Large Language Models.** `Preprint`
+1. **Chain-of-Verification Reduces Hallucination in Large Language Models.** `ACL 2024 Findings`
 
     *Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli Celikyilmaz, Jason Weston.* [[Paper](https://arxiv.org/abs/2309.11495)], 2023.9
 
@@ -338,15 +322,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Xufeng Zhao, Mengdi Li, Wenhao Lu, Cornelius Weber, Jae Hee Lee, Kun Chu, Stefan Wermter.* [[Paper](https://arxiv.org/abs/2309.13339)] [[Code](https://github.com/xf-zhao/LoT)], 2023.9
 
-1. **Enable Language Models to Implicitly Learn Self-Improvement From Data.** `Preprint`
-
-    *Ziqi Wang, Le Hou, Tianjian Lu, Yuexin Wu, Yunxuan Li, Hongkun Yu, Heng Ji.* [[Paper](https://arxiv.org/abs/2310.00898)], 2023.10
-
-1. **Improving Large Language Model Fine-tuning for Solving Math Problems.** `Preprint`
-
-    *Yixin Liu, Avi Singh, C. Daniel Freeman, John D. Co-Reyes, Peter J. Liu.* [[Paper](https://arxiv.org/abs/2310.10047)], 2023.10
-
-1. **Teaching Language Models to Self-Improve through Interactive Demonstrations.** `Preprint`
+1. **Teaching Language Models to Self-Improve through Interactive Demonstrations.** `NAACL 2024`
 
     *Xiao Yu, Baolin Peng, Michel Galley, Jianfeng Gao, Zhou Yu.* [[Paper](https://arxiv.org/abs/2310.13522)], 2023.10
 
@@ -354,7 +330,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang.* [[Paper](https://arxiv.org/abs/2305.12295)] [[Code](https://github.com/teacherpeterpan/Logic-LLM)], 2023.10
 
-1. **Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning** `Preprint`
+1. **Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning.** `Preprint`
 
     *Xijie Huang, Li Lyna Zhang, Kwang-Ting Cheng, Mao Yang.* [[Paper](https://arxiv.org/abs/2312.08901)], 2023.12
 
@@ -382,17 +358,13 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Xuezhi Wang, Denny Zhou.* [[Paper](https://arxiv.org/abs/2402.10200)], 2024.2
 
-1. **GLoRe: When, Where, and How to Improve LLM Reasoning via Global and Local Refinements.** `Preprint`
+1. **GLoRe: When, Where, and How to Improve LLM Reasoning via Global and Local Refinements.** `ICML 2024`
 
     *Alex Havrilla, Sharath Raparthy, Christoforus Nalmpantis, Jane Dwivedi-Yu, Maksym Zhuravinskyi, Eric Hambro, Roberta Railneau.* [[Paper](https://arxiv.org/abs/2402.10963)], 2024.2
    
-1. **LLM3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning.** `IROS 2024`
+1. **LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning.** `IROS 2024`
    
    *Shu Wang, Muzhi Han, Ziyuan Jiao, Zeyu Zhang, Ying Nian Wu, Song-Chun Zhu, Hangxin Liu.* [[Paper](https://arxiv.org/abs/2403.11552)][[Code](https://github.com/AssassinWS/LLM-TAMP)], 2024.3
-
-1. **Teaching Large Language Models to Reason with Reinforcement Learning.** `Preprint`
-
-    *Alex Havrilla, Yuqing Du, Sharath Chandra Raparthy, Christoforos Nalmpantis, Jane Dwivedi-Yu, Maksym Zhuravinskyi, Eric Hambro, Sainbayar Sukhbaatar, Roberta Raileanu.* [[Paper](https://arxiv.org/abs/2403.04642)], 2024.3
 
 1. **Advancing LLM Reasoning Generalists with Preference Trees.** `Preprint`
 
@@ -442,7 +414,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 
 
-1. **Scaling Instruction-Finetuned Language Models.** `Preprint`
+1. **Scaling Instruction-Finetuned Language Models.** `JMLR`
 
     *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei.* [[Paper](https://arxiv.org/abs/2210.11416)], 2022.10
 
@@ -450,7 +422,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Kumar Shridhar, Alessandro Stolfo, Mrinmaya Sachan.* [[Paper](https://arxiv.org/abs/2212.00193)], 2022.12
 
-1. **Teaching Small Language Models to Reason.** `ACL 2023 Short Papers`
+1. **Teaching Small Language Models to Reason.** `ACL 2023 Short`
 
     *Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn.* [[Paper](https://arxiv.org/abs/2212.08410)], 2022.12
 
@@ -469,10 +441,6 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 1. **Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic.** `ICML 2023`
 
     *Terufumi Morishita, Gaku Morio, Atsuki Yamaguchi, Yasuhiro Sogawa.* [[Paper](https://arxiv.org/abs/2308.07336)] [[Code](https://github.com/hitachi-nlp/FLD)], 2023.8
-
-1. **Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning.** `Preprint`
-
-    *Debjit Paul, Robert West, Antoine Bosselut, Boi Faltings.* [[Paper](https://arxiv.org/abs/2402.13950)] [[Code](https://github.com/debjitpaul/causal_CoT)], 2024.2
 
 1. **MathScale: Scaling Instruction Tuning for Mathematical Reasoning.** `Preprint`
 
@@ -518,11 +486,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao.* [[Project](https://chameleon-llm.github.io/)] [[Paper](https://arxiv.org/abs/2304.09842)] [[Code](https://github.com/lupantech/chameleon-llm)], 2023.4
 
-1. **Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings.** `Preprint`
-
-    *Daniel Rose, Vaishnavi Himakunthala, Andy Ouyang, Ryan He, Alex Mei, Yujie Lu, Michael Saxon, Chinmay Sonar, Diba Mirza, William Yang Wang.* [[Paper](https://arxiv.org/abs/2305.02317)] [[Code](https://github.com/dannyrose30/VCOT)], 2023.5
-
-1. **Link-Context Learning for Multimodal LLMs.** `Preprint`
+1. **Link-Context Learning for Multimodal LLMs.** `CVPR 2024`
 
     *Yan Tai, Weichen Fan, Zhao Zhang, Feng Zhu, Rui Zhao, Ziwei Liu.* [[Paper](https://arxiv.org/abs/2308.07891)] [[Code](https://github.com/isekai-portal/Link-Context-Learning)], 2023.8
 
@@ -534,11 +498,11 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
    *Yuqing Wang, Yun Zhao.* [[Paper](https://arxiv.org/abs/2312.17661)], 2023.12
 
-1. **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding** `Preprint`
+1. **Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding.** `ICLR 2024`
 
     *Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee, Tomas Pfister.* [[Paper](https://arxiv.org/abs/2401.04398)], 2024.1
 
-1. **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities.** `Preprint`
+1. **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities.** `CVPR 2024`
 
     *Boyuan Chen, Zhuo Xu, Sean Kirmani, Brian Ichter, Danny Driess, Pete Florence, Dorsa Sadigh, Leonidas Guibas, Fei Xia.* [[Project](https://spatial-vlm.github.io/)] [[Paper](https://arxiv.org/abs/2401.12168)], 2024.1
 

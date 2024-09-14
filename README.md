@@ -571,7 +571,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 | Multimodal | [SCIENCEQA](https://arxiv.org/abs/2209.09513) / [ARO](https://arxiv.org/abs/2210.01936) / [OK-VQA](https://arxiv.org/abs/1906.00067) / [A-OKVQA](https://arxiv.org/abs/2206.01718) / [NExT-QA](https://arxiv.org/abs/2105.08276) / [GQA](https://arxiv.org/abs/1902.09506) / [VQA](https://arxiv.org/abs/1505.00468) / [VQAv2](https://arxiv.org/abs/1612.00837) / [TAG](https://arxiv.org/abs/2208.01813) / [Bongard-HOI](https://arxiv.org/abs/2205.13803) / [ARC](https://arxiv.org/abs/1911.01547) |
 |  Other  | [ARB](https://arxiv.org/abs/2307.13692) / [BIG-bench](https://doi.org/10.48550/arXiv.2206.04615) / [AGIEval](https://arxiv.org/abs/2304.06364) / [ALERT](https://arxiv.org/abs/2212.08286) / [CONDAQA](https://arxiv.org/abs/2211.00295) / [SCAN](https://arxiv.org/abs/1711.00350) / [WikiWhy](https://arxiv.org/abs/2210.12152) |
 
-**Note:** Although there is no official version for the **Symbolic Reasoning** benchmarks, you can generate your own **[here](https://github.com/atfortes/DataGenLM)**.
+**Note:** Although there is no official version for the **Symbolic Reasoning** benchmarks, you can generate your own with **[this](https://github.com/atfortes/SymbolicReasoningBenchLLM)**.
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

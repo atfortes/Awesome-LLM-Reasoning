@@ -148,6 +148,9 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 
     *Bowen Jiang, Yangxinyu Xie, Zhuoqun Hao, Xiaomeng Wang, Tanwi Mallick, Weijie J. Su, Camillo J. Taylor, Dan Roth.* [[Paper](https://arxiv.org/pdf/2406.11050)] [[Code](https://github.com/bowen-upenn/llm_token_bias)], 2024.6
 
+1. **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers.** `Preprint`
+
+    *Chenglei Si, Diyi Yang, Tatsunori Hashimoto.* [[Paper]()https://arxiv.org/abs/2409.04109], 2024.9
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
@@ -407,6 +410,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 
     *Ye Tian, Baolin Peng, Linfeng Song, Lifeng Jin, Dian Yu, Haitao Mi, Dong Yu.* [[Paper](https://arxiv.org/abs/2404.12253)], 2024.4
 
+1. **Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models.** `Preprint`
+
+    *Ling Yang, Zhaochen Yu, Tianjun Zhang, Shiyi Cao, Minkai Xu, Wentao Zhang, Joseph E. Gonzalez, Bin Cui.* [[Paper](https://arxiv.org/abs/2406.04271)] [[Code](https://github.com/YangLing0818/buffer-of-thought-llm)], 2024.6
+
 1. **Q\*: Improving Multi-step Reasoning for LLMs with Deliberative Planning.** `Preprint`
 
    *Chaojie Wang, Yanchen Deng, Zhiyi Lv, Shuicheng Yan, An Bo.* [[Paper](https://arxiv.org/abs/2406.14283)], 2024.6
@@ -415,7 +422,14 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 
    *Aditya Kalyanpur, Kailash Saravanakumar, Victor Barres, Jennifer Chu-Carroll, David Melville, David Ferrucci.* [[Paper](https://arxiv.org/abs/2406.17663)], 2024.6
 
-   
+1. **DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning.** `Preprint`
+
+    *Chengpeng Li, Guanting Dong, Mingfeng Xue, Ru Peng, Xiang Wang, Dayiheng Liu.* [[Paper](https://arxiv.org/abs/2407.04078)] [[Code](https://github.com/ChengpengLi1003/DotaMath)], 2024.7
+
+1. **OpenAI o1.** `Technical Report`
+
+    *Open AI Team.* [[Blog](https://openai.com/index/learning-to-reason-with-llms/)], 2024.9
+
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑
@@ -531,6 +545,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Gener
 1. **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs.** `NAACL 2024 Findings`
 
     *Victor Carbune, Hassan Mansoor, Fangyu Liu, Rahul Aralikatte, Gilles Baechler, Jindong Chen, Abhanshu Sharma.* [[Paper](https://arxiv.org/abs/2403.12596)], 2024.3
+
+1. **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models.** `Preprint`
+
+    *Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, Ranjay Krishna.* [[Project](https://visualsketchpad.github.io/)] [[Paper](https://arxiv.org/abs/2406.09403)] [[Code](https://github.com/Yushi-Hu/VisualSketchpad)], 2024.6
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

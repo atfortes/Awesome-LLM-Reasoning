@@ -301,6 +301,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Shibo Hao, Yi Gu, Haodi Ma, Joshua Jiahua Hong, Zhen Wang, Daisy Zhe Wang, Zhiting Hu.* [[Paper](https://arxiv.org/abs/2305.14992)], 2023.5
 
+1. **Let's Verify Step by Step.** `ICLR 2024`
+
+    *Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe.* [[Paper](https://arxiv.org/abs/2305.20050)], 2023.5
+
 1. **Recursion of Thought: A Divide and Conquer Approach to Multi-Context Reasoning with Language Models.** `ACL 2023 Findings`
 
     *Soochan Lee, Gunhee Kim.* [[Paper](https://arxiv.org/abs/2306.06891)] [[Code](https://github.com/soochan-lee/RoT)] [[Poster](https://soochanlee.com/img/rot/rot_poster.pdf)], 2023.6
@@ -353,6 +357,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Huaiyuan Ying, Shuo Zhang, Linyang Li, Zhejian Zhou, Yunfan Shao, Zhaoye Fei, Yichuan Ma, Jiawei Hong, Kuikun Liu, Ziyi Wang, Yudong Wang, Zijian Wu, Shuaibin Li, Fengzhe Zhou, Hongwei Liu, Songyang Zhang, Wenwei Zhang, Hang Yan, Xipeng Qiu, Jiayu Wang, Kai Chen, Dahua Lin.* [[Paper](https://arxiv.org/abs/2402.06332)], 2024.2
 
+1. **V-STaR: Training Verifiers for Self-Taught Reasoners.** `Preprint`
+
+    *Arian Hosseini, Xingdi Yuan, Nikolay Malkin, Aaron Courville, Alessandro Sordoni, Rishabh Agarwal.* [[Paper](https://arxiv.org/abs/2402.06457)], 2024.2
+
 1. **Chain-of-Thought Reasoning Without Prompting.** `Preprint`
 
     *Xuezhi Wang, Denny Zhou.* [[Paper](https://arxiv.org/abs/2402.10200)], 2024.2
@@ -360,7 +368,11 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 1. **GLoRe: When, Where, and How to Improve LLM Reasoning via Global and Local Refinements.** `ICML 2024`
 
     *Alex Havrilla, Sharath Raparthy, Christoforus Nalmpantis, Jane Dwivedi-Yu, Maksym Zhuravinskyi, Eric Hambro, Roberta Railneau.* [[Paper](https://arxiv.org/abs/2402.10963)], 2024.2
-   
+
+1. **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking.** `Preprint`
+
+    *Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman.* [[Paper](https://arxiv.org/abs/2403.09629)], 2024.3
+
 1. **LLM3: Large Language Model-based Task and Motion Planning with Motion Failure Reasoning.** `IROS 2024`
    
    *Shu Wang, Muzhi Han, Ziyuan Jiao, Zeyu Zhang, Ying Nian Wu, Song-Chun Zhu, Hangxin Liu.* [[Paper](https://arxiv.org/abs/2403.11552)][[Code](https://github.com/AssassinWS/LLM-TAMP)], 2024.3
@@ -396,6 +408,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 1. **DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning.** `Preprint`
 
     *Chengpeng Li, Guanting Dong, Mingfeng Xue, Ru Peng, Xiang Wang, Dayiheng Liu.* [[Paper](https://arxiv.org/abs/2407.04078)] [[Code](https://github.com/ChengpengLi1003/DotaMath)], 2024.7
+
+1. **Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents.** `Preprint`
+
+    *Pranav Putta, Edmund Mills, Naman Garg, Sumeet Motwani, Chelsea Finn, Divyansh Garg, Rafael Rafailov.* [[Paper](https://arxiv.org/abs/2408.07199)], 2024.8
 
 1. **OpenAI o1.** `Technical Report`
 

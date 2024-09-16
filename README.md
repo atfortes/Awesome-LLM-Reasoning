@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-    <img src="assets/cot.svg" width="80%" style="align:center;"/>
+    <img src="assets/cot.svg" width="90%" style="align:center;"/>
 </p>
 
 <h1 align="center">Awesome LLM Reasoning</h1>

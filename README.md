@@ -121,15 +121,12 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 1. **At Which Training Stage Does Code Data Help LLM Reasoning?** `ICLR 2024`
 
-    *Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li.* [[Paper](https://arxiv.org/pdf/2309.16298)], 2023.09
+    *Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li.* [[Paper](https://arxiv.org/pdf/2309.16298)], 2023.9
 
-   
 1. **Large Language Models Cannot Self-Correct Reasoning Yet.** `ICLR 2024`
 
     *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou.* [[Paper](https://arxiv.org/abs/2310.01798)], 2023.10
    
-
-
 1. **The Impact of Reasoning Step Length on Large Language Models.** `ACL 2024 Findings`
 
     *Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du.* [[Paper](https://arxiv.org/abs/2401.04925)], 2024.1

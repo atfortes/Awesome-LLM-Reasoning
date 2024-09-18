@@ -119,9 +119,16 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Tamera Lanham, Anna Chen, Ansh Radhakrishnan, Benoit Steiner, Carson Denison, Danny Hernandez, Dustin Li, Esin Durmus, Evan Hubinger, Jackson Kernion, Kamilė Lukošiūtė, Karina Nguyen, Newton Cheng, Nicholas Joseph, Nicholas Schiefer, Oliver Rausch, Robin Larson, Sam McCandlish, Sandipan Kundu, Saurav Kadavath, Shannon Yang, Thomas Henighan, Timothy Maxwell, Timothy Telleen-Lawton, Tristan Hume, Zac Hatfield-Dodds, Jared Kaplan, Jan Brauner, Samuel R. Bowman, Ethan Perez.* [[Paper](https://arxiv.org/abs/2307.13702)], 2023.7
 
+1. **At Which Training Stage Does Code Data Help LLM Reasoning?** `ICLR 2024`
+
+    *Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li.* [[Paper](https://arxiv.org/pdf/2309.16298)], 2023.09
+
+   
 1. **Large Language Models Cannot Self-Correct Reasoning Yet.** `ICLR 2024`
 
     *Jie Huang, Xinyun Chen, Swaroop Mishra, Huaixiu Steven Zheng, Adams Wei Yu, Xinying Song, Denny Zhou.* [[Paper](https://arxiv.org/abs/2310.01798)], 2023.10
+   
+
 
 1. **The Impact of Reasoning Step Length on Large Language Models.** `ACL 2024 Findings`
 

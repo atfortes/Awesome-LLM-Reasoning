@@ -162,7 +162,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
-1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** `Preprint`
+1. **Training Language Models to Self-Correct via Reinforcement Learning.** `Preprint`
 
    *Aviral Kumar, Vincent Zhuang, Rishabh Agarwal, Yi Su, JD Co-Reyes, Avi Singh, Kate Baumli, Shariq Iqbal, Colton Bishop, Rebecca Roelofs, Lei M. Zhang, Kay McKinney, Disha Shrivastava, Cosmin Paduraru, George Tucker, Doina Precup, Feryal Behbahani, Aleksandra Faust.* [[Paper](link_to_paper)], 2024.9
 

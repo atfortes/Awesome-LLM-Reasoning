@@ -162,10 +162,6 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
-1. **Training Language Models to Self-Correct via Reinforcement Learning.** `Preprint`
-
-   *Aviral Kumar, Vincent Zhuang, Rishabh Agarwal, Yi Su, JD Co-Reyes, Avi Singh, Kate Baumli, Shariq Iqbal, Colton Bishop, Rebecca Roelofs, Lei M. Zhang, Kay McKinney, Disha Shrivastava, Cosmin Paduraru, George Tucker, Doina Precup, Feryal Behbahani, Aleksandra Faust.* [[Paper](link_to_paper)], 2024.9
-
 1. **Chain of Thought Prompting Elicits Reasoning in Large Language Models.** `NeurIPS 2022`
 
     *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou.* [[Paper](https://arxiv.org/abs/2201.11903)] [[Blog](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html)], 2022.1
@@ -425,6 +421,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 1. **Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents.** `Preprint`
 
     *Pranav Putta, Edmund Mills, Naman Garg, Sumeet Motwani, Chelsea Finn, Divyansh Garg, Rafael Rafailov.* [[Paper](https://arxiv.org/abs/2408.07199)], 2024.8
+
+1. **Training Language Models to Self-Correct via Reinforcement Learning.** `Preprint`
+
+   *Aviral Kumar, Vincent Zhuang, Rishabh Agarwal, Yi Su, JD Co-Reyes, Avi Singh, Kate Baumli, Shariq Iqbal, Colton Bishop, Rebecca Roelofs, Lei M. Zhang, Kay McKinney, Disha Shrivastava, Cosmin Paduraru, George Tucker, Doina Precup, Feryal Behbahani, Aleksandra Faust.* [[Paper](link_to_paper)], 2024.9
 
 1. **OpenAI o1.** `Technical Report`
 

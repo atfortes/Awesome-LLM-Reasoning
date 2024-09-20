@@ -143,6 +143,11 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Chenglei Si, Diyi Yang, Tatsunori Hashimoto.* [[Paper](https://arxiv.org/abs/2409.04109)], 2024.9
 
+1. **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning.** `Preprint`
+
+    *Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, Greg Durrett.* [[Paper](https://arxiv.org/abs/2409.12183)], 2024.9
+
+
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↑ Back to Top ↑

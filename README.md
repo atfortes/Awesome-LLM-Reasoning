@@ -139,6 +139,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, Sebastian Riedel.* [[Paper](https://arxiv.org/abs/2402.16837)], 2024.2
 
+1. **A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners.** `EMNLP 2024`
+   
+    *Bowen Jiang, Yangxinyu Xie, Zhuoqun Hao, Xiaomeng Wang, Tanwi Mallick, Weijie J. Su, Camillo J. Taylor, Dan Roth.* [[Paper](https://arxiv.org/abs/2406.11050)] [[Code](https://github.com/bowen-upenn/llm_token_bias)], 2024.6
+
 1. **Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers.** `Preprint`
 
     *Chenglei Si, Diyi Yang, Tatsunori Hashimoto.* [[Paper](https://arxiv.org/abs/2409.04109)], 2024.9
@@ -146,11 +150,6 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 1. **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning.** `Preprint`
 
     *Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, Greg Durrett.* [[Paper](https://arxiv.org/abs/2409.12183)], 2024.9
-
-1. **A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners.** `EMNLP 2024`
-   
-    *Bowen Jiang, Yangxinyu Xie, Zhuoqun Hao, Xiaomeng Wang, Tanwi Mallick, Weijie J. Su, Camillo J. Taylor, Dan Roth.* [[Paper](https://arxiv.org/abs/2406.11050)] [[Code](https://github.com/bowen-upenn/llm_token_bias)], 2024.9
-
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

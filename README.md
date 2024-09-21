@@ -147,6 +147,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, Greg Durrett.* [[Paper](https://arxiv.org/abs/2409.12183)], 2024.9
 
+1. **A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners.** `EMNLP 2024`
+   
+    *Bowen Jiang, Yangxinyu Xie, Zhuoqun Hao, Xiaomeng Wang, Tanwi Mallick, Weijie J. Su, Camillo J. Taylor, Dan Roth.* [[Paper](https://arxiv.org/abs/2406.11050)] [[Code](https://github.com/bowen-upenn/llm_token_bias)], 2024.9
+
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

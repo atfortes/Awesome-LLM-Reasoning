@@ -428,7 +428,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 1. **Training Language Models to Self-Correct via Reinforcement Learning.** `Preprint`
 
-   *Aviral Kumar, Vincent Zhuang, Rishabh Agarwal, Yi Su, JD Co-Reyes, Avi Singh, Kate Baumli, Shariq Iqbal, Colton Bishop, Rebecca Roelofs, Lei M. Zhang, Kay McKinney, Disha Shrivastava, Cosmin Paduraru, George Tucker, Doina Precup, Feryal Behbahani, Aleksandra Faust.* [[Paper](link_to_paper)], 2024.9
+   *Aviral Kumar, Vincent Zhuang, Rishabh Agarwal, Yi Su, JD Co-Reyes, Avi Singh, Kate Baumli, Shariq Iqbal, Colton Bishop, Rebecca Roelofs, Lei M. Zhang, Kay McKinney, Disha Shrivastava, Cosmin Paduraru, George Tucker, Doina Precup, Feryal Behbahani, Aleksandra Faust.* [[Paper](https://arxiv.org/abs/2409.12917)], 2024.9
 
 1. **OpenAI o1.** `Technical Report`
 

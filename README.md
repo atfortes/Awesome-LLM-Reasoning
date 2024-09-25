@@ -17,6 +17,10 @@
     <b> Curated collection of papers and resources on how to unlock the reasoning ability of LLMs and MLLMs.</b>
 </p>
 
+<div align="center">
+  <a href="https://buymeacoffee.com/atfortes"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+</div>
+
 <details>
   <summary>🗂️ Table of Contents</summary>
   <ol>

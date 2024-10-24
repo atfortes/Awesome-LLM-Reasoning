@@ -121,6 +121,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li.* ICLR'24
 
+1. **[Iteration Head: A Mechanistic Study of Chain-of-Thought](https://arxiv.org/abs/2406.02128)**
+
+    *Vivien Cabannes, Charles Arnal, Wassim Bouaziz, Alice Yang, Francois Charton, Julia Kempe* NeurIPS'24
+
 ### 2023
 
 1. **[Measuring Faithfulness in Chain-of-Thought Reasoning.](https://arxiv.org/abs/2307.13702)**

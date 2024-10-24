@@ -101,6 +101,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Bowen Jiang, Yangxinyu Xie, Zhuoqun Hao, Xiaomeng Wang, Tanwi Mallick, Weijie J. Su, Camillo J. Taylor, Dan Roth.* EMNLP'24
 
+1. **[Iteration Head: A Mechanistic Study of Chain-of-Thought](https://arxiv.org/abs/2406.02128)**
+
+    *Vivien Cabannes, Charles Arnal, Wassim Bouaziz, Alice Yang, Francois Charton, Julia Kempe.* NeurIPS'24
+
 1. **[Do Large Language Models Latently Perform Multi-Hop Reasoning?](https://arxiv.org/abs/2402.16837)**
 
     *Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, Sebastian Riedel.* ACL'24
@@ -120,10 +124,6 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 1. **[At Which Training Stage Does Code Data Help LLM Reasoning?](https://arxiv.org/pdf/2309.16298)**
 
     *Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li.* ICLR'24
-
-1. **[Iteration Head: A Mechanistic Study of Chain-of-Thought](https://arxiv.org/abs/2406.02128)**
-
-    *Vivien Cabannes, Charles Arnal, Wassim Bouaziz, Alice Yang, Francois Charton, Julia Kempe* NeurIPS'24
 
 ### 2023
 

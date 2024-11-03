@@ -184,6 +184,9 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
 ### 2024
+1. **[Interpretable Contrastive Monte Carlo Tree Search Reasoning.](https://arxiv.org/abs/2410.01707)**
+
+    *Zitian Gao, Boye Niu, Xuzheng He, Haotian Xu, Hongzhang Liu, Aiwei Liu, Xuming Hu, Lijie Wen.* Preprint'24
 
 1. **[Training Language Models to Self-Correct via Reinforcement Learning.](https://arxiv.org/abs/2409.12917)**
 

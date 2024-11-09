@@ -195,7 +195,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 1. **[Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up.](https://arxiv.org/abs/2410.12323)** [[code](https://github.com/Jiahao-Yuan/Reversal-of-Thought)]
 
-    *Chengpeng Li, Guanting Dong, Mingfeng Xue, Ru Peng, Xiang Wang, Dayiheng Liu.* Preprint'24
+    *Jiahao Yuan, Dehui Du, Hao Zhang, Zixiang Di, Usman Naseem.* Preprint'24
    
 1. **[Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents.](https://arxiv.org/abs/2408.07199)**
 

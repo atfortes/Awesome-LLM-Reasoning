@@ -89,6 +89,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 ### 2024
 
+1. **[From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond.](https://arxiv.org/abs/2411.03590)**
+
+    *Harsha Nori, Naoto Usuyama, Nicholas King, Scott Mayer McKinney, Xavier Fernandes, Sheng Zhang, Eric Horvitz.* Preprint'24
+
 1. **[To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning.](https://arxiv.org/abs/2409.12183)**
 
     *Zayne Sprague, Fangcong Yin, Juan Diego Rodriguez, Dongwei Jiang, Manya Wadhwa, Prasann Singhal, Xinyu Zhao, Xi Ye, Kyle Mahowald, Greg Durrett.* Preprint'24
@@ -124,10 +128,6 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 1. **[At Which Training Stage Does Code Data Help LLM Reasoning?](https://arxiv.org/pdf/2309.16298)**
 
     *Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li.* ICLR'24
-
-1. **[From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond](https://arxiv.org/abs/2411.03590)**
-
-    *Harsha Nori, Naoto Usuyama, Nicholas King, Scott Mayer McKinney, Xavier Fernandes, Sheng Zhang, Eric Horvitz.* Preprint'24
 
 ### 2023
 

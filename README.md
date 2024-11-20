@@ -309,6 +309,15 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* EACL'24
 
+1. **[Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs.](https://arxiv.org/abs/2406.09136)**
+
+    *Xuan Zhang, Chao Du, Tianyu Pang, Qian Liu, Wei Gao, Min Lin.* Preprint'24
+
+1. **[TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling.](https://arxiv.org/abs/2410.16033v2)**
+
+    *Jiahao Qiu, Yifu Lu, Yifan Zeng, Jiacheng Guo, Jiayi Geng, Huazheng Wang, Kaixuan Huang, Yue Wu, Mengdi Wang.* Preprint'24
+
+
 ### 2023
 
 1. **[Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning.](https://arxiv.org/abs/2312.08901)**

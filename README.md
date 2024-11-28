@@ -189,7 +189,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 ### 2024
 
-1. **[Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions.](https://arxiv.org/abs/2411.14405)** [code](https://github.com/AIDC-AI/Marco-o1) [model](https://huggingface.co/AIDC-AI/Marco-o1)
+1. **[Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions.](https://arxiv.org/abs/2411.14405)** [[code](https://github.com/AIDC-AI/Marco-o1)] [[model](https://huggingface.co/AIDC-AI/Marco-o1)]
 
     *Yu Zhao, Huifeng Yin, Bo Zeng, Hao Wang, Tianqi Shi, Chenyang Lyu, Longyue Wang, Weihua Luo, Kaifu Zhang.* Preprint'24
 
@@ -477,7 +477,7 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 ### 2024
 
-1. **[Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models.](https://arxiv.org/abs/2411.14432)** [code](https://github.com/dongyh20/Insight-V) [model](https://huggingface.co/collections/THUdyh/insight-v-673f5e1dd8ab5f2d8d332035)
+1. **[Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models.](https://arxiv.org/abs/2411.14432)** [[code](https://github.com/dongyh20/Insight-V)] [[model](https://huggingface.co/collections/THUdyh/insight-v-673f5e1dd8ab5f2d8d332035)]
 
     *Yuhao Dong, Zuyan Liu, Hai-Long Sun, Jingkang Yang, Winston Hu, Yongming Rao, Ziwei Liu.* Preprint'24
 

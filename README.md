@@ -29,8 +29,8 @@
     <li><a href="#ltechnique">Technique</a>
       <ul>
         <li><a href="#llm">🔤 Reasoning in Large Language Models - <em>An Emergent Ability</em></a></li>
-        <li><a href="#lm">🤏 Scaling Smaller Language Models to Reason</a></li>
         <li><a href="#mllm">🧠 Multimodal Reasoning in Large Language Models</a></li>
+        <li><a href="#lm">🤏 Scaling Smaller Language Models to Reason</a></li>
       </ul>
     </li>
     <li><a href="#other-useful-resources">Other Useful Resources</a></li>
@@ -188,6 +188,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
 ### 2024
+
+1. **[Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions.](https://arxiv.org/abs/2411.14405)** [code](https://github.com/AIDC-AI/Marco-o1) [model](https://huggingface.co/AIDC-AI/Marco-o1)
+
+    *Yu Zhao, Huifeng Yin, Bo Zeng, Hao Wang, Tianqi Shi, Chenyang Lyu, Longyue Wang, Weihua Luo, Kaifu Zhang.* Preprint'24
 
 1. **[Training Language Models to Self-Correct via Reinforcement Learning.](https://arxiv.org/abs/2409.12917)**
 
@@ -469,57 +473,13 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 
 
-### <h3 id="lm">🤏 Scaling Smaller Language Models to Reason<h3/>
-
-### 2024
-
-1. **[MathScale: Scaling Instruction Tuning for Mathematical Reasoning.](https://arxiv.org/abs/2403.02884)**
-
-    *Zhengyang Tang, Xingxing Zhang, Benyou Wang, Furu Wei.* Preprint'24
-
-### 2023
-
-1. **[Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic.](https://arxiv.org/abs/2308.07336)** [[code](https://github.com/hitachi-nlp/FLD)]
-
-    *Terufumi Morishita, Gaku Morio, Atsuki Yamaguchi, Yasuhiro Sogawa.* ICML'23
-
-1. **[Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step.](https://arxiv.org/abs/2306.14050)** [[code](https://github.com/allenai/cot_distillation)]
-
-    *Liunian Harold Li, Jack Hessel, Youngjae Yu, Xiang Ren, Kai-Wei Chang, Yejin Choi.* ACL'23
-
-1. **[Specializing Smaller Language Models towards Multi-Step Reasoning.](https://arxiv.org/abs/2301.12726)**
-
-    *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot.* ICML'23
-
-1. **[Large Language Models Are Reasoning Teachers.](https://arxiv.org/abs/2212.10071)** [[code](https://github.com/itsnamgyu/reasoning-teacher)]
-
-    *Namgyu Ho, Laura Schmid, Se-Young Yun.* ACL'23
-
-1. **[Teaching Small Language Models to Reason.](https://arxiv.org/abs/2212.08410)**
-
-    *Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn.* ACL'23 Short
-
-1. **[Distilling Multi-Step Reasoning Capabilities of Large Language Models into Smaller Models via Semantic Decompositions.](https://arxiv.org/abs/2212.00193)**
-
-    *Kumar Shridhar, Alessandro Stolfo, Mrinmaya Sachan.* ACL'23 Findings
-
-### 2022
-
-1. **[Scaling Instruction-Finetuned Language Models.](https://arxiv.org/abs/2210.11416)**
-
-    *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei.* JMLR'22
-
-<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
-    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
-        ↑ Back to Top ↑
-    </a>
-</p>
-
-
-
 ### <h3 id="mllm">🧠 Multimodal Reasoning in Large Language Models<h3/>
 
 ### 2024
+
+1. **[Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models.](https://arxiv.org/abs/2411.14432)** [code](https://github.com/dongyh20/Insight-V) [model](https://huggingface.co/collections/THUdyh/insight-v-673f5e1dd8ab5f2d8d332035)
+
+    *Yuhao Dong, Zuyan Liu, Hai-Long Sun, Jingkang Yang, Winston Hu, Yongming Rao, Ziwei Liu.* Preprint'24
 
 1. **[Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models.](https://arxiv.org/abs/2406.09403)** [[project](https://visualsketchpad.github.io/)] [[code](https://github.com/Yushi-Hu/VisualSketchpad)]
 
@@ -578,6 +538,54 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 1. **[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language.](https://arxiv.org/abs/2204.00598)** [[project](https://socraticmodels.github.io/)] [[code](https://github.com/google-research/google-research/tree/master/socraticmodels)]
 
     *Andy Zeng, Maria Attarian, Brian Ichter, Krzysztof Choromanski, Adrian Wong, Stefan Welker, Federico Tombari, Aveek Purohit, Michael Ryoo, Vikas Sindhwani, Johnny Lee, Vincent Vanhoucke, Pete Florence.* ICLR'23
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
+
+
+### <h3 id="lm">🤏 Scaling Smaller Language Models to Reason<h3/>
+
+### 2024
+
+1. **[MathScale: Scaling Instruction Tuning for Mathematical Reasoning.](https://arxiv.org/abs/2403.02884)**
+
+    *Zhengyang Tang, Xingxing Zhang, Benyou Wang, Furu Wei.* Preprint'24
+
+### 2023
+
+1. **[Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic.](https://arxiv.org/abs/2308.07336)** [[code](https://github.com/hitachi-nlp/FLD)]
+
+    *Terufumi Morishita, Gaku Morio, Atsuki Yamaguchi, Yasuhiro Sogawa.* ICML'23
+
+1. **[Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step.](https://arxiv.org/abs/2306.14050)** [[code](https://github.com/allenai/cot_distillation)]
+
+    *Liunian Harold Li, Jack Hessel, Youngjae Yu, Xiang Ren, Kai-Wei Chang, Yejin Choi.* ACL'23
+
+1. **[Specializing Smaller Language Models towards Multi-Step Reasoning.](https://arxiv.org/abs/2301.12726)**
+
+    *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot.* ICML'23
+
+1. **[Large Language Models Are Reasoning Teachers.](https://arxiv.org/abs/2212.10071)** [[code](https://github.com/itsnamgyu/reasoning-teacher)]
+
+    *Namgyu Ho, Laura Schmid, Se-Young Yun.* ACL'23
+
+1. **[Teaching Small Language Models to Reason.](https://arxiv.org/abs/2212.08410)**
+
+    *Lucie Charlotte Magister, Jonathan Mallinson, Jakub Adamek, Eric Malmi, Aliaksei Severyn.* ACL'23 Short
+
+1. **[Distilling Multi-Step Reasoning Capabilities of Large Language Models into Smaller Models via Semantic Decompositions.](https://arxiv.org/abs/2212.00193)**
+
+    *Kumar Shridhar, Alessandro Stolfo, Mrinmaya Sachan.* ACL'23 Findings
+
+### 2022
+
+1. **[Scaling Instruction-Finetuned Language Models.](https://arxiv.org/abs/2210.11416)**
+
+    *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei.* JMLR'22
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

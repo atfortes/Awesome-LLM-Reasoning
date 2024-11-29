@@ -481,6 +481,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Yuhao Dong, Zuyan Liu, Hai-Long Sun, Jingkang Yang, Winston Hu, Yongming Rao, Ziwei Liu.* Preprint'24
 
+1. **[LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440)** [code](https://github.com/PKU-YuanGroup/LLaVA-CoT) [model](https://huggingface.co/Xkev/Llama-3.2V-11B-cot)
+
+    *Guowei Xu, Peng Jin, Hao Li, Yibing Song, Lichao Sun, Li Yuan.* Preprint'24
+
 1. **[Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models.](https://arxiv.org/abs/2406.09403)** [[project](https://visualsketchpad.github.io/)] [[code](https://github.com/Yushi-Hu/VisualSketchpad)]
 
     *Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, Ranjay Krishna.* Preprint'24

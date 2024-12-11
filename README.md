@@ -313,6 +313,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* EACL'24
 
+1. **[Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning.](https://arxiv.org/abs/2410.10735)**
+
+    *Kuofeng Gao, Huanqia Cai, Qingyao Shuai, Dihong Gong, Zhifeng Li.* Preprint'24
+
 ### 2023
 
 1. **[Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning.](https://arxiv.org/abs/2312.08901)**

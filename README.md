@@ -193,6 +193,10 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
     *Yu Zhao, Huifeng Yin, Bo Zeng, Hao Wang, Tianqi Shi, Chenyang Lyu, Longyue Wang, Weihua Luo, Kaifu Zhang.* Preprint'24
 
+1. **[Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning.](https://arxiv.org/abs/2410.10735)**
+
+    *Kuofeng Gao, Huanqia Cai, Qingyao Shuai, Dihong Gong, Zhifeng Li.* Preprint'24
+
 1. **[Training Language Models to Self-Correct via Reinforcement Learning.](https://arxiv.org/abs/2409.12917)**
 
     *Aviral Kumar, Vincent Zhuang, Rishabh Agarwal, Yi Su, JD Co-Reyes, Avi Singh, Kate Baumli, Shariq Iqbal, Colton Bishop, Rebecca Roelofs, Lei M. Zhang, Kay McKinney, Disha Shrivastava, Cosmin Paduraru, George Tucker, Doina Precup, Feryal Behbahani, Aleksandra Faust.* Preprint'24
@@ -312,10 +316,6 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 1. **[Language Models as Inductive Reasoners.](https://arxiv.org/abs/2212.10923)**
 
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* EACL'24
-
-1. **[Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning.](https://arxiv.org/abs/2410.10735)**
-
-    *Kuofeng Gao, Huanqia Cai, Qingyao Shuai, Dihong Gong, Zhifeng Li.* Preprint'24
 
 ### 2023
 

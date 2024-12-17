@@ -189,6 +189,11 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 ### 2024
 
+
+1. **[SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World.](https://arxiv.org/pdf/2412.07472)**
+
+    *Jiaqi Zhang, Chen Gao, Liyuan Zhang, Yong Li, Hongzhi Yin.* Preprint'24
+
 1. **[Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions.](https://arxiv.org/abs/2411.14405)** [[code](https://github.com/AIDC-AI/Marco-o1)] [[model](https://huggingface.co/AIDC-AI/Marco-o1)]
 
     *Yu Zhao, Huifeng Yin, Bo Zeng, Hao Wang, Tianqi Shi, Chenyang Lyu, Longyue Wang, Weihua Luo, Kaifu Zhang.* Preprint'24

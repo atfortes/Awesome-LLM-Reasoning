@@ -484,6 +484,12 @@ Also check out <b><a href=https://github.com/atfortes/Awesome-Controllable-Diffu
 
 ### <h3 id="mllm">🧠 Multimodal Reasoning in Large Language Models<h3/>
 
+### 2025
+
+1. **[LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.](https://arxiv.org/abs/2501.06186)** [[project](https://mbzuai-oryx.github.io/LlamaV-o1/)] [[code](https://github.com/mbzuai-oryx/LlamaV-o1)] [[model](https://huggingface.co/omkarthawakar/LlamaV-o1)]
+
+    *Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed Heakl, Noor Ahsan, Yuhao Li, Mohammed Zumri, Jean Lahoud, Rao Muhammad Anwer, Hisham Cholakkal, Ivan Laptev, Mubarak Shah, Fahad Shahbaz Khan, Salman Khan.* Preprint'25
+
 ### 2024
 
 1. **[Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models.](https://arxiv.org/abs/2411.14432)** [[code](https://github.com/dongyh20/Insight-V)] [[model](https://huggingface.co/collections/THUdyh/insight-v-673f5e1dd8ab5f2d8d332035)]

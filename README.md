@@ -85,6 +85,10 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 
 ### 2024
 
+1. **[Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147)** [[code](https://github.com/open-compass/GPassK)]
+
+    *Junnan Liu, Hongwei Liu, Linchen Xiao, Ziyi Wang, Kuikun Liu, Songyang Gao, Wenwei Zhang, Songyang Zhang, Kai Chen.* Preprint'24
+
 1. **[From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond.](https://arxiv.org/abs/2411.03590)**
 
     *Harsha Nori, Naoto Usuyama, Nicholas King, Scott Mayer McKinney, Xavier Fernandes, Sheng Zhang, Eric Horvitz.* Preprint'24
@@ -183,10 +187,27 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
+### 2025
+
+1. **[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.](https://arxiv.org/abs/2501.12948)** [[project](https://github.com/deepseek-ai/DeepSeek-R1)]
+
+    *Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Ruoyu Zhang, Runxin Xu, Qihao Zhu, Shirong Ma, Peiyi Wang, Xiao Bi, Xiaokang Zhang, Xingkai Yu, Yu Wu, Z.F. Wu, Zhibin Gou, Zhihong Shao, Zhuoshu Li, Ziyi Gao, et al.* Preprint'24
+
+1. **[Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought.](https://arxiv.org/abs/2501.04682)**
+
+    *Violet Xiang, Charlie Snell, Kanishk Gandhi, Alon Albalak, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn.* Preprint'24
+
 ### 2024
 
+1. **[DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought.](https://arxiv.org/abs/2412.17498)** [[code](https://github.com/krystalan/DRT-o1)]
 
-1. **[SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World.](https://arxiv.org/pdf/2412.07472)**
+    *Jiaan Wang, Fandong Meng, Yunlong Liang, Jie Zhou.* Preprint'24
+
+1. **[MALT: Improving Reasoning with Multi-Agent LLM Training.](https://arxiv.org/abs/2412.01928)**
+
+    *Sumeet Ramesh Motwani, Chandler Smith, Rocktim Jyoti Das, Markian Rybchuk, Philip H. S. Torr, Ivan Laptev, Fabio Pizzati, Ronald Clark, Christian Schroeder de Witt.* Preprint'24
+
+1. **[SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World.](https://arxiv.org/abs/2412.07472)**
 
     *Jiaqi Zhang, Chen Gao, Liyuan Zhang, Yong Li, Hongzhi Yin.* Preprint'24
 
@@ -563,6 +584,12 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 
 
 ### <h3 id="lm">🤏 Scaling Smaller Language Models to Reason<h3/>
+
+### 2025
+
+1. **[rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking.](https://arxiv.org/abs/2501.04519)** [[code](https://github.com/microsoft/rStar)]
+
+    *Xinyu Guan, Li Lyna Zhang, Yifei Liu, Ning Shang, Youran Sun, Yi Zhu, Fan Yang, Mao Yang.* Preprint'24
 
 ### 2024
 

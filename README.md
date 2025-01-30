@@ -218,6 +218,10 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 1. **[Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning.](https://arxiv.org/abs/2410.10735)**
 
     *Kuofeng Gao, Huanqia Cai, Qingyao Shuai, Dihong Gong, Zhifeng Li.* Preprint'24
+   
+1. **[Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model.](https://arxiv.org/abs/2410.03136)** [[code](https://github.com/xiongsiheng/SWAP)]
+
+    *Siheng Xiong, Ali Payani, Yuan Yang, Faramarz Fekri.* Preprint'24
 
 1. **[Training Language Models to Self-Correct via Reinforcement Learning.](https://arxiv.org/abs/2409.12917)**
 

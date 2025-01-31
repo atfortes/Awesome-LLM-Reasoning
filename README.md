@@ -198,9 +198,6 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
     *Violet Xiang, Charlie Snell, Kanishk Gandhi, Alon Albalak, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn.* Preprint'24
 
 ### 2024
-1. **[Interpretable Contrastive Monte Carlo Tree Search Reasoning.](https://arxiv.org/abs/2410.01707)**
-
-    *Zitian Gao, Boye Niu, Xuzheng He, Haotian Xu, Hongzhang Liu, Aiwei Liu, Xuming Hu, Lijie Wen.* Preprint'24
 
 1. **[DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought.](https://arxiv.org/abs/2412.17498)** [[code](https://github.com/krystalan/DRT-o1)]
 
@@ -221,10 +218,14 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 1. **[Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning.](https://arxiv.org/abs/2410.10735)**
 
     *Kuofeng Gao, Huanqia Cai, Qingyao Shuai, Dihong Gong, Zhifeng Li.* Preprint'24
-   
+
 1. **[Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model.](https://arxiv.org/abs/2410.03136)** [[code](https://github.com/xiongsiheng/SWAP)]
 
     *Siheng Xiong, Ali Payani, Yuan Yang, Faramarz Fekri.* Preprint'24
+
+1. **[Interpretable Contrastive Monte Carlo Tree Search Reasoning.](https://arxiv.org/abs/2410.01707)**
+
+    *Zitian Gao, Boye Niu, Xuzheng He, Haotian Xu, Hongzhang Liu, Aiwei Liu, Xuming Hu, Lijie Wen.* Preprint'24
 
 1. **[Training Language Models to Self-Correct via Reinforcement Learning.](https://arxiv.org/abs/2409.12917)**
 

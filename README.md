@@ -198,6 +198,9 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
     *Violet Xiang, Charlie Snell, Kanishk Gandhi, Alon Albalak, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn.* Preprint'24
 
 ### 2024
+1. **[Interpretable Contrastive Monte Carlo Tree Search Reasoning.](https://arxiv.org/abs/2410.01707)**
+
+    *Zitian Gao, Boye Niu, Xuzheng He, Haotian Xu, Hongzhang Liu, Aiwei Liu, Xuming Hu, Lijie Wen.* Preprint'24
 
 1. **[DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought.](https://arxiv.org/abs/2412.17498)** [[code](https://github.com/krystalan/DRT-o1)]
 

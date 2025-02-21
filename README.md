@@ -188,7 +188,10 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
 ### 2025
+1. **[S²R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning.](https://www.arxiv.org/abs/2502.12853)** [[project](https://github.com/NineAbyss/S2R)]
 
+    *Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, Jiaqi Chen, Bang Zhang, Xin Zhou, Nan Du, Jia Li* Preprint'25
+    
 1. **[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.](https://arxiv.org/abs/2501.12948)** [[project](https://github.com/deepseek-ai/DeepSeek-R1)]
 
     *Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Ruoyu Zhang, Runxin Xu, Qihao Zhu, Shirong Ma, Peiyi Wang, Xiao Bi, Xiaokang Zhang, Xingkai Yu, Yu Wu, Z.F. Wu, Zhibin Gou, Zhihong Shao, Zhuoshu Li, Ziyi Gao, et al.* Preprint'24

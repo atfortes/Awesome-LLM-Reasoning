@@ -235,6 +235,10 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 
     *Open AI Team.* Technical Report'24
 
+1. **[Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up.](https://arxiv.org/abs/2410.12323)** [[code](https://github.com/Jiahao-Yuan/Reversal-of-Thought)]
+
+    *Jiahao Yuan, Dehui Du, Hao Zhang, Zixiang Di, Usman Naseem.* Preprint'24
+   
 1. **[Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents.](https://arxiv.org/abs/2408.07199)**
 
     *Pranav Putta, Edmund Mills, Naman Garg, Sumeet Motwani, Chelsea Finn, Divyansh Garg, Rafael Rafailov.* Preprint'24

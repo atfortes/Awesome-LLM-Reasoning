@@ -594,6 +594,9 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 ### <h3 id="lm">🤏 Scaling Smaller Language Models to Reason<h3/>
 
 ### 2025
+1. **[S²R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning.](https://www.arxiv.org/abs/2502.12853)** [[project](https://github.com/NineAbyss/S2R)]
+
+    *Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, Jiaqi Chen, Bang Zhang, Xin Zhou, Nan Du, Jia Li* Preprint'25
 
 1. **[rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking.](https://arxiv.org/abs/2501.04519)** [[code](https://github.com/microsoft/rStar)]
 

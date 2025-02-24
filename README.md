@@ -42,6 +42,11 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 ## Survey
 
 
+### 2025
+
+1. **[Advancing Reasoning in Large Language Models: Promising Methods and Approaches.](https://arxiv.org/abs/2502.03671)** 
+
+ *Avinash Patil.* Preprint'25
 
 ### 2024
 

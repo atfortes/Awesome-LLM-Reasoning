@@ -595,6 +595,10 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 
 ### 2025
 
+1. **[Learning to Reason from Feedback at Test-Time.](https://arxiv.org/abs/2502.15771)** [[code](https://github.com/LaVi-Lab/FTTT)]
+
+    *Yanyang Li, Michael Lyu, Liwei Wang.* Preprint'25
+
 1. **[S²R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning.](https://arxiv.org/abs/2502.12853)** [[code](https://github.com/NineAbyss/S2R)]
 
     *Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, Jiaqi Chen, Bang Zhang, Xin Zhou, Nan Du, Jia Li.* Preprint'25

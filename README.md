@@ -35,13 +35,17 @@
   </ol>
 </details>
 
-If you would like to test an LLM's symbolic reasoning ability, take a look at: <b><a href=https://github.com/atfortes/LLMSymbolicReasoningBench>LLMSymbolicReasoningBench</a></b> 😄
+If you would like to test the symbolic reasoning ability of LLMs, take a look at: <b><a href=https://github.com/atfortes/LLMSymbolicReasoningBench>LLMSymbolicReasoningBench</a></b> 😄
 
 
 
 ## Survey
 
+### 2025
 
+1. **[Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.](https://arxiv.org/abs/2503.12605)** [[code](https://github.com/yaotingwangofficial/Awesome-MCoT)]
+
+    *Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, William Wang, Ziwei Liu, Jiebo Luo, Hao Fei.* Preprint'25
 
 ### 2024
 
@@ -81,7 +85,11 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 
 ## Analysis
 
+### 2025
 
+1. **[New Trends for Modern Machine Translation with Large Reasoning Models.](https://arxiv.org/abs/2503.10351)**
+
+    *Sinuo Liu, Chenyang Lyu, Minghao Wu, Longyue Wang, Weihua Luo, Kaifu Zhang, Zifu Shang.* Preprint'25
 
 ### 2024
 
@@ -189,13 +197,29 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 
 ### 2025
 
+1. **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching.](https://arxiv.org/abs/2503.05179)** [[code](https://www.github.com/SimonAytes/SoT)]
+
+    *Simon A. Aytes, Jinheon Baek, Sung Ju Hwang.* Preprint'25
+
+1. **[Self-rewarding correction for mathematical reasoning.](https://arxiv.org/abs/2502.19613)**
+
+    *Wei Xiong, Hanning Zhang, Chenlu Ye, Lichang Chen, Nan Jiang, Tong Zhang.* Preprint'25
+
+1. **[Competitive Programming with Large Reasoning Models.](https://arxiv.org/abs/2502.06807)**
+
+    *OpenAI: Ahmed El-Kishky, Alexander Wei, Andre Saraiva, Borys Minaiev, Daniel Selsam, David Dohan, Francis Song, Hunter Lightman, Ignasi Clavera, Jakub Pachocki, Jerry Tworek, Lorenz Kuhn, Lukasz Kaiser, Mark Chen, Max Schwarzer, Mostafa Rohaninejad, Nat McAleese, o3 contributors, Oleg Mürk, Rhythm Garg, Rui Shu, Szymon Sidor, Vineet Kosaraju, Wenda Zhou.* Preprint'25
+
+1. **[s1: Simple test-time scaling.](https://arxiv.org/abs/2501.19393)**
+
+    *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto.* Preprint'25
+
 1. **[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.](https://arxiv.org/abs/2501.12948)** [[project](https://github.com/deepseek-ai/DeepSeek-R1)]
 
-    *Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Ruoyu Zhang, Runxin Xu, Qihao Zhu, Shirong Ma, Peiyi Wang, Xiao Bi, Xiaokang Zhang, Xingkai Yu, Yu Wu, Z.F. Wu, Zhibin Gou, Zhihong Shao, Zhuoshu Li, Ziyi Gao, et al.* Preprint'24
+    *Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Ruoyu Zhang, Runxin Xu, Qihao Zhu, Shirong Ma, Peiyi Wang, Xiao Bi, Xiaokang Zhang, Xingkai Yu, Yu Wu, Z.F. Wu, Zhibin Gou, Zhihong Shao, Zhuoshu Li, Ziyi Gao, et al.* Preprint'25
 
 1. **[Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought.](https://arxiv.org/abs/2501.04682)**
 
-    *Violet Xiang, Charlie Snell, Kanishk Gandhi, Alon Albalak, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn.* Preprint'24
+    *Violet Xiang, Charlie Snell, Kanishk Gandhi, Alon Albalak, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn.* Preprint'25
 
 ### 2024
 

@@ -199,6 +199,10 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 
 ### 2024
 
+1. **[HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925)** [[code](https://github.com/FreedomIntelligence/HuatuoGPT-o1)]
+
+    *Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang.* Preprint'24
+
 1. **[DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought.](https://arxiv.org/abs/2412.17498)** [[code](https://github.com/krystalan/DRT-o1)]
 
     *Jiaan Wang, Fandong Meng, Yunlong Liang, Jie Zhou.* Preprint'24

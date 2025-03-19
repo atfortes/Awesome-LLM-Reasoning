@@ -511,6 +511,10 @@ If you would like to test an LLM's symbolic reasoning ability, take a look at: <
 
 ### 2025
 
+1. **[Introducing Visual Perception Token into Multimodal Large Language Model.](https://arxiv.org/abs/2502.17425)** [[code](https://github.com/yu-rp/VisualPerceptionToken)] [[model](https://huggingface.co/collections/rp-yu/vpt-models-67b6afdc8679a05a2876f07a)] [[dataset](https://huggingface.co/datasets/rp-yu/VPT_Datasets)]
+
+    *Runpeng Yu, Xinyin Ma, Xinchao Wang.* Preprint'25
+
 1. **[LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs.](https://arxiv.org/abs/2501.06186)** [[project](https://mbzuai-oryx.github.io/LlamaV-o1/)] [[code](https://github.com/mbzuai-oryx/LlamaV-o1)] [[model](https://huggingface.co/omkarthawakar/LlamaV-o1)]
 
     *Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed Heakl, Noor Ahsan, Yuhao Li, Mohammed Zumri, Jean Lahoud, Rao Muhammad Anwer, Hisham Cholakkal, Ivan Laptev, Mubarak Shah, Fahad Shahbaz Khan, Salman Khan.* Preprint'25

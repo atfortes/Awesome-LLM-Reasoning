@@ -137,6 +137,14 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
     *Yingwei Ma, Yue Liu, Yue Yu, Yuanliang Zhang, Yu Jiang, Changjian Wang, Shanshan Li.* ICLR'24
 
+1. **[Large Language Models Are Not Strong Abstract Reasoners](https://arxiv.org/abs/2305.19555)**
+
+    *Gaël Gendron, Qiming Bao, Michael Witbrock, Gillian Dobbie.* IJCAI'24
+
+1. **[Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning](https://arxiv.org/abs/2310.09430)**
+
+    *Qiming Bao, Gaël Gendron, Alex Peng, Neset Tan, Michael Witbrock, Jiamou Liu.* ICONIP'24
+
 ### 2023
 
 1. **[Measuring Faithfulness in Chain-of-Thought Reasoning.](https://arxiv.org/abs/2307.13702)**
@@ -220,6 +228,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 1. **[Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought.](https://arxiv.org/abs/2501.04682)**
 
     *Violet Xiang, Charlie Snell, Kanishk Gandhi, Alon Albalak, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn.* Preprint'25
+
+1. **[Exploring Iterative Enhancement for Improving Learnersourced Multiple-Choice Question Explanations with Large Language Models.](http://arxiv.org/abs/2309.10444)**
+
+    *Qiming Bao, Juho Leinonen, Alex Yuxuan Peng, Wanjun Zhong, Tim Pistotti, Alice Huang, Paul Denny, Michael Witbrock, Jiamou Liu.*  AAAI/EAAI'25
 
 ### 2024
 
@@ -375,6 +387,15 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
     *Zonglin Yang, Li Dong, Xinya Du, Hao Cheng, Erik Cambria, Xiaodong Liu, Jianfeng Gao, Furu Wei.* EACL'24
 
+1. **[Abstract Meaning Representation-Based Logic-Driven Data Augmentation for Logical Reasoning.](https://aclanthology.org/2024.findings-acl.353/)**
+
+    *Qiming Bao, Alex Peng, Zhenyun Deng, Wanjun Zhong, Gaël Gendron, Neşet Tan, Nathan Young, Yang Chen, Yonghua Zhu, Michael Witbrock, Jiamou Liu.* ACL'24 Findings
+
+1. **[ChatLogic: Integrating Logic Programming with Large Language Models for Multi-step Reasoning.](https://openreview.net/forum?id=AOqGF7Po7Z)**
+
+    *Zhongsheng Wang, Jiamou Liu, Qiming Bao, Hongfei Rong, Jingfeng Zhang.* NucLeaR@AAAI'24
+   
+
 ### 2023
 
 1. **[Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning.](https://arxiv.org/abs/2312.08901)**
@@ -526,6 +547,14 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 1. **[Chain of Thought Prompting Elicits Reasoning in Large Language Models.](https://arxiv.org/abs/2201.11903)** [[blog](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html)]
 
     *Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou.* NeurIPS'22
+
+1. **[AbductionRules: Training Transformers to Explain Unexpected Inputs.](https://aclanthology.org/2022.findings-acl.19/)**
+
+    *Nathan Young, Qiming Bao, Joshua Ljudo Bensemann, Michael J. Witbrock.* ACL'22 Findings
+
+1. **[Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation.](https://arxiv.org/abs/2207.14000)**
+
+    *Qiming Bao, Alex Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu.* NeSy'22
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

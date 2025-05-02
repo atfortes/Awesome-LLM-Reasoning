@@ -196,6 +196,9 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
 ### 2025
+1. **[CRANE: Reasoning with constrained LLM generation.](https://arxiv.org/abs/2502.09061)**
+
+    *Debangshu Banerjee, Tarun Suresh, Shubham Ugare, Sasa Misailovic, Gagandeep Singh.* ICML'25
 
 1. **[Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching.](https://arxiv.org/abs/2503.05179)** [[code](https://www.github.com/SimonAytes/SoT)]
 

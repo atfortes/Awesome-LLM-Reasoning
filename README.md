@@ -196,6 +196,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
 ### 2025
+1. **[JudgeLRM: Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050)**
+
+    *Nuo Chen, Zhiyuan Hu, Qingyun Zou, Jiaying Wu, Qian Wang, Bryan Hooi, Bingsheng He.* Preprint'25
+   
 1. **[CRANE: Reasoning with constrained LLM generation.](https://arxiv.org/abs/2502.09061)**
 
     *Debangshu Banerjee, Tarun Suresh, Shubham Ugare, Sasa Misailovic, Gagandeep Singh.* ICML'25

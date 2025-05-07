@@ -47,6 +47,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
     *Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, William Wang, Ziwei Liu, Jiebo Luo, Hao Fei.* Preprint'25
 
+2. **[Recent advances in large langauge model benchmarks against data contamination: From static to dynamic evaluation](https://arxiv.org/abs/2502.17521)** [[code](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval)]
+    *Simin Chen, Yiming Chen, Zexin Li, Yifan Jiang, Zhongwei Wan, Yixin He, Dezhi Ran, Tianle Gu, Haizhou Li, Tao Xie, Baishakhi Ray* Preprint'25
+
+
 ### 2024
 
 1. **[Attention Heads of Large Language Models: A Survey.](https://arxiv.org/abs/2409.03752)** [[code](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads)]
@@ -196,6 +200,9 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
 ### 2025
+1. **[Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination](https://arxiv.org/abs/2503.04149)** [[code](https://codekaleidoscope.github.io/dycodeeval.html)]
+    *Simin Chen, Pranav Pusarla, Baishakhi Ray* ICML'25
+
 1. **[JudgeLRM: Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050)**
 
     *Nuo Chen, Zhiyuan Hu, Qingyun Zou, Jiaying Wu, Qian Wang, Bryan Hooi, Bingsheng He.* Preprint'25
@@ -233,6 +240,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 1. **[HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925)** [[code](https://github.com/FreedomIntelligence/HuatuoGPT-o1)]
 
     *Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang.* Preprint'24
+
+
+1. **[PPM: Automated Generation of Diverse Programming Problems for Benchmarking Code Generation Models](https://dl.acm.org/doi/abs/10.1145/3643780)** [[code](https://dl.acm.org/doi/pdf/10.1145/3643780)]
+    *Simin Chen, XiaoNing Feng, Xiaohong Han, Cong Liu, Wei Yang* FSE'24
 
 1. **[DRT-o1: Optimized Deep Reasoning Translation via Long Chain-of-Thought.](https://arxiv.org/abs/2412.17498)** [[code](https://github.com/krystalan/DRT-o1)]
 

@@ -762,7 +762,3 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 <a href="https://github.com/atfortes/Awesome-LLM-Reasoning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=atfortes/Awesome-LLM-Reasoning" />
 </a>
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=atfortes/Awesome-LLM-Reasoning&type=Timeline)](https://star-history.com/#atfortes/Awesome-LLM-Reasoning&Timeline)

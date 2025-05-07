@@ -47,9 +47,9 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
     *Yaoting Wang, Shengqiong Wu, Yuecheng Zhang, William Wang, Ziwei Liu, Jiebo Luo, Hao Fei.* Preprint'25
 
-2. **[Recent advances in large langauge model benchmarks against data contamination: From static to dynamic evaluation](https://arxiv.org/abs/2502.17521)** [[code](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval)]
-    *Simin Chen, Yiming Chen, Zexin Li, Yifan Jiang, Zhongwei Wan, Yixin He, Dezhi Ran, Tianle Gu, Haizhou Li, Tao Xie, Baishakhi Ray* Preprint'25
+2. **[Recent Advances in Large Language Model Benchmarks Against Data Contamination: From Static to Dynamic Evaluation.](https://arxiv.org/abs/2502.17521)** [[code](https://github.com/SeekingDream/Static-to-Dynamic-LLMEval)]
 
+    *Simin Chen, Yiming Chen, Zexin Li, Yifan Jiang, Zhongwei Wan, Yixin He, Dezhi Ran, Tianle Gu, Haizhou Li, Tao Xie, Baishakhi Ray.* Preprint'25
 
 ### 2024
 
@@ -200,13 +200,15 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
 ### 2025
-1. **[Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination](https://arxiv.org/abs/2503.04149)** [[code](https://codekaleidoscope.github.io/dycodeeval.html)]
-    *Simin Chen, Pranav Pusarla, Baishakhi Ray* ICML'25
 
 1. **[JudgeLRM: Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050)**
 
     *Nuo Chen, Zhiyuan Hu, Qingyun Zou, Jiaying Wu, Qian Wang, Bryan Hooi, Bingsheng He.* Preprint'25
    
+1. **[Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination.](https://arxiv.org/abs/2503.04149)** [[code](https://codekaleidoscope.github.io/dycodeeval.html)]
+
+    *Simin Chen, Pranav Pusarla, Baishakhi Ray.* ICML'25
+
 1. **[CRANE: Reasoning with constrained LLM generation.](https://arxiv.org/abs/2502.09061)**
 
     *Debangshu Banerjee, Tarun Suresh, Shubham Ugare, Sasa Misailovic, Gagandeep Singh.* ICML'25

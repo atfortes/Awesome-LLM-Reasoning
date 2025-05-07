@@ -554,6 +554,8 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
     *Omkar Thawakar, Dinura Dissanayake, Ketan More, Ritesh Thawkar, Ahmed Heakl, Noor Ahsan, Yuhao Li, Mohammed Zumri, Jean Lahoud, Rao Muhammad Anwer, Hisham Cholakkal, Ivan Laptev, Mubarak Shah, Fahad Shahbaz Khan, Salman Khan.* Preprint'25
 
+1. **[Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696)** [[project]](https://embodied-reasoner.github.io/)[[code](https://github.com/zwq2018/embodied_reasoner)][[dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)]
+   *Wenqi Zhang, Mengna Wang, Gangao Liu, Xu Huixin, Yiwei Jiang, Yongliang Shen, Guiyang Hou, Zhe Zheng, Hang Zhang, Xin Li, Weiming Lu, Peng Li, Yueting Zhuang.* Preprint'25
 ### 2024
 
 1. **[Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models.](https://arxiv.org/abs/2411.14432)** [[code](https://github.com/dongyh20/Insight-V)] [[model](https://huggingface.co/collections/THUdyh/insight-v-673f5e1dd8ab5f2d8d332035)]

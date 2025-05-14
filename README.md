@@ -651,7 +651,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 1. **[Guiding Reasoning in Small Language Models with LLM Assistance.](https://arxiv.org/abs/2504.09923)**[[code](https://github.com/kimyuji/ScaffoldedReasoning)]
 
-    *Yujin Kim, Euiin Yi, Minu Kim, Se-Young Yun, Taehyeon Kim. Preprint'25
+    *Yujin Kim, Euiin Yi, Minu Kim, Se-Young Yun, Taehyeon Kim.* Preprint'25
 
 1. **[Learning to Reason from Feedback at Test-Time.](https://arxiv.org/abs/2502.15771)** [[code](https://github.com/LaVi-Lab/FTTT)]
 

@@ -97,6 +97,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2024
 
+1. **[What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective](https://arxiv.org/abs/2410.23743)** [[code](https://github.com/MingLiiii/Layer_Gradient)]
+
+    *Ming Li, Yanhong Li, Tianyi Zhou.* Preprint'24
+
 1. **[Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147)** [[code](https://github.com/open-compass/GPassK)]
 
     *Junnan Liu, Hongwei Liu, Linchen Xiao, Ziyi Wang, Kuikun Liu, Songyang Gao, Wenwei Zhang, Songyang Zhang, Kai Chen.* Preprint'24

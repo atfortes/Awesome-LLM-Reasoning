@@ -237,6 +237,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
     *Violet Xiang, Charlie Snell, Kanishk Gandhi, Alon Albalak, Anikait Singh, Chase Blagden, Duy Phung, Rafael Rafailov, Nathan Lile, Dakota Mahan, Louis Castricato, Jan-Philipp Franken, Nick Haber, Chelsea Finn.* Preprint'25
 
+1. **[From chaos to order: The atomic reasoner framework for fine-grained reasoning in large language models.](https://arxiv.org/abs/2503.15944)**
+
+    *Jinyi Liu, Yan Zheng, Rong Cheng, Qiyu Wu, Wei Guo, Fei Ni, Hebin Liang, Yifu Yuan, Hangyu Mao, Fuzheng Zhang, Jianye Hao.* Preprint'25
+
 ### 2024
 
 1. **[HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs](https://arxiv.org/abs/2412.18925)** [[code](https://github.com/FreedomIntelligence/HuatuoGPT-o1)]
@@ -569,6 +573,11 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 1. **[Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks](https://arxiv.org/abs/2503.21696)** [[project]](https://embodied-reasoner.github.io/)[[code](https://github.com/zwq2018/embodied_reasoner)][[dataset](https://huggingface.co/datasets/zwq2018/embodied_reasoner)]
    *Wenqi Zhang, Mengna Wang, Gangao Liu, Xu Huixin, Yiwei Jiang, Yongliang Shen, Guiyang Hou, Zhe Zheng, Hang Zhang, Xin Li, Weiming Lu, Peng Li, Yueting Zhuang.* Preprint'25
+
+1. **[From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation.](https://arxiv.org/abs/2505.08548)**[[project]](https://embodied-fsd.github.io/)[[code]](https://github.com/pickxiguapi/Embodied-FSD)
+
+    *Yifu Yuan, Haiqin Cui, Yibin Chen, Zibin Dong, Fei Ni, Longxin Kou, Jinyi Liu, Pengyi Li, Yan Zheng, Jianye Hao.* Preprint'25
+
 ### 2024
 
 1. **[Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models.](https://arxiv.org/abs/2411.14432)** [[code](https://github.com/dongyh20/Insight-V)] [[model](https://huggingface.co/collections/THUdyh/insight-v-673f5e1dd8ab5f2d8d332035)]
@@ -598,6 +607,11 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 1. **[Link-Context Learning for Multimodal LLMs.](https://arxiv.org/abs/2308.07891)** [[code](https://github.com/isekai-portal/Link-Context-Learning)]
 
     *Yan Tai, Weichen Fan, Zhao Zhang, Feng Zhu, Rui Zhao, Ziwei Liu.* CVPR'24
+
+1. **[PERIA: Perceive, Reason, Imagine, Act via Holistic Language and Vision Planning for Manipulation.](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1f6af963e891e7efa229c24a1607fa7f-Abstract-Conference.html)**[[project]](https://peria-for-robotics.github.io/)
+
+    *Fei Ni, Jianye Hao, Shiguang Wu, Longxin Kou, Yifu Yuan, Zibin Dong, Jinyi Liu, Mingzhi Li, Yuzheng Zhuang, Yan Zheng.* NeurIPS'24
+
 
 ### 2023
 

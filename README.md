@@ -559,6 +559,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2025
 
+1. **[PhyX: Does Your Model Have the "Wits" for Physical Reasoning?]([https://arxiv.org/abs/2502.17425](https://arxiv.org/abs/2505.15929))** [[project](https://phyx-bench.github.io/)] [[code](https://github.com/NastyMarcus/PhyX)] [[dataset](https://huggingface.co/datasets/Cloudriver/PhyX)]
+
+    *Hui Shen, Taiqiang Wu, Qi Han, Yunta Hsieh, Jizhou Wang, Yuyue Zhang, Yuxin Cheng, Zijian Hao, Yuansheng Ni, Xin Wang, Zhongwei Wan, Kai Zhang, Wendong Xu, Jing Xiong, Ping Luo, Wenhu Chen, Chaofan Tao, Zhuoqing Mao, Ngai Wong.* Preprint'25
+
 1. **[Introducing Visual Perception Token into Multimodal Large Language Model.](https://arxiv.org/abs/2502.17425)** [[code](https://github.com/yu-rp/VisualPerceptionToken)] [[model](https://huggingface.co/collections/rp-yu/vpt-models-67b6afdc8679a05a2876f07a)] [[dataset](https://huggingface.co/datasets/rp-yu/VPT_Datasets)]
 
     *Runpeng Yu, Xinyin Ma, Xinchao Wang.* Preprint'25

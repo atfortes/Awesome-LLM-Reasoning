@@ -719,6 +719,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 - **[LogiTorch](https://github.com/LogiTorch/logitorch)**  PyTorch-based library for logical reasoning on natural language.
 - **[salesforce/LAVIS](https://github.com/salesforce/LAVIS)**  One-stop Library for Language-Vision Intelligence.
 - **[facebookresearch/RAM](https://github.com/facebookresearch/RAM)**  A framework to study AI models in Reasoning, Alignment, and use of Memory (RAM).
+- **[MCTS-GSM8k-From-Scratch](https://github.com/Wangmerlyn/MCTS-GSM8k-Demo)** A minimal, from-scratch implementation of Monte Carlo Tree Search (MCTS) for GSM8K math reasoning with language models. Designed as an educational demo.
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

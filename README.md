@@ -95,6 +95,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
     *Sinuo Liu, Chenyang Lyu, Minghao Wu, Longyue Wang, Weihua Luo, Kaifu Zhang, Zifu Shang.* Preprint'25
 
+1. **[SPaRC: A Spatial Pathfinding Reasoning Challenge.](https://arxiv.org/abs/2505.16686)**
+
+    *Lars Benedikt Kaesberg, Jan Philip Wahle, Terry Ruas, Bela Gipp.* EMNLP'25
+
 ### 2024
 
 1. **[Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147)** [[code](https://github.com/open-compass/GPassK)]

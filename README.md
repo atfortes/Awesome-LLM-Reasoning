@@ -557,6 +557,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### <h3 id="mllm">🧠 Multimodal Reasoning in Large Language Models<h3/>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts using structured reasoning: task decomposition, delegation chains, and evidence-based quality gates. MIT licensed.
 ### 2025
 
 1. **[Introducing Visual Perception Token into Multimodal Large Language Model.](https://arxiv.org/abs/2502.17425)** [[code](https://github.com/yu-rp/VisualPerceptionToken)] [[model](https://huggingface.co/collections/rp-yu/vpt-models-67b6afdc8679a05a2876f07a)] [[dataset](https://huggingface.co/datasets/rp-yu/VPT_Datasets)]

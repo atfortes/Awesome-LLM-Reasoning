@@ -762,3 +762,5 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 <a href="https://github.com/atfortes/Awesome-LLM-Reasoning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=atfortes/Awesome-LLM-Reasoning" />
 </a>
+
+- [MeterCall](https://metercall.ai/?v=c&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.

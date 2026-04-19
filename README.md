@@ -41,6 +41,9 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ## Survey
 
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 ### 2025
 
 1. **[Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey.](https://arxiv.org/abs/2503.12605)** [[code](https://github.com/yaotingwangofficial/Awesome-MCoT)]

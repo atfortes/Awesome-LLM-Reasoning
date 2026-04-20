@@ -559,6 +559,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2025
 
+1. **[RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics.](https://arxiv.org/abs/2512.13660)** [[code](https://github.com/Zhoues/RoboTracer)] [[project](https://zhoues.github.io/RoboTracer/)]
+
+    *Enshen Zhou , Cheng Chi , Yibo Li , Jingkun An , Jiayuan Zhang , Shanyu Rong , Yi Han , Yuheng Ji , Mengzhen Liu , Pengwei Wang , Zhongyuan Wang , Lu Sheng , Shanghang Zhang.* Preprint'25
+
 1. **[Introducing Visual Perception Token into Multimodal Large Language Model.](https://arxiv.org/abs/2502.17425)** [[code](https://github.com/yu-rp/VisualPerceptionToken)] [[model](https://huggingface.co/collections/rp-yu/vpt-models-67b6afdc8679a05a2876f07a)] [[dataset](https://huggingface.co/datasets/rp-yu/VPT_Datasets)]
 
     *Runpeng Yu, Xinyin Ma, Xinchao Wang.* Preprint'25

@@ -87,6 +87,22 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 
 
+## Workshop and Challenge
+
+### 2025
+
+1. **[ICCV 2025 MARS2 Workshop and Challenge "Multimodal Reasoning and Slow Thinking in the Large Model Era: Towards System 2 and Beyond''.](https://arxiv.org/abs/2509.14142)** [[web page](https://mars2workshop.github.io/iccv2025/), [datasets and codes](https://github.com/mars2workshop/)]
+
+    *Peng Xu, Shengwu Xiong, Jiajun Zhang, Yaxiong Chen, Bowen Zhou, Chen Change Loy, David A. Clifton, Kyoung Mu Lee, Luc Van Gool.* ICCV Workshop'25
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top ↑
+    </a>
+</p>
+
+
+
 ## Analysis
 
 ### 2025

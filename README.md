@@ -91,6 +91,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2025
 
+1. **[Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers.](https://arxiv.org/abs/2506.15674)** [[code](https://github.com/parameterlab/leaky_thoughts)] [[dataset](https://huggingface.co/datasets/parameterlab/leaky_thoughts)]
+
+    *Tommaso Green, Martin Gubri, Haritz Puerto, Sangdoo Yun, Seong Joon Oh.* EMNLP'25
+
 1. **[New Trends for Modern Machine Translation with Large Reasoning Models.](https://arxiv.org/abs/2503.10351)**
 
     *Sinuo Liu, Chenyang Lyu, Minghao Wu, Longyue Wang, Weihua Luo, Kaifu Zhang, Zifu Shang.* Preprint'25

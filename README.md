@@ -381,6 +381,8 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 1. **[Let's Verify Step by Step.](https://arxiv.org/abs/2305.20050)**
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — AI monitoring dashboard for AI agents and LLMs (Vue3 + Node.js, open source). [![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)](https://github.com/flik2002/openclaw-monitor-frontend)
+
     *Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe.* ICLR'24
 
 1. **[REFINER: Reasoning Feedback on Intermediate Representations.](https://arxiv.org/abs/2304.01904)** [[project](https://debjitpaul.github.io/refiner/)] [[code](https://github.com/debjitpaul/refiner)]

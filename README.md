@@ -95,6 +95,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
     *Sinuo Liu, Chenyang Lyu, Minghao Wu, Longyue Wang, Weihua Luo, Kaifu Zhang, Zifu Shang.* Preprint'25
 
+1. **[Phase Transitions in Large Language Models and the O(N) Model.](https://arxiv.org/abs/2501.16241)**
+
+    *Youran Sun, Babak Haghighat.* Preprint'25
+
 ### 2024
 
 1. **[Are Your LLMs Capable of Stable Reasoning?](https://arxiv.org/abs/2412.13147)** [[code](https://github.com/open-compass/GPassK)]

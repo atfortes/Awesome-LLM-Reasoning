@@ -742,6 +742,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 - **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)**  Curated list of Large Language Model.
 - **[Awesome LLM Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency)**  Curated list of Self-consistency in Large Language Models.
 - **[Deep-Reasoning-Papers](https://github.com/floodsung/Deep-Reasoning-Papers)**  Recent Papers including Neural-Symbolic Reasoning, Logical Reasoning, and Visual Reasoning.
+- **[Awesome-Latent-Refinement](https://github.com/matinaghaei/awesome-latent-refinement)**  Research on models and agents that improve reasoning and planning through iterative latent computation.
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

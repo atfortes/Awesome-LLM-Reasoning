@@ -713,6 +713,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - **[LLM Reasoners](https://github.com/Ber666/llm-reasoners)**  A library for advanced large language model reasoning.
+- **[AI Models Catalog](https://github.com/i-need-token/ai-models)**  Structured database of 4,587+ AI models across 95 providers. Includes 1,306 reasoning models with pricing, context windows, and capabilities. [Interactive catalog](https://i-need-token.github.io/ai-models/) with model picker and price calculator.
 - **[Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub)**  Benchmarking LLM reasoning performance with chain-of-thought prompting.
 - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - **[ThoughtSource](https://github.com/OpenBioLink/ThoughtSource)**  Central and open resource for data and tools related to chain-of-thought reasoning in large language models.

@@ -721,6 +721,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 - **[LogiTorch](https://github.com/LogiTorch/logitorch)**  PyTorch-based library for logical reasoning on natural language.
 - **[salesforce/LAVIS](https://github.com/salesforce/LAVIS)**  One-stop Library for Language-Vision Intelligence.
 - **[facebookresearch/RAM](https://github.com/facebookresearch/RAM)**  A framework to study AI models in Reasoning, Alignment, and use of Memory (RAM).
+- **[ejentum-mcp](https://github.com/ejentum/ejentum-mcp)**  Reasoning harness exposed as MCP server and 12 native framework integrations. Four agentic tools (reasoning, code, anti-deception, memory) the agent calls during its loop; each returns a structured cognitive scaffold (named failure pattern, executable procedure, suppression vectors, falsification test) the model reads internally. Paper: ["Under Pressure" (Zenodo 2026)](https://doi.org/10.5281/zenodo.19392715).
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">

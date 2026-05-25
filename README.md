@@ -199,6 +199,12 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
+### 2026
+
+1. **[Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models.](https://arxiv.org/abs/2605.17672)** [[code](https://github.com/giovanni-vaccarino/PUMA)]
+
+    *Dehai Min, Giovanni Vaccarino, Huiyi Chen, Yongliang Wu, Gal Yona, Lu Cheng.* Preprint'26
+
 ### 2025
 
 1. **[JudgeLRM: Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050)**

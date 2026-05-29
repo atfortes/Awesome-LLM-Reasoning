@@ -708,7 +708,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 
 ## Other Useful Resources
-
+- [A3M Router](https://github.com/Das-rebel/a3m-router) - #1 LLM routing benchmark & cheapest router with memory. 47+ providers, parallel execution, ensemble voting. ([RouterArena #1](https://github.com/RouteWorks/RouterArena/pull/113))
 
 
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.

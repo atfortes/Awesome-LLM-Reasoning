@@ -713,6 +713,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - **[LLM Reasoners](https://github.com/Ber666/llm-reasoners)**  A library for advanced large language model reasoning.
+- **[REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute)** - Apache-2.0 benchmark for scientific critique and epistemic calibration on recent (2025-2026) science paper summaries; separates critique skill from uncertainty honesty, flaw discrimination, and planted-flaw detection ([technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md), [leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard)).
 - **[Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub)**  Benchmarking LLM reasoning performance with chain-of-thought prompting.
 - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - **[ThoughtSource](https://github.com/OpenBioLink/ThoughtSource)**  Central and open resource for data and tools related to chain-of-thought reasoning in large language models.

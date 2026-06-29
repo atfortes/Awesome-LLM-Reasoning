@@ -751,6 +751,8 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 
 
+- [OpenRuna](https://www.openruna.com/hubs/llm-evals) — Searchable catalog of LLM reasoning benchmarks and evals with graph links to tools and prompts.
+
 ## Contributing
 
 - Add a new paper or update an existing paper, thinking about which category the work should belong to.

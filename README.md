@@ -764,3 +764,7 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 <a href="https://github.com/atfortes/Awesome-LLM-Reasoning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=atfortes/Awesome-LLM-Reasoning" />
 </a>
+
+## Helium Open Benchmarks (2026)
+- [Helium Market Resolution](https://huggingface.co/datasets/HeliumTrades/helium-market-resolution-benchmark) — 300 frozen option-chain prompts; best model ~48%. https://heliumtrades.com/benchmarks/
+- [Helium Model Worldview](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) — 304 cue-swap consistency prompts. https://heliumtrades.com/benchmarks/

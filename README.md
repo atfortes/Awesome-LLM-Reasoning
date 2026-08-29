@@ -199,6 +199,12 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 <h3 id="llm">🔤 Reasoning in Large Language Models - <i>An Emergent Ability</i></h3>
 
+### 2026
+
+1. [Graph of States: Solving Abductive Tasks with Large Language Models.](https://arxiv.org/abs/2603.21250) [[project](https://luoyu100.github.io/projects/graph-of-states/project/)] [[code](https://github.com/gaorch85/Graph-of-States)]
+
+Yu Luo, Rongchen Gao, Lu Teng, Xidao Wen, Jiamin Jiang, Qingliang Zhang, Yongqian Sun, Shenglin Zhang, Jiasong Feng, Tong Liu, Wenjie Zhang, Dan Pei. ICML'26
+
 ### 2025
 
 1. **[JudgeLRM: Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050)**

@@ -201,6 +201,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2025
 
+1. **[TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models.](https://arxiv.org/abs/2509.23140)**
+
+    *Song Jin, Juntian Zhang, Ruyu Lyu, Yong Liu, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, Rui Yan.* EMNLP'26 (Main Conference)
+
 1. **[JudgeLRM: Large Reasoning Models as a Judge.](https://arxiv.org/abs/2504.00050)**
 
     *Nuo Chen, Zhiyuan Hu, Qingyun Zou, Jiaying Wu, Qian Wang, Bryan Hooi, Bingsheng He.* Preprint'25

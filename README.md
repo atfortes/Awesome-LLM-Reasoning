@@ -557,6 +557,12 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### <h3 id="mllm">🧠 Multimodal Reasoning in Large Language Models<h3/>
 
+### 2026
+
+1. **[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning.](https://arxiv.org/abs/2601.23224)** [[code](https://github.com/MCG-NJU/Video-o3)]
+
+    *Xiangyu Zeng, Zhiqiu Zhang, Yuhan Zhu, Xinhao Li, Zikang Wang, Changlian Ma, Qingyu Zhang, Zizheng Huang, Kun Ouyang, Tianxiang Jiang, Ziang Yan, Yi Wang, Hongjie Zhang, Yali Wang, Limin Wang.* ICML'26
+
 ### 2025
 
 1. **[Introducing Visual Perception Token into Multimodal Large Language Model.](https://arxiv.org/abs/2502.17425)** [[code](https://github.com/yu-rp/VisualPerceptionToken)] [[model](https://huggingface.co/collections/rp-yu/vpt-models-67b6afdc8679a05a2876f07a)] [[dataset](https://huggingface.co/datasets/rp-yu/VPT_Datasets)]

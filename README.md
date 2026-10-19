@@ -557,6 +557,12 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### <h3 id="mllm">🧠 Multimodal Reasoning in Large Language Models<h3/>
 
+### 2026
+
+1. **[Reasoning with Image Generation.](https://arxiv.org/abs/2609.16409)** [[project](https://hector.gr/reimagin/)]
+
+    *Nishad Singhi, Hector Garcia Rodriguez, Aditya Arora, Marcus Rohrbach, Anna Rohrbach.* Preprint'26
+
 ### 2025
 
 1. **[Introducing Visual Perception Token into Multimodal Large Language Model.](https://arxiv.org/abs/2502.17425)** [[code](https://github.com/yu-rp/VisualPerceptionToken)] [[model](https://huggingface.co/collections/rp-yu/vpt-models-67b6afdc8679a05a2876f07a)] [[dataset](https://huggingface.co/datasets/rp-yu/VPT_Datasets)]

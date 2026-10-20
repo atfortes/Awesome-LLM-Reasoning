@@ -91,6 +91,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ### 2025
 
+1. **[Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation.](https://arxiv.org/abs/2510.04265)** [[code](https://github.com/mohsenhariri/scorio)]
+
+    *Mohsen Hariri, Amirhossein Samandar, Michael Hinczewski, Vipin Chaudhary.* ICLR'26
+
 1. **[New Trends for Modern Machine Translation with Large Reasoning Models.](https://arxiv.org/abs/2503.10351)**
 
     *Sinuo Liu, Chenyang Lyu, Minghao Wu, Longyue Wang, Weihua Luo, Kaifu Zhang, Zifu Shang.* Preprint'25

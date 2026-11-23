@@ -89,6 +89,12 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
 ## Analysis
 
+### 2026
+
+1. **[More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs.](https://huggingface.co/papers/2611.17610)** [[code](https://github.com/mahmoudsajjadi/pace)] [[demo](https://huggingface.co/spaces/sajjadi/pace-studio)]
+
+    *Seyed Mahmoud Sajjadi Mohammadabadi.* Preprint'26
+
 ### 2025
 
 1. **[New Trends for Modern Machine Translation with Large Reasoning Models.](https://arxiv.org/abs/2503.10351)**

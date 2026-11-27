@@ -343,6 +343,10 @@ If you would like to test the symbolic reasoning ability of LLMs, take a look at
 
     *Huaiyuan Ying, Shuo Zhang, Linyang Li, Zhejian Zhou, Yunfan Shao, Zhaoye Fei, Yichuan Ma, Jiawei Hong, Kuikun Liu, Ziyi Wang, Yudong Wang, Zijian Wu, Shuaibin Li, Fengzhe Zhou, Hongwei Liu, Songyang Zhang, Wenwei Zhang, Hang Yan, Xipeng Qiu, Jiayu Wang, Kai Chen, Dahua Lin.* Preprint'24
 
+1. **[More Agents Is All You Need.](https://arxiv.org/abs/2402.05120)** [[code](https://github.com/MoreAgentsIsAllYouNeed/AgentForest)]
+
+    *Junyou Li, Qin Zhang, Yangbin Yu, Qiang Fu, Deheng Ye.* TMLR'24
+
 1. **[Self-Discover: Large Language Models Self-Compose Reasoning Structures.](https://arxiv.org/abs/2402.03620)**
 
     *Pei Zhou, Jay Pujara, Xiang Ren, Xinyun Chen, Heng-Tze Cheng, Quoc V. Le, Ed H. Chi, Denny Zhou, Swaroop Mishra, Huaixiu Steven Zheng.* Preprint'24
